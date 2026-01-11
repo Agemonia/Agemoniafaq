@@ -3,14 +3,10 @@
 # **AGEMONIA FAQ - UNOFFICIAL**
 
 *Last Updated 2026-01-011*
-### Introduction
-This is an unofficial FAQ created with a collection of questions taken from BGG and the Agemonia Discord, with the majority of the answers coming directly from the game’s designers. Please use your in-browser Find function to locate answers to specific questions.
-### Spoilers
-This FAQ may contain spoilers. Spoiler tags have been added as best as possible to avoid spoilers. Please note that your in-browser Find function can also find words behind spoiler tags on this page.
 
 **For information about this FAQ, see <a href="#page_0">Section 0</a>**
 
-1. <a href="#page_01">General</a>
+1. <a href="#page_1">General</a>
 1. <a href="#page_2">Conditions</a>
 1. <a href="#page_3">Professions</a>
 1. <a href="#page_4">Talents & Rituals (add-on card pack)</a>
@@ -32,7 +28,20 @@ This FAQ may contain spoilers. Spoiler tags have been added as best as possible 
 
 <div class="divider"></div>
 
-##  <a name="page_01" class="page-number">1.0</a> General
+##  <a name="page_0" class="page-number">0</a> Introduction
+
+### Introduction
+This is an unofficial FAQ created with a collection of questions taken from BGG and the Agemonia Discord, with the majority of the answers coming directly from the game’s designers. Please use your in-browser Find function to locate answers to specific questions.
+### Spoilers
+This FAQ may contain spoilers. Spoiler tags have been added as best as possible to avoid spoilers. Please note that your in-browser Find function can also find words behind spoiler tags on this page.
+### Official Errata
+You can find the official errata documents here: 
+### Additional Resources
+You can find...
+
+<div class="divider"></div>
+
+##  <a name="page_1" class="page-number">1.0</a> General
 
 **When leveling up, do any uncompleted Scenarios from the previous levels get removed from the scenario pool or can they still be completed at the higher level?** When leveling up, the previous level’s scenarios (non-experience ones) do not get removed and may still be attempted even at a higher level. 
 
