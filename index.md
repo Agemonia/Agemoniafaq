@@ -3,6 +3,10 @@
 # **AGEMONIA FAQ - UNOFFICIAL**
 
 *Last Updated 2026-01-011*
+### Introduction
+This is an unofficial FAQ created with a collection of questions taken from BGG and the Agemonia Discord, with the majority of the answers coming directly from the game’s designers. Please use your in-browser Find function to locate answers to specific questions.
+### Spoilers
+This FAQ may contain spoilers. Spoiler tags have been added as best as possible to avoid spoilers. Please note that your in-browser Find function can also find words behind spoiler tags on this page.
 
 **For information about this FAQ, see <a href="#page_0">Section 0</a>**
 
@@ -25,36 +29,6 @@
    1. <a href="#page_87">"Astral"</a>
    1. <a href="#page_88">"Meteor"</a>
 1. <a href="#page_11">Puzzle Book</a>
-
-<div class="divider"></div>
-
-## <a name="page_0" class="page-number">0.0</a> Introduction
-
-This is the official FAQ for Frosthaven. It will be continuously updated as more questions are added and existing answers are clarified.  Please use your in-browser Find function to locate answers to specific questions. The previous [FAQ on the BoardGameGeek Frosthaven forum](https://boardgamegeek.com/thread/3001013/official-faq-for-frosthaven-no-rules-questions-ple) will no longer be updated, but that thread can still be used to notify me of necessary FAQ entries. When possible or necessary, I will also post changelogs with explanations in that thread.
-
-<div class="divider"></div>
-
-### 0.1 Spoilers
-
-I follow official spoiler rules in this FAQ. I will spoiler-tag all locked content, and refer to locked game contents by their locked class nickname, envelope/building number, scenario number, or item number. Note that starting buildings, all cards for starter classes (including higher level cards), scenarios 0-1, Personal Quests 01-10, starting items, and abilities/statistics for common monsters are not spoilers, and will not be treated as such. Please note that your in-browser Find function can also find words behind spoiler tags on this page.
-
-<div class="divider"></div>
-
-### 0.2 About Me
-
-I am Bill (or dwarf74/dwarfSA in most places). I maintain the official FAQs for Cephalofair, and am also a moderator of Reddit’s /r/Gloomhaven. I'd like to give special thanks to general_cgo, gripeaway, and Nikki Valens for their help.
-
-<div class="divider"></div>
-
-### 0.3 How to Ask Questions, and Helpful Links
-
-Most of these questions were asked by the community. If you have a question that you can't find the answer to, I recommend starting there. Frosthaven has an active, knowledgable, and passionate group of fans who will be happy to help you out. While none of these communities are directly affiliated with Cephalofair, I am active on all three and will be notified when something needs added. Any of the three can work; use whichever is most appealing to you.
-
-- [/r/Gloomhaven](https://www.reddit.com/r/Gloomhaven/) - The Gloomhaven Subreddit is for Gloomhaven, Frosthaven, and Jaws of the Lion. Spoilers are strictly moderated. There is a pinned "Small Questions" thread, or you can start your own for bigger questions.
-- [BoardGameGeek Frosthaven Forums](https://boardgamegeek.com/boardgame/295770/frosthaven/forums/0) - Another active forum, and the previous home of this FAQ. Spoiler tags are appreciated, but are completely unmoderated.
-- [Frosthaven Outpost-Gloomhaven Town Discord Server](http://discord.gg/hPrwrm2) - The Frosthaven Outpost is very active, and a great place to get quick responses to questions. Spoilers are well-moderated in general channels, and there are special opt-in open spoiler channels for locked classes or for the whole campaign.
-- [Gloomhaven Second Edition FAQ](https://cephalofairgames.github.io/gloomhaven2e-faq/) for that game
-- Ekasalys has made a French-language FAQ for errata specific to that localization. [Pour un errata de la version française, cliquez sur ce lien](https://gvigne.github.io/frosthaven-french-faq/)
 
 <div class="divider"></div>
 
