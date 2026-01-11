@@ -58,61 +58,71 @@ Most of these questions were asked by the community. If you have a question that
 
 ![divider](/assets/images/divider.png)
 
-##  <a name="page_01" class="page-number">1.0</a> First Printing Production Errors and Typos
+##  <a name="page_01" class="page-number">1.0</a> General
 
-- Envelopes 24, 37, 44, 85, and 90 have the wrong rule sticker numbers printed inside the flap of the envelope.
-  - Envelope 24 should list sticker 10
-  - Envelope 37 should list stickers 11 and 13
-  - Envelope 44 should list stickers 12 and 14
-  - Envelope 85 should list sticker 15
-  - Envelope 90 should list stickers 1, 5, 8, and 9
-- There is a deck of cards in envelope 81 whose order should be reversed. If you pull it out and the visible card is titled "T___ of W___", reverse the order of the deck so that card is the first drawn when the deck is face-down.
-- Town Guard Cards 1451 and 1452 should be "+2 material resources"
-- Winter road event WR-47 (back) - In the first A outcome, "winter road deck" should be "summer road deck". In the B outcome, "Remove event WR-47 from the winter road deck" should be "Remove event SR-49 from the summer road deck".
-- Three monster cards have misprints: 
-  - Chaos Demon’s “Chilling Breath” is missing the Retaliate value on elemental consumption. It should be Retaliate 2, Range 2.
-  - Savvas Icestorm’s “Frozen Shell” has an incorrect Earth consumption. It should be Ice consumption.
-  - Elite Wind Demon Level 0 should have Move 3.
-- The flowcharts have some errors. In all cases, the Scenario Book’s requirements are correct and should be followed.
-  - On flowchart 1, scenario 10 should have a sled icon.
-  - On flowchart 2, scenario 22 should have a boat icon and scenario 42 should have a boat icon.
-  - On flowchart 3, scenarios 50, 54, 49, 53, and 60 are missing boat icons.
-  - On flowchart 5, scenario 132 should have a climbing gear icon.
-  - Scenarios 25 and 26 are exclusive but missing Lockout circles.
-- Many character sheets in early print runs have a weird typesetting issue with “fi” as in the beginning of “first”
-- Scenario 0, Section 197.1 has outdated descriptions and names of some cards. 
-- Scenario 17, Section 25.3  - instead of Door 3 opening Section 62.3, this should read Door 1.
-- Scenario 18 - Map layout and map: The right 11 tile should be 11-C.
-- Scenario 28 - Archers should spawn at **D** and Guards at **E**. The exit hexes are likewise swapped.
-- Scenario 36/37 - Add the blueprint for Item 067 to the Scenario Rewards
-- Scenario 37 - Treasure Chest should be 56
-- Scenario 60 should have Item 224 as a scenario reward
-- Scenario 70 has two Random Items on the Loot Deck. This is a typo; there should be 1.
-- Scenario 71, Section 111.2 - Map: Lurker Soldier should be Lurker Clawcrusher
-- Scenario 72, Section 132.2 - The cabinets (or snow rocks in some versions) cannot be relocated or destroyed, except via the scenario mechanics.
-- Scenario 78 has a tricky map issue - Change the Map Layout image, flipping 13-D and 13-B in that image (and also flipping 13-B in the map depiction on the intro page).
-- Scenario 104 - Second to last line of the special rules: "Ice Wraith" should be "Savvas Icestorm"
-- Scenario 104, Section Book 14.2 - Map: Ice Wraith should be Frost Demon
-- Scenario 110 - the water hexes are difficult terrain, not corridor. 
-- Scenario 111 - The door positions from Section 182.2 are correct. Section 138.2 should link to Section 147.2.
-- Scenario 113, Section 154.1 - Map: Black Imp should be Forest Imp
-- Scenario 125 Door 2 is different in sections 158.4 and 108. Don't move it after opening. 
-- Scenario 130 Key - Shrike Fiend has an image of Night Demon
-- Section Book 137.3 - This should add Section 5.1, not 159.2
-- Solo Book p13 - Special rules: "Snowspeaker" should be "Icespeaker"
-- Rulebook p30 - add the following to the end of Active Bonuses - "Cards without lost icons in your active area count as being in your discard pile for the purposes of whether you can long rest and what is eligible to lose during a long rest, but don't have to be returned to your hand when resting."
-- Rulebook p33 - Recover is not a targeted effect.
-- Rulebook Appendix F (pg 79) <span class="hidden">"Wealth" now costs 2 points, not 1.</span>
-- Boss Stat Card for Render - All instances of "totem" should be "carving". 
-- Puzzle Book p4 The 6th character on the bottom row is missing a dot. 
-- Puzzle Book p26 There is an extraneous dot on the letter to the lowest left. It's not a clue.
-- Item 049 - This item is missing a Spent symbol. 
-- Item 225 - This item is a 1-hand slot item, not a chest item.
-- Building 74 Level 3 <span class="hidden">This should have a requirement to build of already having 3 coins.</span>
-- Geminate Level 2 Card Locust Host (top) has an incorrect Round Bonus icon. It can be disregarded.
-- The following scenarios are exceeding counts for some overlay tiles: Scenario 17 (needs 5 pressure plates), Scenario 45 (only 2 barrels in game), 52 (6 Snow Rocks, only 5 in the box), 83 (too many dungeon corridors), 109 (6 single debris tiles, only 5 in the box), and 120 (only 2 barrels in game). Thanks to waitepb for collecting these and sending them to me.
+**When leveling up, do any uncompleted Scenarios from the previous levels get removed from the scenario pool or can they still be completed at the higher level?** When leveling up, the previous level’s scenarios (non-experience ones) do not get removed and may still be attempted even at a higher level. 
 
-**Bonus** - If you think you are missing **two boss standees, FF and SD**, you are probably not. It will become clear when you need them.
+**If an Ally defeats an enemy with Revenge, do you still take the revenge damage?** Yes, but the damage is limited to the amount of health it had remaining (ex: If you did 7 dmg to an enemy with 3 health left, you would only take 3 revenge damage).
+
+**During a multi-stage attack, will Inspiration Gems or other bonuses increase the damage/dice or each attack?** No, Inspiration Gems and other similar bonuses only affect one attack. 
+
+**Do enemy shields reduce the attack damage from Henchmen, Allies and Pets?** Yes, enemy shields reduce damage from any form of attack (some higher shielded enemies will be particularly resistant to attack damage).
+
+**Which areas are targeted with a Straight Line attack?** The straight line attack starts in an adjacent space (not your own space) and then affects the next X spaces in a straight line of sight from your area. So you have to be able to draw a straight line from your space through the other X spaces (similar to how line of sight works).
+
+**Can you clarify the line of sight rules with areas at different heights?** If there’s a height difference between two areas (imagine a ledge), the character/enemy on the higher area bordering the height symbol has line of sight to the surrounding lower areas and can do an attack/ability (they can see down to surrounding lower areas). This only works if in the area bordering the height symbol. If however they are in an adjacent space (1 or more areas away from the area with the height symbol), they are too far from the ledge and can not see down. And vice-versa, the character/enemy on the lower areas can see up to the higher ledge, but only to the area that is bordering the height symbol (the edge of the ledge).
+
+**If an area is at max capacity containing only Allies, and there are Enemies with Provoke adjacent, would an Ally who moves out to an adjacent empty area still take provoke damage because the enemy is considered in melee range?** No, while adjacent enemies can attack into your max capacity area, their provoke effects do not apply unless they have ranged provoke. 
+
+**Do Enemies that are spawned mid-round still apply their provoke abilities?** Yes.
+
+**Do Enemies adjacent to areas at full capacity cause Allies to be hindered?** No, they do not cause you to be hindered if they are not in your area (and therefore do not outnumber the allies in that area).
+
+**Do large or huge enemies count as 2 or 3 enemies for the purpose of the Hindered Rule?** No, large and huge enemies are still considered as a single enemy for the purpose of being hindered. 
+
+**For Group Ability Checks that allow you to choose an ability, does each Hero have to use the same ability when rolling, or can each Hero choose an ability (their strongest) to roll?** Each Hero may choose whatever ability they like (most likely their strongest).
+
+**If an area has no capacity at all, is it possible to jump/teleport over it?** Yes, but only if the area has single or double white lines. You may not pass through solid barriers (red line borders).
+
+**When an Enemy has an attack with damage and a push/pull effect, does it have to inflict some damage to trigger push/pull (as if push/pull was a condition)?** No, the push/pull will happen regardless if damage is inflicted or not.
+
+**Can a Hero wear both a robe and an armor at the same time?** No, they both take up the same ‘armor’ slot which is 1 maximum per Hero.
+
+**During an attack with Drain against a target with Riposte or Revenge, which triggers first?** Drain will happen first, then apply any Riposte or Revenge damage. 
+
+**Are magic attacks made at range 0 always affected by the Obstructed Aim penalty (ex: one Hero and one Enemy in the same area)?** Yes, it is hard to hit someone in your own area (remember this only applies to magic attacks with a range, it does not apply to magic attacks that are area attacks).
+
+**If you're making a ranged attack with another Ally in your area, are they obstructing your aim since the line of sight technically passes through the original area?** No, "passes through" is meant to indicate the areas between the attacker's area and the target's area.
+
+**Do Push/Pull effects trigger Provoke?** No.
+
+**Can a Hero/Enemy do a melee attack across a double white line to an adjacent area that is at max capacity?** Yes, as long as the two areas aren't of different heights.
+
+**How does ranged Provoke work?** Ranged Provoke affects any Ally that moves out of ANY area within the provoke range of an Enemy (must also be in the Enemy’s line of sight). This means it can trigger moving towards, moving away, or moving around an Enemy. Keep in mind that an Ally may only suffer Provoke damage from the same Enemy once during their turn. 
+
+	Ranged Provoke Example: Archer has a provoke with range 1. The player:
+		A. Moves from range 2 into range 1, doesn't take damage (moving into the provoke range doesn’t cause damage, must be moving out of an area within provoke range)
+		B. Moves from range 1 to another range 1 area, takes damage
+		C. Moves from range 1 into range 0, takes damage
+		D. Moves from range 0 to range 1, takes damage
+		E. Moves from range 1 to range 2, takes damage
+
+**Will enemies avoid traps with their movement (for example to get into attack range)?** No, enemies will not try to avoid traps with their movement.
+
+**If a story card required a maneuver to flip, can I spend the remainder of my current move maneuver to do so?** No, you have to spend an entire maneuver.  
+
+**Are traps considered items?** No.
+
+**Can two Heroes in the same space “share” a weapon and both make an attack with it during the same round (assuming they are not Hindered)?** Yes, weapon item cards could be passed back and forth between Heroes during the same round, just make sure to follow the rules of switching items to active items (one free weapon swap per turn, otherwise it costs 1 maneuver). Also remember, Hero specific items may never be traded, sold or discarded.
+
+**If a Hero avoids taking damage from the Falling reactive check, do they still gain the Slowed condition?** No (see errata or updated rulebook).
+
+**Can the special symbols on active checks (red dice) or reactive checks (blue dice) ever be used for multiple bonuses such as from items or Hero abilities?** No, each special symbol may only be used for 1 effect. The wording on several items and abilities have changed to include “may not use that die for any other purpose” (see 2nd Printing Rulebook, not in errata).
+
+**Can a Hero move into an area at full capacity to perform an active check as long as you don’t end your turn there?** Yes, under the condition that there are no Enemies in said area and you move out on the same turn.
+
+**Can achievement gems be used to give +1 move to movement gained herbs and potions?** No, achievement gems can only be used to add +1 movement to maneuvers and rethink actions.
+
 
 ![divider-narrow](/assets/images/divider2.png)
 
