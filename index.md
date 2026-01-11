@@ -35,6 +35,11 @@
 
 This is the official FAQ for Frosthaven. It will be continuously updated as more questions are added and existing answers are clarified.  Please use your in-browser Find function to locate answers to specific questions. The previous [FAQ on the BoardGameGeek Frosthaven forum](https://boardgamegeek.com/thread/3001013/official-faq-for-frosthaven-no-rules-questions-ple) will no longer be updated, but that thread can still be used to notify me of necessary FAQ entries. When possible or necessary, I will also post changelogs with explanations in that thread.
 
+---
+
+***
+
+
 ![divider](/assets/images/divider2.png)
 
 ### 0.1 Spoilers
