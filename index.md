@@ -40,7 +40,7 @@ My name is Dom and I've created this unofficial FAQ with a collection of questio
 ### Spoilers
 This FAQ may contain spoilers. Spoiler tags have been added as best as possible to avoid spoilers. Please note that your in-browser Find function can also find words behind spoiler tags on this page.
 ### Agemonia Printings & Official Errata
-There are 3 printings of Agemonia (1st, 2nd, 3rd) and each has official errata (the later printings have more fixes).
+There are 3 printings of Agemonia (1st, 2nd, 3rd) and each has official errata (the later printings have less fixes).
 The official errata documents for all 3 printings can be found here: [Agemonia Resources](https://agemonia.com/resources/)
 ### Additional Resources
 You can find lots of great stuff in the [BGG Files](https://boardgamegeek.com/boardgame/270871/agemonia/files)
