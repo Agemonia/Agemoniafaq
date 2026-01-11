@@ -100,7 +100,7 @@ Most of these questions were asked by the community. If you have a question that
 
 **How does ranged Provoke work?** Ranged Provoke affects any Ally that moves out of ANY area within the provoke range of an Enemy (must also be in the Enemy’s line of sight). This means it can trigger moving towards, moving away, or moving around an Enemy. Keep in mind that an Ally may only suffer Provoke damage from the same Enemy once during their turn. 
 
-Ranged Provoke Example: Archer has a provoke with range 1. The player:
+**Ranged Provoke Example:** Archer has a provoke with range 1. The player:
 	A. Moves from range 2 into range 1, doesn't take damage (moving into the provoke range doesn’t cause damage, must be moving out of an area within provoke range)
 	B. Moves from range 1 to another range 1 area, takes damage
 	C. Moves from range 1 into range 0, takes damage
