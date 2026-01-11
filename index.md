@@ -317,14 +317,12 @@ You can find...
 
 <details>
 <summary><b>Scenario 3</b></summary>
-
 <p><b>If Storycard Z is flipped to its overlay side, which removes Story Point Z from the map, can a Hero still use Storycard H to drop down to Story Point Z (which no longer exists)?</b> - <span class="hidden"> Probably? Confirm?.</span></p>
 </details>
 <br>
 
 <details>
 <summary><b>Scenario 4</b></summary>
-
 <p><b>When exactly should the first timer begin? Is the Fate card from the end of round 2 used as the first card for the timer?</b> - <span class="hidden">The first Fate card to go in the timer pile is the one revealed at the end of round 3 (the first Raid card is revealed and resolved at the end of round 2 which instructs you to start a timer).</span></p>
 <p><b>Can Heroes or Enemies make ranged or magic attacks through the crates?</b> - <span class="hidden">Yes, ranged and magic attacks can be made through double white lines as they do not block line of sight (thematically think of the crates as being waist high).</span></p>
 <p><b>If I gain an ally during the scenario, do I keep it for the next scenario?</b> - <span class="hidden">No, you only keep an ally at the end of a scenario if it is mentioned in the conclusion.</span></p>
@@ -333,29 +331,37 @@ You can find...
 
 <details>
 <summary><b>Scenario 5</b></summary>
-
 <p><b>Can Heroes pick up Nightfinger mushrooms during their move maneuvers?</b> - <span class="hidden">Yes, you can pick them up in the middle of your move, and then continue that movement.</span></p>
 <p><b>Will the Zlohian enemies focus more on the Nightfinger mushrooms than the Allies? If the enemy is in the same area as an Ally, will it still move towards the closest Nightfinger? Does it attack first then move?</b> - <span class="hidden">Moving always happens before attacking, and its number one priority is the closest Nightfinger mushroom, therefore the enemy will move first towards the closest Nightfinger, potentially moving away from an Ally. After moving, the enemy will attack only if there’s still an Ally within attack range.</span></p>
 </details>
 <br>
 
-### Scenario 6:
-**Do you keep the Orb item if you succeed in the scenario?** No, you need to discard it when you activate the device in the middle of the vault.
+<details>
+<summary><b>Scenario 6</b></summary>
+<p><b>If a Revenant is defeated, how many turns until he gets placed back on the scenario map?</b> - You only get 1 full round before the Revenant spawns again. One token will be placed at the end of the same turn it’s defeated, then the 2nd token will be placed at the end of the next turn, therefore spawning the Revenant again for the following round. Hint: <span class="hidden">This scenario is all about timing.</span></p>
+<p><b>Do you keep the Orb item if you succeed in the scenario?</b> - <span class="hidden">No, you need to discard it when you activate the device in the middle of the vault.</span></p>
+</details>
+<br>
 
-**If a Revenant is defeated, how many turns until he gets placed back on the scenario map?** You only get 1 full round before the Revenant spawns again. One token will be placed at the end of the same turn it’s defeated, then the 2nd token will be placed at the end of the next turn, therefore spawning the Revenant again for the following round. Hint: This scenario is all about timing.
+<details>
+<summary><b>Scenario 7</b></summary>
+<p><b>Can a Hero push or pull the Arcane Golem outside of the temple walls?</b> - Yes, that’s allowed, but as the special movement rules states, the Golem would then move back towards an Ally inside the temple walls.
+</details>
+<br>
 
-### Scenario 7: 
-**Can a Hero push or pull the Arcane Golem outside of the temple walls?** Yes, that’s allowed, but as the special movement rules states, the Golem would then move back towards an Ally inside the temple walls.
+<details>
+<summary><b>Scenario 8</b></summary>
+<p><b>How much health does the Bloodrock start with?</b> - The Bloodrock starts with 10x the number of Heroes plus an additional 10 health. The damage symbol (red circle with white down arrow) does not mean damage in this case.
+<p><b>How exactly do ranged and magic attacks work when a Hero/Enemy is standing in a Sapfir Tree area? Can they ever be targeted or attacked?</b> - A Hero/Enemy standing in a Sapfir can not be attacked by ranged or magic attack from another area. They can still be targeted and moved towards as normal, and if the attacker were to enter the same Sapfir Tree area (if the capacity allows it), then the attacker could attack with its ranged or magic attack.
+</details>
+<br>
 
-### Scenario 8:
-**How much health does the Bloodrock start with?** The Bloodrock starts with 10x the number of Heroes plus an additional 10 health. The damage symbol (red circle with white down arrow) does not mean damage in this case.
-
-**How exactly do ranged and magic attacks work when a Hero/Enemy is standing in a Sapfir Tree area? Can they ever be targeted or attacked?** A Hero/Enemy standing in a Sapfir can not be attacked by ranged or magic attack from another area. They can still be targeted and moved towards as normal, and if the attacker were to enter the same Sapfir Tree area (if the capacity allows it), then the attacker could attack with its ranged or magic attack.
-
-### Scenario 9: 
-**Story card C 'A Marked Tree' – does this require the Hero who has 'You have discovered some markings' or is everyone in the party considered to have discovered the markings?** Everybody in the party is considered to have discovered it.
-
-**If two Heroes are in the same area with an intact Wisptree, and the Benaethid performs his bottom area attack, do both Heroes ignore the attack and then the tree is destroyed?** Yes, both ignore the attack.
+<details>
+<summary><b>Scenario 9</b></summary>
+<p><b>Story card C 'A Marked Tree' – does this require the Hero who has 'You have discovered some markings' or is everyone in the party considered to have discovered the markings?</b> - Everybody in the party is considered to have discovered it.
+<p><b>If two Heroes are in the same area with an intact Wisptree, and the Benaethid performs his bottom area attack, do both Heroes ignore the attack and then the tree is destroyed?</b> - Yes, both ignore the attack.
+</details>
+<br>
 
 **Scenario 10: Does a Tussock replace a water area?** No, an area with a Tussock still can be entered as a water area (that’s why there’s an active check to lift yourself up onto the Tussock from the water in the same area). Tussocks simply float on the water area and can be considered as normal ground when standing upon them.
 
