@@ -13,8 +13,10 @@
 1. <a href="#page_5">City Step</a>
 1. <a href="#page_6">Pets</a>
 1. <a href="#page_7">Item Cards</a>
-1. <a href="#page_8">Scenario General Questions</a>
-1. <a href="#page_9">Scenario Specific Questions</a>
+1. <a href="#page_8">Henchman & Non-Hero Allies</a>
+1. <a href="#page_9">Scenarios</a>
+   1. <a href="#page_9.1">Scenarios (General)</a>
+   1. <a href="#page_9.2">Scenarios (Specific)</a>
 1. <a href="#page_10">Heroes (General)</a>
    1. <a href="#page_10.1">Torrax</a>
    1. <a href="#page_10.2">Venia</a>
@@ -156,7 +158,7 @@ You can find...
 
 <div class="divider"></div>
 
-## <a name="page_4" class="page-number">4.0</a> City Step:
+## <a name="page_5" class="page-number">5.0</a> City Step:
 
 **Can you please clarify the order of the City steps?**
 - Each Hero may visit as many locations as they want and use the services.
@@ -181,7 +183,7 @@ You can find...
 
 <div class="divider"></div>
 
-## <a name="page_5" class="page-number">5.0</a> Pets:
+## <a name="page_6" class="page-number">6.0</a> Pets:
 
 **Do all pets have a figure/standee?** No, some pets are simply item cards (thematically these pets are just held on your Hero’s shoulder), while others have a figure which can be placed on the map and moved around (the pets with a figure will have a corresponding standee shown on the pet card).
 
@@ -202,20 +204,6 @@ You can find...
 **Item card 072 <span class="hidden">Ophira: How many rerolls are allowed?** Rerolls may happen multiple times during the same active or reactive check, there is no limit on rerolls. You may keep rerolling all special symbols until you get a result that isn’t a special symbol (although occasionally you may want to stop rerolling to use the special symbol to get 2 successes with stamina from a red die, or an armor effect from a blue die).</span>
 
 **Item card 072 <span class="hidden">Ophira: Can you use this pet to reroll dice in King of Thieves?** No, Ophira only works with active/reactive ability checks or attack rolls.</span>
-
-<div class="divider"></div>
-
-## <a name="page_6" class="page-number">6.0</a> Henchman & Non-Hero Allies:
-
-**Can Henchmen or Non-Hero Allies do Active Ability checks on Story cards?** No, Henchmen cannot do optional active ability checks on story cards.
-
-**Can Henchmen or Non-Hero Allies use Hook & Rope tokens?** Yes, they have ability stats on the bottom of their Henchmen cards.
-
-**Does the Weakened condition affect the attacks of Henchmen or Non-Hero Allies?** No, since they don’t roll any dice for their attacks. Weakened could however affect their roll on an active check.
-
-**Does the Cursed condition affect Henchmen or Non-Hero Allies?** No, it does nothing since they don’t have any stamina to spend.
-
-**Does the Vespir Ally always have Fly or does it take an action to activate?** It always has Fly.
 
 <div class="divider"></div>
 
@@ -285,7 +273,23 @@ You can find...
 
 <div class="divider"></div>
 
-## <a name="page_8" class="page-number">8.0</a> Scenario General Questions:
+## <a name="page_8" class="page-number">8.0</a> Henchman & Non-Hero Allies:
+
+**Can Henchmen or Non-Hero Allies do Active Ability checks on Story cards?** No, Henchmen cannot do optional active ability checks on story cards.
+
+**Can Henchmen or Non-Hero Allies use Hook & Rope tokens?** Yes, they have ability stats on the bottom of their Henchmen cards.
+
+**Does the Weakened condition affect the attacks of Henchmen or Non-Hero Allies?** No, since they don’t roll any dice for their attacks. Weakened could however affect their roll on an active check.
+
+**Does the Cursed condition affect Henchmen or Non-Hero Allies?** No, it does nothing since they don’t have any stamina to spend.
+
+**Does the Vespir Ally always have Fly or does it take an action to activate?** It always has Fly.
+
+<div class="divider"></div>
+
+## <a name="page_9" class="page-number">9.0</a> Scenarios:
+
+### <a name="page_9.1" class="page-number">9.1</a> Scenarios (General):
 
 **Some scenario cards contain a symbol with the letters A/B/C/D/E in the Journey steps. What are those?** These are special locations (shown on the Campaign map as A/B/C/D/E symbols). Special locations have ongoing plots and storylines which advance each time you visit the special location.
 
@@ -313,7 +317,7 @@ You can find...
 
 <div class="divider"></div>
 
-## <a name="page_9" class="page-number">9.0</a> Scenario Specific Questions:
+### <a name="page_9.2" class="page-number">9.2</a> Scenarios (Specific):
 
 <details>
 <summary><b>Scenario 3</b></summary>
