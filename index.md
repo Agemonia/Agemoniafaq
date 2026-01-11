@@ -26,7 +26,7 @@ This is an unofficial FAQ created with a collection of questions taken from BGG 
    1. <a href="#page_10.4">Drenosh</a>
    1. <a href="#page_10.5">Matajam</a>
    1. <a href="#page_10.6">Zuva'Sai</a>
-   1. <a href="#page_10.7">"Lunar"</a>
+   1. <a href="#page_10.7">"Lunara"</a>
    1. <a href="#page_10.8">"Garuk"</a>
    1. <a href="#page_10.9">"Xir"</a>
 1. <a href="#page_11">Puzzle Book</a>
@@ -580,67 +580,67 @@ Initiative card is revealed, you may spend 1 stamina to change your Initiative t
 
 **Channel Energy (lvl 1): What kind of rolls does this apply to?** It works on any roll using red or blue dice; attack rolls, action/ability rolls (such as Lunara’s Flash Heal), or any active or reactive check.
 
-**Blades of Wrath (lvl 2 Blademaster): <span class="hidden">Can each attack be made against different targets?** Yes.</span>
+**Blades of Wrath (lvl 2 Blademaster):** <span class="hidden">**Can each attack be made against different targets?** Yes.</span>
 
-**Reactive Attack (lvl 2): <span class="hidden">Can Jonai select this action if all other Heroes are exhausted?** No.</span>
+**Reactive Attack (lvl 2):** <span class="hidden">**Can Jonai select this action if all other Heroes are exhausted?** No.</span>
 
-**Sentinel’s Mark (lvl 3 Aox Hunter): <span class="hidden">How does this work?** If it’s a single target attack against the marked Enemy, simply add an extra die to the attack. If it’s an area attack (or other multi-target attack) only add the extra die to the marked Enemy.</span>
+**Sentinel’s Mark (lvl 3 Aox Hunter):** <span class="hidden">**How does this work?** If it’s a single target attack against the marked Enemy, simply add an extra die to the attack. If it’s an area attack (or other multi-target attack) only add the extra die to the marked Enemy.</span>
 
-**Split in Two (lvl 4 Blademaster): <span class="hidden">Does this double the successes only from the roll, or also includes the weapon modifiers before doubling?** It also includes the modifiers, so add the successes from the 3 dice to any other modifiers (weapon, etc.) and then double them!</span>
+**Split in Two (lvl 4 Blademaster):** <span class="hidden">**Does this double the successes only from the roll, or also includes the weapon modifiers before doubling?** It also includes the modifiers, so add the successes from the 3 dice to any other modifiers (weapon, etc.) and then double them!</span>
 
-**Item card 157 <span class="hidden">Ethereal Crown</span> or Item card 158 <span class="hidden">Breachwalker Crown: Do these use up the helmet slot?** Those items do not use up the helmet slot as they are just ethereal projections.</span>
+**Item card 157** <span class="hidden">**Ethereal Crown**</span> **or Item card 158** <span class="hidden">**Breachwalker Crown: Do these use up the helmet slot?** Those items do not use up the helmet slot as they are just ethereal projections.</span>
 
-**Hero Book - ‘Fight Crime’ City Activity: <span class="hidden">If another Hero spends Star do they do a separate roll or just add +1 to Jonai’s?** Entry 42 explains this. Everybody rolls a separate roll (+1 to everybody).</span>
+**Hero Book - ‘Fight Crime’ City Activity:** <span class="hidden">**If another Hero spends Star do they do a separate roll or just add +1 to Jonai’s?** Entry 42 explains this. Everybody rolls a separate roll (+1 to everybody).</span>
 
 ### <a name="page_10.4" class="page-number">10.4</a> Drenosh
 
-**Fiery soul (Pyroblade skill): <span class="hidden">Will this trigger if a bleed applied by Drenosh kills an enemy (does it count as being defeated by Drenosh)?** No, as bleeding damage is not specific to the Hero who applied it.</span>
+**Fiery soul (Pyroblade skill):** <span class="hidden">**Will this trigger if a bleed applied by Drenosh kills an enemy (does it count as being defeated by Drenosh)?** No, as bleeding damage is not specific to the Hero who applied it.</span>
 
-**Combustion (Pyroblade skill): <span class="hidden">Does this make Fire Blast an area 0 area in addition to range 4?** Yes, Fire Blast becomes a range 4 area 0 attack.</span>
+**Combustion (Pyroblade skill):** <span class="hidden">**Does this make Fire Blast an area 0 area in addition to range 4?** Yes, Fire Blast becomes a range 4 area 0 attack.</span>
 
-**Charge (lvl 2 Marauder): <span class="hidden">Is Jump considered to be movement points for this attack (ex: from Luawa’s Leap Elixir)?** No, only spent movement points.</span>
+**Charge (lvl 2 Marauder):** <span class="hidden">**Is Jump considered to be movement points for this attack (ex: from Luawa’s Leap Elixir)?** No, only spent movement points.</span>
 
-**Hellfire (lvl 4 Pyroblade): <span class="hidden">Can I still add dice to this attack?** Yes, the base attack uses 0 red dice, but you may add more with items or an inspiration gem.</span>
+**Hellfire (lvl 4 Pyroblade):** <span class="hidden">**Can I still add dice to this attack?** Yes, the base attack uses 0 red dice, but you may add more with items or an inspiration gem.</span>
 
-**Chaos Strike (lvl 5 Marauder): <span class="hidden">The Rules Reference description indicates this action applies to both melee and ranged attacks, however the action token only indicates a melee attack. Which is correct?** The action token is correct, this is only a melee attack (updated in errata).</span>
+**Chaos Strike (lvl 5 Marauder):** <span class="hidden">**The Rules Reference description indicates this action applies to both melee and ranged attacks, however the action token only indicates a melee attack. Which is correct?** The action token is correct, this is only a melee attack (updated in errata).</span>
 
-**Item card 131-134 <span class="hidden">Gift of Fire: Can it be used with an item like Cube of Annihilation?** Yes, Gift of Fire works with any attack you make, even if it's with an item like the Cube.</span>
+**Item card 131-134** <span class="hidden">**Gift of Fire: Can it be used with an item like Cube of Annihilation?** Yes, Gift of Fire works with any attack you make, even if it's with an item like the Cube.</span>
 
-**Item card 131-134 <span class="hidden">Gift of Fire: Does it affect multiple attacks like from Flaming Fury?** No, Gift of Fire only affects one attack.</span>
+**Item card 131-134** <span class="hidden">**Gift of Fire: Does it affect multiple attacks like from Flaming Fury?** No, Gift of Fire only affects one attack.</span>
 
 ### <a name="page_10.5" class="page-number">10.5</a> Matajam
 
 **Dancing Blade (lvl 1): Is the move 1 still affected by an enemy's provoke abilities?** Yes.
 
-**Targeting (Ranger skill): <span class="hidden">Can this be used more than once if you have extra maneuvers to spend?** Yes.</span>
+**Targeting (Ranger skill):** <span class="hidden">**Can this be used more than once if you have extra maneuvers to spend?** Yes.</span>
 
-**Insect Swarm (lvl 3 Shaman): <span class="hidden">Is the Swarm’s damage affected by enemies’ shields?** Yes, Insect Swarm is an attack and therefore is reduced by the shield amount (Insect Swarm is great in some scenarios, but not so good in others with high shielded enemies).</span>
+**Insect Swarm (lvl 3 Shaman):** <span class="hidden">**Is the Swarm’s damage affected by enemies’ shields?** Yes, Insect Swarm is an attack and therefore is reduced by the shield amount (Insect Swarm is great in some scenarios, but not so good in others with high shielded enemies).</span>
 
-**Insect Swarm (lvl 3 Shaman): <span class="hidden">Does the Insect Swarm token count as an Ally?** No.</span>
+**Insect Swarm (lvl 3 Shaman):** <span class="hidden">**Does the Insect Swarm token count as an Ally?** No.</span>
 
-**Item card 146 <span class="hidden">Rakka’s Wand: If Matajam makes a ranged attack with a bow and uses a poison arrow, would Rakka’s Wand dice effect be triggered?** No, it would not trigger, as it only applies if you are using the wand for your attack.</span>
+**Item card 146** <span class="hidden">**Rakka’s Wand: If Matajam makes a ranged attack with a bow and uses a poison arrow, would Rakka’s Wand dice effect be triggered?** No, it would not trigger, as it only applies if you are using the wand for your attack.</span>
 
-**Barkskin (Shaman skill): <span class="hidden">Do robes negate the effects of Barkskin or does that count as wearing armor?** No, only armor items (with armor card back) and helm/helmet items negate Barkskin. Robes are loose fitting and therefore work with Barkskin.</span>
+**Barkskin (Shaman skill):** <span class="hidden">**Do robes negate the effects of Barkskin or does that count as wearing armor?** No, only armor items (with armor card back) and helm/helmet items negate Barkskin. Robes are loose fitting and therefore work with Barkskin.</span>
 
-**Barkskin (Shaman skill): <span class="hidden">If I want to receive the effects of Barkskin, does removing your armor/helm item cost a maneuver?** Yes, just like it costs a maneuver to switch to a different armor/helm item.</span>
+**Barkskin (Shaman skill):** <span class="hidden">**If I want to receive the effects of Barkskin, does removing your armor/helm item cost a maneuver?** Yes, just like it costs a maneuver to switch to a different armor/helm item.</span>
 
-**Raging Nalam (lvl 2): <span class="hidden">Can you spend stamina for the special symbols rolled with this attack?** Yes.</span>
+**Raging Nalam (lvl 2):** <span class="hidden">**Can you spend stamina for the special symbols rolled with this attack?** Yes.</span>
 
-**Raging Nalam (lvl 2): <span class="hidden">Can you boost this attack with items, such as item card 107 Amulet of Power?** No, because it is not a melee, ranged or magic attack.</span>
+**Raging Nalam (lvl 2):** <span class="hidden">**Can you boost this attack with items, such as item card 107 Amulet of Power?** No, because it is not a melee, ranged or magic attack.</span>
 
-**Raging Nalam (lvl 2): <span class="hidden">Does attacking an Enemy with Revenge trigger damage to Matajam?** No, Nalam does not transfer triggered effects to Matajam.</span>
+**Raging Nalam (lvl 2):** <span class="hidden">**Does attacking an Enemy with Revenge trigger damage to Matajam?** No, Nalam does not transfer triggered effects to Matajam.</span>
 
-**Twin Shot (lvl 4 Ranger): <span class="hidden">If an arrow or poison is used does the effect apply to both attacks or just one?** No, arrows and poisons only affect 1 attack and since Twin Shot is two separate attacks you’d have to use separate arrows/poisons for each.
+**Twin Shot (lvl 4 Ranger):** <span class="hidden">**If an arrow or poison is used does the effect apply to both attacks or just one?** No, arrows and poisons only affect 1 attack and since Twin Shot is two separate attacks you’d have to use separate arrows/poisons for each.
 
 ### <a name="page_10.6" class="page-number">10.6</a> Zuva’Sai
 
 **What is the Opaque Shape ability?** See errata, this should be renamed as Blurred Form.
 
-**Blurred Form (Telepath skill): <span class="hidden">How many rerolls are allowed with this?** Rerolls may happen multiple times during the same reactive check, there is no limit on rerolls. You may keep rerolling all special symbols until you get a result that isn’t a special symbol (although occasionally you may want to stop rerolling to use the special symbol to get an effect from an armor item).</span>
+**Blurred Form (Telepath skill):** <span class="hidden">**How many rerolls are allowed with this?** Rerolls may happen multiple times during the same reactive check, there is no limit on rerolls. You may keep rerolling all special symbols until you get a result that isn’t a special symbol (although occasionally you may want to stop rerolling to use the special symbol to get an effect from an armor item).</span>
 
-**Exploding Rune (Hydromancer skill): <span class="hidden">The skill description in the Rules Reference says this targets “an Enemy in each of 2 adjacent areas” but the symbol for ‘Adjacent Area Attacks’ is described as “Target all Enemies in 2 adjacent areas”. Which is correct?** The skill’s description is correct, it targets an Enemy in each of 2 adjacent areas.</span>
+**Exploding Rune (Hydromancer skill):** <span class="hidden">**The skill description in the Rules Reference says this targets “an Enemy in each of 2 adjacent areas” but the symbol for ‘Adjacent Area Attacks’ is described as “Target all Enemies in 2 adjacent areas”. Which is correct?** The skill’s description is correct, it targets an Enemy in each of 2 adjacent areas.</span>
 
-**Item card 128 <span class="hidden">Wand of Bekora: Does the teleport ability need to be used with an attack?** No, it’s not connected to the attack. If you have the stamina, you can use the power. No limit on how many times either.</span>
+**Item card 128** <span class="hidden">**Wand of Bekora: Does the teleport ability need to be used with an attack?** No, it’s not connected to the attack. If you have the stamina, you can use the power. No limit on how many times either.</span>
 
 ### <a name="page_10.7" class="page-number">10.7</a> Lunara
 
