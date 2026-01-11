@@ -44,7 +44,7 @@ I follow official spoiler rules in this FAQ. I will spoiler-tag all locked conte
 
 I am Bill (or dwarf74/dwarfSA in most places). I maintain the official FAQs for Cephalofair, and am also a moderator of Reddit’s /r/Gloomhaven. I'd like to give special thanks to general_cgo, gripeaway, and Nikki Valens for their help.
 
-![divider](/assets/images/divider2.png)
+<div class="divider"></div>
 
 ### 0.3 How to Ask Questions, and Helpful Links
 
@@ -100,12 +100,12 @@ Most of these questions were asked by the community. If you have a question that
 
 **How does ranged Provoke work?** Ranged Provoke affects any Ally that moves out of ANY area within the provoke range of an Enemy (must also be in the Enemy’s line of sight). This means it can trigger moving towards, moving away, or moving around an Enemy. Keep in mind that an Ally may only suffer Provoke damage from the same Enemy once during their turn. 
 
-**Ranged Provoke Example:** Archer has a provoke with range 1. The player:
-	A. Moves from range 2 into range 1, doesn't take damage (moving into the provoke range doesn’t cause damage, must be moving out of an area within provoke range)
-	B. Moves from range 1 to another range 1 area, takes damage
-	C. Moves from range 1 into range 0, takes damage
-	D. Moves from range 0 to range 1, takes damage
-	E. Moves from range 1 to range 2, takes damage
+    **Ranged Provoke Example:** Archer has a provoke with range 1. The player:
+       A. Moves from range 2 into range 1, doesn't take damage (moving into the provoke range doesn’t cause damage, must be moving out of an area within provoke range)
+       B. Moves from range 1 to another range 1 area, takes damage
+       C. Moves from range 1 into range 0, takes damage
+       D. Moves from range 0 to range 1, takes damage
+       E. Moves from range 1 to range 2, takes damage
 
 **Will enemies avoid traps with their movement (for example to get into attack range)?** No, enemies will not try to avoid traps with their movement.
 
