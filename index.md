@@ -317,7 +317,6 @@ You can find...
 
 <details>
 <summary><b>Scenario 3</b></summary>
-<p>***</p>
 <p><b>If Storycard Z is flipped to its overlay side, which removes Story Point Z from the map, can a Hero still use Storycard H to drop down to Story Point Z (which no longer exists)?</b> - <span class="hidden"> Probably? Confirm?.</span></p>
 </details>
 <br>
@@ -383,96 +382,134 @@ You can find...
 </details>
 <br>
 
-**Scenario 12: Does the Giant Slime’s melee attack (range 1) activate if no Heroes are within range?** No, the attack only happens if a Hero is within the attack range.
+<details>
+<summary><b>Scenario 12</b></summary>
+<p><b>Does the Giant Slime’s melee attack (range 1) activate if no Heroes are within range?</b> - No, the attack only happens if a Hero is within the attack range.</p>
+<p><b>If the Giant Slime uses its Staring Eye action (Acid Splash) or Closed Eye action (Slime Burst) with horns, which triggers the Open Eye action (Bubble and Fizz), does the horn action of Bubble &amp; Fizz also trigger?</b> - No, only the primary effect of Bubble and Fizz.</p>
+<p><b>Do Small Slime tokens count as items (for the purposes of items or abilities that let you move items)?</b> - No, they are not items.</p>
+</details>
+<br>
 
-**If the Giant Slime uses its Staring Eye action (Acid Splash) or Closed Eye action (Slime Burst) with horns, which triggers the Open Eye action (Bubble and Fizz), does the horn action of Bubble & Fizz also trigger?** No, only the primary effect of Bubble and Fizz.
+<details>
+<summary><b>Scenario 13</b></summary>
+<p><b>Story card H: The 2nd condition states that if there is no Teleporter token in this area, it adds an inactive Teleporter token. Does this inactive token then flip to its active side on the next turn due to the first condition on the card?</b> - No, upon flipping the card, only one of the first two conditions would trigger once (either with or without a Teleporter token). After that only the bottom range 0 ‘Use the Teleporter’ is available (hint: you’ll need to activate the Teleporter in some other way).</p>
+</details>
+<br>
 
-**Do Small Slime tokens count as items (for the purposes of items or abilities that let you move items)?** No, they are not items.
+<details>
+<summary><b>Scenario 14</b></summary>
+<p><b>This scenario has the ‘replayable’ symbol. Does that mean it can be replayed multiple times to gain an additional experience point?</b> - No, this scenario is meant to only be replayed if you fail the scenario. In this case, ‘replayable’ should be considered ‘re-attemptable’.</p>
+<p><b>How does movement work between the tiles? Can you only move orthogonally or diagonally as well?</b> - You can move to any area that directly borders the area you are in. Look closely at the map, as the tiles are all offset slightly, meaning you sometimes move in a diagonal fashion.</p>
+<p><b>Storycard B ‘Magical Winds’: Who is affected by the push 5?</b> - All Allies and Enemies.</p>
+</details>
+<br>
 
-**Scenario 13: Story card H – does an inactive Teleporter token added by the second condition flip to active next turn due to the first condition?** No, upon flipping the card, only one of the first two conditions would trigger once. After that only the bottom range 0 ‘Use the Teleporter’ is available.
+<details>
+<summary><b>Scenario 16 A,B,C</b></summary>
+<p><b>Scenario 16 is considered to be 3 separate scenarios, except for the purpose of Henchmen hiring.</b> - See details below and errata.</p>
+<p><b>Do Heroes heal back to full after completing each part (A, B and C)?</b> - Yes, Heroes fully recover stamina and remove wounded and exhausted statuses.</p>
+<p><b>How do items that refer to “once each scenario” work?</b> - You would gain the benefit once for each part of scenario 16 (A, B and C).</p>
+<p><b>How does hiring Henchmen work in this scenario?</b> - A Henchman hired before 16A remains with the party through 16B and until the end of 16C, assuming survival.</p>
+<p><b>Do the A/B/C scenarios count as separate scenarios for leveling up Henchmen?</b> - Yes, Henchmen may level up at the end of each part.</p>
+<p><b>Can the key be targeted and attacked by enemies when it has 0 shields?</b> - Yes, it still has taunt 10 and can be attacked.</p>
+<p><b>Is the key considered an item?</b> - No.</p>
+</details>
+<br>
 
-**Scenario 14: This scenario has the ‘replayable’ symbol. Does that mean it can be replayed multiple times to gain an additional experience point?** No, this scenario is meant to only be replayed if you fail the scenario.
+<details>
+<summary><b>Scenario 16A</b></summary>
+<p><b>What is the spark token obtained from rewards of the face tiles?</b> - This is a Spark item token, not an Argurian spark token.</p>
+<p><b>Are spark tokens considered items?</b> - No.</p>
+<p><b>If a Hero is in the same area as the Key, can another Hero move in, add a shield, then move out in one maneuver?</b> - Yes.</p>
+<p><b>If a Hero is in the same area as the Key, can another Hero move in, pick up the Key and move it?</b> - Yes, as long as the Hero moves out of the area.</p>
+<p><b>How does a Hero get the Key back from a Golem?</b> - If the Heroes deal 6 damage to the Golem, they may enter the area as if it weren’t an Enemy.</p>
+</details>
+<br>
 
-**How does movement work between the tiles? Can you only move orthogonally or diagonally as well?** You can move to any area that directly borders the area you are in. The tiles are offset, allowing diagonal movement.
+<details>
+<summary><b>Scenario 16C</b></summary>
+<p><b>How does the shuffling and rotating of the Moving Wall cards work?</b> - Randomly rotate some cards 180° when shuffling. Place and reveal cards as described to preserve orientation randomness.</p>
+<p><b>Story card W: How do Recover Maneuvers work?</b> - All Allies’ Recover Maneuvers gain +1 stamina until the end of Scenario 17.</p>
+</details>
+<br>
 
-**Storycard B ‘Magical Winds’: Who is affected by the push 5?** All Allies and Enemies.
+<details>
+<summary><b>Scenario 17</b></summary>
+<p><b>Can enemies move between the two start areas?</b> - Yes, they are considered in both maps at the same time.</p>
+<p><b>Does the Blood Ruby damage modifier apply to all damage?</b> - No, only damage from attacks.</p>
+<p><b>How do the two start areas work with attacks and line of sight?</b> - They are considered the same area with combined capacity, but line of sight does not extend beyond them.</p>
+<p><b>Is the height difference at the top of the stairs affected by height rules?</b> - No, movement works normally there.</p>
+<p><b>Can Heroes move into a breach area without a floating rock?</b> - Not with movement points, but they can spend a maneuver.</p>
+</details>
+<br>
 
-**Scenario 16 A/B/C: Do Heroes heal back to full after completing each part?** Yes, Heroes fully recover stamina and remove wounded and exhausted statuses.
+<details>
+<summary><b>Scenario 20</b></summary>
+<p><b>Storycard J: Entry 678 – Who gets the circle token?</b> - The Hero who places the final triangle token.</p>
+</details>
+<br>
 
-**How do items that refer to “once each scenario” work in Scenario 16?** You gain the benefit once per part (A, B and C).
+<details>
+<summary><b>Scenario 24/25</b></summary>
+<p><b>Can you push or pull through Intact Barricades?</b> - No. Only ranged attacks are allowed across them.</p>
+<p><b>Do Shadow Goggles or Sniper skills ignore barricade obstruction?</b> - Yes.</p>
+<p><b>Can Pet figures move through Intact Barricades?</b> - Yes.</p>
+<p><b>If an Enemy attacks an Intact Barricade, how much damage does it take?</b> - The barricade takes full damage.</p>
+</details>
+<br>
 
-**How does hiring Henchmen work in this scenario?** Henchmen hired before 16A remain through 16B and 16C, then may be rehired afterward.
+<details>
+<summary><b>Scenario 26</b></summary>
+<p><b>How do I unlock this scenario?</b> - With World Event card 023.</p>
+<p><b>Why does the app show it as unlocked?</b> - The app cannot track when the World Event is revealed.</p>
+<p><b>Does Graznak’s healing double on his third attack?</b> - Yes.</p>
+</details>
+<br>
 
-**Do the A/B/C scenarios count as separate scenarios for leveling up Henchmen?** Yes.
+<details>
+<summary><b>Scenario 27</b></summary>
+<p><b>Can a Hero pick up multiple runic plates?</b> - No.</p>
+</details>
+<br>
 
-**Can the key be targeted and attacked by enemies when it has 0 shields?** Yes.
+<details>
+<summary><b>Scenario 28</b></summary>
+<p><b>Can Allies or Henchmen attempt Climbing or Leaping checks?</b> - Yes, but special symbols count as zero.</p>
+<p><b>Story card H: Does a defeated Phrenipede still count as an enemy?</b> - Yes.</p>
+</details>
+<br>
 
-**Is the key considered an item?** No.
+<details>
+<summary><b>Scenario 29</b></summary>
+<p><b>Does the Doom Knights’ snake ability pull a second target?</b> - No.</p>
+</details>
+<br>
 
-**Scenario 16A: What is the spark token obtained from face tile rewards?** It is a Spark item token, not an Argurian spark token.
+<details>
+<summary><b>Scenario 30</b></summary>
+<p><b>Do Watchmen move and open doors without line of sight?</b> - Yes.</p>
+<p><b>Story card C: What Essence tokens are required?</b> - Nature, Life, Death and Magic.</p>
+<p><b>Does Wollyon heal to full when respawned?</b> - Yes.</p>
+<p><b>Can Dispel Illusion be used on Wollyon?</b> - Yes.</p>
+<p><b>Does the Hero dispelling need Story card J or Q?</b> - Yes.</p>
+<p><b>How does Bleeding interact with Item 105 Amulet of Shonosh?</b> - The item only prevents receiving bleeding initially.</p>
+</details>
+<br>
 
-**Are spark tokens considered items?** No.
+<details>
+<summary><b>Scenario 34/35</b></summary>
+<p><b>Do enemies respawn if none were defeated?</b> - No.</p>
+<p><b>Story card H: What does the symbology mean?</b> - It modifies all Recover Maneuvers by +1 or -1.</p>
+</details>
+<br>
 
-**If a Hero is in the same area as the Key, can another Hero move in, add a shield, and move out in one maneuver?** Yes.
+<details>
+<summary><b>Scenario 36</b></summary>
+<p><b>Does the Head damage modifier apply to non-attack damage?</b> - No, only attacks.</p>
+</details>
+<br>
 
-**If a Hero is in the same area as the Key, can another Hero pick it up and move it?** Yes.
-
-**How does a Hero get the Key back from a Golem?** This is addressed in the errata: dealing 6 damage allows entry as if it were not an Enemy.
-
-**Scenario 16C: How does shuffling and rotating the Moving Wall cards work?** Each shuffle includes random 180° rotations; walls are revealed without rotating further.
-
-**Scenario 17: Can enemies move between the two start areas?** Yes.
-
-**Does the Blood Ruby damage modifier apply to all damage or only attacks?** Only attacks.
-
-**How do the two start areas work with attacks and line of sight?** They are considered one area for adjacency but block line of sight beyond.
-
-**Is the height at the top of the stairs affected by falling or Hook & Rope rules?** No.
-
-**Can Heroes move into a breach area without a floating rock?** Only by spending a maneuver.
-
-**Scenario 20: Storycard J – who gets the circle token?** Whichever Hero places the final triangle token.
-
-**Scenario 24/25: Can you push or pull through Intact Barricades?** No.
-
-**Do Shadow Goggles or Sniper skills ignore barricade obstruction?** Yes.
-
-**Can Pet figures move through Intact Barricades?** Yes.
-
-**If an Enemy attacks an Intact Barricade, how much damage does it take?** Full damage.
-
-**Scenario 26: How do I unlock this scenario?** With World Event card 023.
-
-**Why does Scenario 26 show as unlocked in the app early?** The app cannot detect when the event is revealed.
-
-**Does Graznak’s healing heal 2 per damage dealt?** Yes.
-
-**Scenario 27: Can a Hero pick up multiple runic plates?** No.
-
-**Scenario 28: Can Allies or Henchmen attempt Climbing or Leaping checks?** Yes.
-
-**Story card H: Does a defeated Phrenipede still count as an enemy?** Yes.
-
-**Scenario 29: Do Doom Knights pull a second Ally?** No.
-
-**Scenario 30: Do Watchmen move and open doors without line of sight?** Yes.
-
-**Story card C: What Essence tokens are required?** Nature, Life, Death, and Magic.
-
-**Story card Diamond / Enemy Card 3: Does Wollyon heal to full each time?** Yes.
-
-**Can ‘Dispel Illusion’ remove Wollyon’s illusion?** Yes.
-
-**Do Story cards J or Q need to be held by the Hero dispelling the illusion?** Yes.
-
-**How does Amulet of Shonosh interact with special Bleeding rules?** It only prevents initial application.
-
-**Scenario 34/35: Do enemies respawn if none were defeated when the timer triggers?** No.
-
-**Story card H: What does the symbology mean?** It modifies all Recover maneuvers by ±1.
-
-**Scenario 36: Does the Head damage modifier apply to non-attack damage?** No, only attacks.
-
+<div class="divider"></div>
 
 ## <a name="page_10" class="page-number">10.0</a> Heroes (General):
 
