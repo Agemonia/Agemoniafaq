@@ -317,12 +317,14 @@ You can find...
 
 <details>
 <summary><b>Scenario 3</b></summary>
+
 <p><b>If Storycard Z is flipped to its overlay side, which removes Story Point Z from the map, can a Hero still use Storycard H to drop down to Story Point Z (which no longer exists)?</b> - <span class="hidden"> Probably? Confirm?.</span></p>
 </details>
 <br>
 
 <details>
 <summary><b>Scenario 4</b></summary>
+
 <p><b>When exactly should the first timer begin? Is the Fate card from the end of round 2 used as the first card for the timer?</b> - <span class="hidden">The first Fate card to go in the timer pile is the one revealed at the end of round 3 (the first Raid card is revealed and resolved at the end of round 2 which instructs you to start a timer).</span></p>
 <p><b>Can Heroes or Enemies make ranged or magic attacks through the crates?</b> - <span class="hidden">Yes, ranged and magic attacks can be made through double white lines as they do not block line of sight (thematically think of the crates as being waist high).</span></p>
 <p><b>If I gain an ally during the scenario, do I keep it for the next scenario?</b> - <span class="hidden">No, you only keep an ally at the end of a scenario if it is mentioned in the conclusion.</span></p>
@@ -331,6 +333,7 @@ You can find...
 
 <details>
 <summary><b>Scenario 5</b></summary>
+
 <p><b>Can Heroes pick up Nightfinger mushrooms during their move maneuvers?</b> - <span class="hidden">Yes, you can pick them up in the middle of your move, and then continue that movement.</span></p>
 <p><b>Will the Zlohian enemies focus more on the Nightfinger mushrooms than the Allies? If the enemy is in the same area as an Ally, will it still move towards the closest Nightfinger? Does it attack first then move?</b> - <span class="hidden">Moving always happens before attacking, and its number one priority is the closest Nightfinger mushroom, therefore the enemy will move first towards the closest Nightfinger, potentially moving away from an Ally. After moving, the enemy will attack only if there’s still an Ally within attack range.</span></p>
 </details>
