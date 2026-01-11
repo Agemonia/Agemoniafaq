@@ -15,7 +15,7 @@
 1. <a href="#page_7">Item Cards</a>
 1. <a href="#page_8">Scenario General Questions</a>
 1. <a href="#page_9">Scenario Specific Questions</a>
-1. <a href="#page_10">Heroes</a>
+1. <a href="#page_10">Heroes (General)</a>
    1. <a href="#page_10.1">Torrax</a>
    1. <a href="#page_10.2">Venia</a>
    1. <a href="#page_10.3">Jonai</a>
@@ -318,6 +318,14 @@ You can find...
 ### Scenario 3:
 **If Storycard Z is flipped to its overlay side, which removes Story Point Z from the map, can a Hero still use Storycard H to drop down to Story Point Z (which no longer exists)?** Probably? Confirm?.
 
+<details>
+<summary><b>Scenario 4</b></summary>
+<p><b>When exactly should the first timer begin? Is the Fate card from the end of round 2 used as the first card for the timer?</b> - <span class="hidden">The first Fate card to go in the timer pile is the one revealed at the end of round 3 (the first Raid card is revealed and resolved at the end of round 2 which instructs you to start a timer).</span></p>
+<p><b>Can Heroes or Enemies make ranged or magic attacks through the crates?</b> - <span class="hidden">Yes, ranged and magic attacks can be made through double white lines as they do not block line of sight (thematically think of the crates as being waist high).</span></p>
+<p><b>If I gain an ally during the scenario, do I keep it for the next scenario?</b> - <span class="hidden">No, you only keep an ally at the end of a scenario if it is mentioned in the conclusion.</span></p>
+</details>
+<br>
+
 ### Scenario 4:
 **When exactly should the first timer begin? Is the Fate card from the end of round 2 used as the first card for the timer?** The first Fate card to go in the timer pile is the one revealed at the end of round 3 (the first Raid card is revealed and resolved at the end of round 2 which instructs you to start a timer).
 
@@ -457,7 +465,12 @@ You can find...
 **Scenario 36: Does the Head damage modifier apply to non-attack damage?** No, only attacks.
 
 
-## <a name="page_10" class="page-number">10.0</a> Heroes:
+## <a name="page_10" class="page-number">10.0</a> Heroes (General):
+
+**How does the Tactics skill work?** After you have selected your action, but before the
+Initiative card is revealed, you may spend 1 stamina to change your Initiative to any of the three Ally initiatives: Red, Blue or Green (regardless if another Ally has chosen that color initiative or not). You may not choose any Enemy initiative, or the ‘first’ or ‘last’ initiative. 
+
+**What is Armor & Shield Proficiency?** This has been clarified in the 2nd printing rulebook: Armor & Shield Proficiency: You do not need to lock stamina to use armor and shields. See Locking Stamina on p. 28/29.
 
 ### <a name="page_10.1" class="page-number">10.1</a> Torrax
 
