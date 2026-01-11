@@ -39,8 +39,9 @@ This is an unofficial FAQ created with a collection of questions taken from BGG 
 This is an unofficial FAQ created with a collection of questions taken from BGG and the Agemonia Discord, with the majority of the answers coming directly from the game’s designers. Please use your in-browser Find function to locate answers to specific questions.
 ### Spoilers
 This FAQ may contain spoilers. Spoiler tags have been added as best as possible to avoid spoilers. Please note that your in-browser Find function can also find words behind spoiler tags on this page.
-### Official Errata
-You can find the official errata documents here: 
+### Agemonia Printings & Official Errata
+There are 3 printings of Agemonia (1st, 2nd, 3rd) and each has official errata (the later printings have more fixes).
+You can find the official errata documents for all 3 printings can be found here: [Agemonia Resources](https://agemonia.com/resources/)
 ### Additional Resources
 You can find...
 ### Special Thanks
