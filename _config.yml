@@ -1,30 +1,7 @@
-title: "Frosthaven FAQ"
-# author: William Wilson (aka. dwarf74)
-# email: your-email@domain.com
+title: "Agemonia FAQ (unofficial)"
+# author: Dom
+# email: agemoniafaq@gmail.com
 description: > # this means to ignore newlines until "twitter_username:"
-  Frosthaven Frequently Asked Questions
-  © 2025 Cephalofair Games, LLC
-
-# social links
-# twitter_username: jekyllrb
-# github_username:  jekyll
-# rss: rss
-# dribbble_username: jekyll
-# facebook_username: jekyll
-# flickr_username: jekyll
-# instagram_username: jekyll
-# linkedin_username: jekyll
-# pinterest_username: jekyll
-# youtube_username: jekyll
-# googleplus_username: +jekyll
-
-# Mastodon instances
-# mastodon:
-# - username: jekyll
-#   instance: example.com
-# - username: jekyll2
-#   instance: example.com
-
 
 show_excerpts: false # set to true to show excerpts on the homepage
 
