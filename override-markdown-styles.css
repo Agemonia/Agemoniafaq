@@ -154,3 +154,7 @@ blockquote {
 a {
     color: #9f25bd;
 }
+
+a:visited {
+  color: #6a267b;
+}
