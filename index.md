@@ -530,49 +530,49 @@ Initiative card is revealed, you may spend 1 stamina to change your Initiative t
 
 ### <a name="page_10.1" class="page-number">10.1</a> Torrax
 
-**Earth Link (Geomancer skill): Does this increase the range of Torrax’s Telekinesis (lvl 2)?** No, Telekinesis is not an attack and therefore unaffected.
+**Earth Link (Geomancer skill):** <span class="hidden">**Does this increase the range of Torrax’s Telekinesis (lvl 2)?** No, Telekinesis is not an attack and therefore unaffected.</span>
 
-**Earth Link (Geomancer skill): Does this increase the range and damage of Torrax’s Earth Bolt (lvl 2) or Earthquake (lvl 4 Geomancer)?** Earth Bolt gets both +1 success and +1 range added to its straight line attack (can now target the first 4 areas in a straight line of sight from your area). Earthquake receives +1 success but no range increase as it has no range (just an area).
+**Earth Link (Geomancer skill):** <span class="hidden">**Does this increase the range and damage of Torrax’s Earth Bolt (lvl 2) or Earthquake (lvl 4 Geomancer)?** Earth Bolt gets both +1 success and +1 range added to its straight line attack (can now target the first 4 areas in a straight line of sight from your area). Earthquake receives +1 success but no range increase as it has no range (just an area).</span>
 
-**Telekinesis (lvl 2): Can this be used to move around tokens during a scenario?** Sometimes, as Telekinesis only works on items, therefore the scenario rules must explicitly state that a certain token is an item.
+**Telekinesis (lvl 2):** <span class="hidden">**Can this be used to move around tokens during a scenario?** Sometimes, as Telekinesis only works on items, therefore the scenario rules must explicitly state that a certain token is an item.</span>
 
-**Telekinesis (lvl 2): The item moved must be within line of sight and range 3 of Torrax, but when the item is moved, is it moved within range 3 of where the item is, or within range 3 of Torrax?** The movement must end in line of sight and range 3 of Torrax (this may sometimes allow you to move an item 6 spaces, first moving it 3 to Torrax, then 3 more away).
+**Telekinesis (lvl 2):** <span class="hidden">**The item moved must be within line of sight and range 3 of Torrax, but when the item is moved, is it moved within range 3 of where the item is, or within range 3 of Torrax?** The movement must end in line of sight and range 3 of Torrax (this may sometimes allow you to move an item 6 spaces, first moving it 3 to Torrax, then 3 more away).</span>
 
-**Stone Form (lvl 4): While in Stone Form, will Torrax still be targeted by attacks? And if so does Riposte still work?** He can still be targeted, but Riposte will not happen. From the description: “You do not take a turn and may not do anything during any other Ally or Enemy’s turn.”
+**Stone Form (lvl 4):** <span class="hidden">**While in Stone Form, will Torrax still be targeted by attacks? And if so does Riposte still work?** He can still be targeted, but Riposte will not happen. From the description: “You do not take a turn and may not do anything during any other Ally or Enemy’s turn.”</span>
 
-**Stone Form (lvl 4): If Torrax has Energy Absorption (Geomancer) marked on himself, does Torrax recover 2 stamina every time he is attacked while in Stone Form?** No, while Stone Form is active, Energy Absorption would only work on another marked Ally.
+**Stone Form (lvl 4):** <span class="hidden">**If Torrax has Energy Absorption (Geomancer) marked on himself, does Torrax recover 2 stamina every time he is attacked while in Stone Form?** No, while Stone Form is active, Energy Absorption would only work on another marked Ally.</span>
 
-**Stone Form (lvl 4): Can you enter and exit Stone Form in the same round?** For example, assuming Heroes and Enemies function in the normal red-blue-green order, could Torrax enter Stone Form at red, then tank attacks from blue Enemies, and at the start of another Ally’s green turn, end the ability? Would I then be able to take an action normally next round? Would I recover the five stamina if I prematurely end the effect? Yes, you may end the effect at the start of any Ally or Enemy turn, and you will recover the five stamina immediately. The round after that, you would select and play an action as normal.
+**Stone Form (lvl 4):** <span class="hidden">**Can you enter and exit Stone Form in the same round?** For example, assuming Heroes and Enemies function in the normal red-blue-green order, could Torrax enter Stone Form at red, then tank attacks from blue Enemies, and at the start of another Ally’s green turn, end the ability? Would I then be able to take an action normally next round? Would I recover the five stamina if I prematurely end the effect? Yes, you may end the effect at the start of any Ally or Enemy turn, and you will recover the five stamina immediately. The round after that, you would select and play an action as normal.</span>
 
-**Hero Book Level 1 - Entry 03 (Stevedore): Do the special symbols on rolls count as 2 automatic successes?** No, you must spend stamina in this case. A check will always specify if the special symbol is counted as 2 successes.
+**Hero Book Level 1 - Entry 03 (Stevedore):** <span class="hidden">**Do the special symbols on rolls count as 2 automatic successes?** No, you must spend stamina in this case. A check will always specify if the special symbol is counted as 2 successes.</span>
 
-**Hero Book Level 2: If Torrax decides to “Have a drink at the Mossy Stone.” and other Heroes choose to join him, do they also have to spend a City Activity point?** Yes, each Hero must spend a City Activity point to take part in this.
+**Hero Book Level 2:** <span class="hidden">**If Torrax decides to “Have a drink at the Mossy Stone.” and other Heroes choose to join him, do they also have to spend a City Activity point?** Yes, each Hero must spend a City Activity point to take part in this.</span>
 
 ### <a name="page_10.2" class="page-number">10.2</a> Venia
-
-**Dual Wielder + Shadow Stalker (Assassin skills): If Venia makes a melee attack while dual wielding two daggers, does she get +2 successes from Shadow Stalker?** Yes, each dagger gives +1.
 
 **Backstab (lvl 1 Assassin): Can any pet card in the same area allow the attack to be used?** No, not all pets, as this has been updated to allow only pet figures to be used, therefore pet cards without a figure will have no effect.
 
 **Backstab (lvl 1 Assassin): Can Venia use this from an adjacent space if the targeted area is at max capacity?** No, Venia and the additional Ally or pet figure must be in the same area as the Enemy being attacked.
 
-**Shadow Form (lvl 3): If Venia loses Invisibility while in Shadow Form, what happens to the locked stamina?** It goes into your spent stamina pile.
+**Dual Wielder + Shadow Stalker (Assassin skills):** <span class="hidden">**If Venia makes a melee attack while dual wielding two daggers, does she get +2 successes from Shadow Stalker?** Yes, each dagger gives +1.</span>
 
-**Bounding Charge (lvl 2 Assassin): Can you use the jump 2 even if you don’t use the attack?** Yes.
+**Shadow Form (lvl 3):** <span class="hidden">**If Venia loses Invisibility while in Shadow Form, what happens to the locked stamina?** It goes into your spent stamina pile.</span>
 
-**Curse of Aox (lvl 3 Witch): Does the Curse of Aox token allow other Heroes to drain or just Venia?** Just Venia.
+**Bounding Charge (lvl 2 Assassin):** <span class="hidden">**Can you use the jump 2 even if you don’t use the attack?** Yes.</span>
 
-**Curse of Aox (lvl 3 Witch): Does Venia need line of sight to activate the Drain from Curse of Aox?** No, line of sight is only required for initially applying the curse to an enemy. The drain happens regardless of line of sight or distance until the enemy is defeated or you choose to end the effect.
+**Curse of Aox (lvl 3 Witch):** <span class="hidden">**Does the Curse of Aox token allow other Heroes to drain or just Venia?** Just Venia.</span>
 
-**Curse of Aox (lvl 3 Witch): Does the drain damage break Invisibility?** No, as the drain is not an attack.
+**Curse of Aox (lvl 3 Witch):** <span class="hidden">**Does Venia need line of sight to activate the Drain from Curse of Aox?** No, line of sight is only required for initially applying the curse to an enemy. The drain happens regardless of line of sight or distance until the enemy is defeated or you choose to end the effect.</span>
 
-**Curse of Aox (lvl 3 Witch): Is the drain damage affected by enemies’ shield values?** No, drain is not an attack, therefore the damage is unaffected by shields.
+**Curse of Aox (lvl 3 Witch):** <span class="hidden">**Does the drain damage break Invisibility?** No, as the drain is not an attack.</span>
 
-**Assassinate (lvl 4 Assassin): Can any pet card in the same area allow the attack to be used?** No, not all pet cards. It must be a Pet figure.
+**Curse of Aox (lvl 3 Witch):** <span class="hidden">**Is the drain damage affected by enemies’ shield values?** No, drain is not an attack, therefore the damage is unaffected by shields.</span>
 
-**Assassinate (lvl 4 Assassin): Can Venia use this from an adjacent space if the targeted area is at max capacity?** No, Venia and the additional Ally or pet figure must be in the same area as the Enemy being attacked.
+**Assassinate (lvl 4 Assassin):** <span class="hidden">**Can any pet card in the same area allow the attack to be used?** No, not all pet cards. It must be a Pet figure.</span>
 
-**Item card 125/126 Urskull: Can this be used with an area attack (ex: item card 062 Flame Arrow)?** Yes, and you drain/heal from all enemies that take damage.
+**Assassinate (lvl 4 Assassin):** <span class="hidden">**Can Venia use this from an adjacent space if the targeted area is at max capacity?** No, Venia and the additional Ally or pet figure must be in the same area as the Enemy being attacked.</span>
+
+**Item card 125/126** <span class="hidden">**Urskull: Can this be used with an area attack (ex: item card 062 Flame Arrow)?** Yes, and you drain/heal from all enemies that take damage.</span>
 
 ### <a name="page_11.3" class="page-number">11.3</a> Jonai
 
