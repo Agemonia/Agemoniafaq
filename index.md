@@ -44,8 +44,8 @@ You can find the official errata documents here:
 ### Additional Resources
 You can find...
 ### Special Thanks
-Thank you to Max Wikström, Phil Pettifer and the rest of the Agemonia team for being so active and answering questions on BGG and Discord.
-Huge thanks to Bill (dwarf74/dwarfSA) for his amazing Frosthaven FAQ which inspired me to create this for Agemonia.
+- Thank you to Max Wikström, Phil Pettifer and the rest of the Agemonia team for being so active and answering questions on BGG and Discord.
+- Huge thanks to Bill (dwarf74/dwarfSA) for his amazing [Frosthaven FAQ]([https://boardgamegeek.com/thread/3001013/official-faq-for-frosthaven-no-rules-questions-ple](https://cephalofairgames.github.io/frosthaven-faq/)) which inspired me to create this for Agemonia.
 
 <div class="divider"></div>
 
