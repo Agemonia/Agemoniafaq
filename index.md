@@ -36,14 +36,14 @@ This is an unofficial FAQ created with a collection of questions taken from BGG 
 ##  <a name="page_0" class="page-number">0</a> Information
 
 ### Introduction
-This is an unofficial FAQ created with a collection of questions taken from BGG and the Agemonia Discord, with the majority of the answers coming directly from the game’s designers. Please use your in-browser Find function to locate answers to specific questions.
+My name is Dom and I've created this unofficial FAQ with a collection of questions gathered from BGG and the Agemonia Discord, with the majority of the answers coming directly from the game’s designers. Please use your in-browser Find function to locate answers to specific questions.
 ### Spoilers
 This FAQ may contain spoilers. Spoiler tags have been added as best as possible to avoid spoilers. Please note that your in-browser Find function can also find words behind spoiler tags on this page.
 ### Agemonia Printings & Official Errata
 There are 3 printings of Agemonia (1st, 2nd, 3rd) and each has official errata (the later printings have more fixes).
-You can find the official errata documents for all 3 printings can be found here: [Agemonia Resources](https://agemonia.com/resources/)
+The official errata documents for all 3 printings can be found here: [Agemonia Resources](https://agemonia.com/resources/)
 ### Additional Resources
-You can find...
+You can find lots of great stuff in the [BGG Files](https://boardgamegeek.com/boardgame/270871/agemonia/files)
 ### Special Thanks
 - Thank you to Max Wikström, Phil Pettifer and the rest of the Agemonia team for being so active and answering questions on BGG and Discord.
 - Huge thanks to Bill (dwarf74/dwarfSA) for his amazing [Frosthaven FAQ](https://cephalofairgames.github.io/frosthaven-faq) which inspired me to create this for Agemonia.
@@ -243,39 +243,39 @@ You can find...
 
 **Can Heroes put down a backpack item containing other items and use telekinesis to move the backpack and all its contents?** Yes.
 
-**Item card 058 Rune of the Moons: Can you decide not to roll before using this to maximize the revenge damage?** No, you still need to roll.
+**Item card 058 <span class="hidden">Rune of the Moons: Can you decide not to roll before using this to maximize the revenge damage?** No, you still need to roll.</span>
 
-**Item card 062 Flame Arrow + item card 068 Void Extract: Does this combo work to defeat all non-elite enemies in the same area?** Yes, you may use 1 poison and 1 arrow for an attack (if your weapon allows it).
+**Item card 062 <span class="hidden">Flame Arrow + item card 068 Void Extract: Does this combo work to defeat all non-elite enemies in the same area?** Yes, you may use 1 poison and 1 arrow for an attack (if your weapon allows it).</span>
 
-**Item card 064 Heartseeker Arrow: Can this be used to kill a non-elite monster with unlimited health?** No.
+**Item card 064 <span class="hidden">Heartseeker Arrow: Can this be used to kill a non-elite monster with unlimited health?** No.</span>
 
-**Item card 064 Heartseeker Arrow: Does the ranged attack need to do at least 1 damage in order to defeat the non-Elite Enemy?** No, simply targeting the enemy with the attack is enough to defeat it.
+**Item card 064 <span class="hidden">Heartseeker Arrow: Does the ranged attack need to do at least 1 damage in order to defeat the non-Elite Enemy?** No, simply targeting the enemy with the attack is enough to defeat it.</span>
 
-**Item card 064 Heartseeker Arrow: If a Hero uses this to defeat an Enemy with Revenge, do they take only the reflected damage from the attack roll or the full remaining health of the Enemy?** Only the damage from the attack roll.
+**Item card 064 <span class="hidden">Heartseeker Arrow: If a Hero uses this to defeat an Enemy with Revenge, do they take only the reflected damage from the attack roll or the full remaining health of the Enemy?** Only the damage from the attack roll.</span>
 
-**Item card 068 Void Extract: Can this be used to kill a non-elite monster with unlimited health?** No.
+**Item card 068 <span class="hidden">Void Extract: Can this be used to kill a non-elite monster with unlimited health?** No.</span>
 
-**Item card 068 Void Extract: Does the attack need to do at least 1 damage in order to defeat the non-Elite Enemy?** No, simply targeting the enemy with the attack is enough to defeat it.
+**Item card 068 <span class="hidden">Void Extract: Does the attack need to do at least 1 damage in order to defeat the non-Elite Enemy?** No, simply targeting the enemy with the attack is enough to defeat it.</span>
 
-**Item card 068 Void Extract: If a Hero uses this to defeat an Enemy with Revenge, do they take only the reflected damage from the attack roll or the full remaining health of the Enemy?** Only the damage from the attack roll.
+**Item card 068 <span class="hidden">Void Extract: If a Hero uses this to defeat an Enemy with Revenge, do they take only the reflected damage from the attack roll or the full remaining health of the Enemy?** Only the damage from the attack roll.</span>
 
-**Item card 080 Quothian Dirk: Is this considered a dagger for Venia’s Shadow Stalker skill?** Yes, see Shadow Stalker description in the rulebook.
+**Item card 080 <span class="hidden">Quothian Dirk: Is this considered a dagger for Venia’s Shadow Stalker skill?** Yes, see Shadow Stalker description in the rulebook.</span>
 
-**Item card 081 Tear of Eti: Can you use the first initiative ability with non-attack actions?** For example, my Venia character has Shadow Form. Could I spend 3 stamina, go first, Shadow Form, and therefore avoid being the target of enemies? Yes.
+**Item card 081 <span class="hidden">Tear of Eti: Can you use the first initiative ability with non-attack actions?** For example, my Venia character has Shadow Form. Could I spend 3 stamina, go first, Shadow Form, and therefore avoid being the target of enemies? Yes.</span>
 
-**Item card 089 Wyldkin Wand: If you’re already Cursed before attacking, do you gain Cursed again from the Wand?** Yes, the Cursed condition first gets discarded, then gets reapplied from the Wand.
+**Item card 089 <span class="hidden">Wyldkin Wand: If you’re already Cursed before attacking, do you gain Cursed again from the Wand?** Yes, the Cursed condition first gets discarded, then gets reapplied from the Wand.</span>
 
-**Item card 090 Elakira’s Sliver: The description on the item card doesn’t match the description in the rulebook. Which is correct?** The card is correct. Both level 1 and level 2 magic attacks cost 1 fewer stamina (see errata).
+**Item card 090 <span class="hidden">Elakira’s Sliver: The description on the item card doesn’t match the description in the rulebook. Which is correct?** The card is correct. Both level 1 and level 2 magic attacks cost 1 fewer stamina (see errata).</span>
 
-**Item card 100 Gunbanjar Bag: Is this item considered a backpack?** No, you may use this in addition to a backpack.
+**Item card 100 <span class="hidden">Gunbanjar Bag: Is this item considered a backpack?** No, you may use this in addition to a backpack.</span>
 
-**Item card 112 Lucky Coin: Can this be used on another player's roll?** No, the effect can only be used for the Hero who is carrying the item.
+**Item card 112 <span class="hidden">Lucky Coin: Can this be used on another player's roll?** No, the effect can only be used for the Hero who is carrying the item.</span>
 
-**Item card 143 Wyldkin Band: Does the roll bonus effect work in city/world events, where stamina is not spent for the successes? Or is this bonus only applied on rolls where you have the option to actually spend the stamina?** Only when actually spending stamina.
+**Item card 143 <span class="hidden">Wyldkin Band: Does the roll bonus effect work in city/world events, where stamina is not spent for the successes? Or is this bonus only applied on rolls where you have the option to actually spend the stamina?** Only when actually spending stamina.</span>
 
-**Item card 149 Goblet of Thaxo: The card ability does not match the description in the rulebook. Which is correct?** The card is correct. The updated description should be “Once per City step, you may discard any one Essence token to gain any one Essence token. (see errata)
+**Item card 149 <span class="hidden">Goblet of Thaxo: The card ability does not match the description in the rulebook. Which is correct?** The card is correct. The updated description should be “Once per City step, you may discard any one Essence token to gain any one Essence token. (see errata)</span>
 
-**Item card 150 Figurine of Lanimora: Can you use the first ability multiple times during the City step?** No, you can only use items during a City step if the card says so, otherwise it can only be used in a scenario. You can use this item multiple times during a scenario, with the only limit being the amount of Nature Essences in the stock (4).
+**Item card 150 <span class="hidden">Figurine of Lanimora: Can you use the first ability multiple times during the City step?** No, you can only use items during a City step if the card says so, otherwise it can only be used in a scenario. You can use this item multiple times during a scenario, with the only limit being the amount of Nature Essences in the stock (4).</span>
 
 <div class="divider"></div>
 
@@ -580,75 +580,75 @@ Initiative card is revealed, you may spend 1 stamina to change your Initiative t
 
 **Channel Energy (lvl 1): What kind of rolls does this apply to?** It works on any roll using red or blue dice; attack rolls, action/ability rolls (such as Lunara’s Flash Heal), or any active or reactive check.
 
-**Blades of Wrath (lvl 2 Blademaster): Can each attack be made against different targets?** Yes.
+**Blades of Wrath (lvl 2 Blademaster): <span class="hidden">Can each attack be made against different targets?** Yes.</span>
 
-**Reactive Attack (lvl 2): Can Jonai select this action if all other Heroes are exhausted?** No.
+**Reactive Attack (lvl 2): <span class="hidden">Can Jonai select this action if all other Heroes are exhausted?** No.</span>
 
-**Sentinel’s Mark (lvl 3 Aox Hunter): How does this work?** If it’s a single target attack against the marked Enemy, simply add an extra die to the attack. If it’s an area attack (or other multi-target attack) only add the extra die to the marked Enemy.
+**Sentinel’s Mark (lvl 3 Aox Hunter): <span class="hidden">How does this work?** If it’s a single target attack against the marked Enemy, simply add an extra die to the attack. If it’s an area attack (or other multi-target attack) only add the extra die to the marked Enemy.</span>
 
-**Split in Two (lvl 4 Blademaster): Does this double the successes only from the roll, or also includes the weapon modifiers before doubling?** It also includes the modifiers, so add the successes from the 3 dice to any other modifiers (weapon, etc.) and then double them!
+**Split in Two (lvl 4 Blademaster): <span class="hidden">Does this double the successes only from the roll, or also includes the weapon modifiers before doubling?** It also includes the modifiers, so add the successes from the 3 dice to any other modifiers (weapon, etc.) and then double them!</span>
 
-**Item card 157 Ethereal Crown or Item card 158 Breachwalker Crown: Do these use up the helmet slot?** Those items do not use up the helmet slot as they are just ethereal projections.
+**Item card 157 <span class="hidden">Ethereal Crown</span> or Item card 158 <span class="hidden">Breachwalker Crown: Do these use up the helmet slot?** Those items do not use up the helmet slot as they are just ethereal projections.</span>
 
-**Hero Book - ‘Fight Crime’ City Activity: If another Hero spends Star do they do a separate roll or just add +1 to Jonai’s?** Entry 42 explains this. Everybody rolls a separate roll (+1 to everybody).
+**Hero Book - ‘Fight Crime’ City Activity: <span class="hidden">If another Hero spends Star do they do a separate roll or just add +1 to Jonai’s?** Entry 42 explains this. Everybody rolls a separate roll (+1 to everybody).</span>
 
 ### <a name="page_10.4" class="page-number">10.4</a> Drenosh
 
-**Fiery soul (Pyroblade skill): Will this trigger if a bleed applied by Drenosh kills an enemy (does it count as being defeated by Drenosh)?** No, as bleeding damage is not specific to the Hero who applied it.
+**Fiery soul (Pyroblade skill): <span class="hidden">Will this trigger if a bleed applied by Drenosh kills an enemy (does it count as being defeated by Drenosh)?** No, as bleeding damage is not specific to the Hero who applied it.</span>
 
-**Combustion (Pyroblade skill): Does this make Fire Blast an area 0 area in addition to range 4?** Yes, Fire Blast becomes a range 4 area 0 attack.
+**Combustion (Pyroblade skill): <span class="hidden">Does this make Fire Blast an area 0 area in addition to range 4?** Yes, Fire Blast becomes a range 4 area 0 attack.</span>
 
-**Charge (lvl 2 Marauder): Is Jump considered to be movement points for this attack (ex: from Luawa’s Leap Elixir)?** No, only spent movement points.
+**Charge (lvl 2 Marauder): <span class="hidden">Is Jump considered to be movement points for this attack (ex: from Luawa’s Leap Elixir)?** No, only spent movement points.</span>
 
-**Hellfire (lvl 4 Pyroblade): Can I still add dice to this attack?** Yes, the base attack uses 0 red dice, but you may add more with items or an inspiration gem.
+**Hellfire (lvl 4 Pyroblade): <span class="hidden">Can I still add dice to this attack?** Yes, the base attack uses 0 red dice, but you may add more with items or an inspiration gem.</span>
 
-**Chaos Strike (lvl 5 Marauder): The Rules Reference description indicates this action applies to both melee and ranged attacks, however the action token only indicates a melee attack. Which is correct?** The action token is correct, this is only a melee attack (updated in errata).
+**Chaos Strike (lvl 5 Marauder): <span class="hidden">The Rules Reference description indicates this action applies to both melee and ranged attacks, however the action token only indicates a melee attack. Which is correct?** The action token is correct, this is only a melee attack (updated in errata).</span>
 
-**Item card 131-134 Gift of Fire: Can it be used with an item like Cube of Annihilation?** Yes, Gift of Fire works with any attack you make, even if it's with an item like the Cube.
+**Item card 131-134 <span class="hidden">Gift of Fire: Can it be used with an item like Cube of Annihilation?** Yes, Gift of Fire works with any attack you make, even if it's with an item like the Cube.</span>
 
-**Item card 131-134 Gift of Fire: Does it affect multiple attacks like from Flaming Fury?** No, Gift of Fire only affects one attack.
+**Item card 131-134 <span class="hidden">Gift of Fire: Does it affect multiple attacks like from Flaming Fury?** No, Gift of Fire only affects one attack.</span>
 
 ### <a name="page_10.5" class="page-number">10.5</a> Matajam
 
-**Targeting (Ranger skill): Can this be used more than once if you have extra maneuvers to spend?** Yes.
-
-**Insect Swarm (lvl 3 Shaman): Is the Swarm’s damage affected by enemies’ shields?** Yes, Insect Swarm is an attack and therefore is reduced by the shield amount (Insect Swarm is great in some scenarios, but not so good in others with high shielded enemies).
-
-**Insect Swarm (lvl 3 Shaman): Does the Insect Swarm token count as an Ally?** No.
-
-**Item card 146 Rakka’s Wand: If Matajam makes a ranged attack with a bow and uses a poison arrow, would Rakka’s Wand dice effect be triggered?** No, it would not trigger, as it only applies if you are using the wand for your attack.
-
-**Barkskin (Shaman skill): Do robes negate the effects of Barkskin or does that count as wearing armor?** No, only armor items (with armor card back) and helm/helmet items negate Barkskin. Robes are loose fitting and therefore work with Barkskin.
-
-**Barkskin (Shaman skill): If I want to receive the effects of Barkskin, does removing your armor/helm item cost a maneuver?** Yes, just like it costs a maneuver to switch to a different armor/helm item.
-
-**Raging Nalam (lvl 2): Can you spend stamina for the special symbols rolled with this attack?** Yes.
-
-**Raging Nalam (lvl 2): Can you boost this attack with items, such as item card 107 Amulet of Power?** No, because it is not a melee, ranged or magic attack.
-
-**Raging Nalam (lvl 2): Does attacking an Enemy with Revenge trigger damage to Matajam?** No, Nalam does not transfer triggered effects to Matajam.
-
-**Twin Shot (lvl 4 Ranger): If an arrow or poison is used does the effect apply to both attacks or just one?** No, arrows and poisons only affect 1 attack and since Twin Shot is two separate attacks you’d have to use separate arrows/poisons for each.
-
 **Dancing Blade (lvl 1): Is the move 1 still affected by an enemy's provoke abilities?** Yes.
+
+**Targeting (Ranger skill): <span class="hidden">Can this be used more than once if you have extra maneuvers to spend?** Yes.</span>
+
+**Insect Swarm (lvl 3 Shaman): <span class="hidden">Is the Swarm’s damage affected by enemies’ shields?** Yes, Insect Swarm is an attack and therefore is reduced by the shield amount (Insect Swarm is great in some scenarios, but not so good in others with high shielded enemies).</span>
+
+**Insect Swarm (lvl 3 Shaman): <span class="hidden">Does the Insect Swarm token count as an Ally?** No.</span>
+
+**Item card 146 <span class="hidden">Rakka’s Wand: If Matajam makes a ranged attack with a bow and uses a poison arrow, would Rakka’s Wand dice effect be triggered?** No, it would not trigger, as it only applies if you are using the wand for your attack.</span>
+
+**Barkskin (Shaman skill): <span class="hidden">Do robes negate the effects of Barkskin or does that count as wearing armor?** No, only armor items (with armor card back) and helm/helmet items negate Barkskin. Robes are loose fitting and therefore work with Barkskin.</span>
+
+**Barkskin (Shaman skill): <span class="hidden">If I want to receive the effects of Barkskin, does removing your armor/helm item cost a maneuver?** Yes, just like it costs a maneuver to switch to a different armor/helm item.</span>
+
+**Raging Nalam (lvl 2): <span class="hidden">Can you spend stamina for the special symbols rolled with this attack?** Yes.</span>
+
+**Raging Nalam (lvl 2): <span class="hidden">Can you boost this attack with items, such as item card 107 Amulet of Power?** No, because it is not a melee, ranged or magic attack.</span>
+
+**Raging Nalam (lvl 2): <span class="hidden">Does attacking an Enemy with Revenge trigger damage to Matajam?** No, Nalam does not transfer triggered effects to Matajam.</span>
+
+**Twin Shot (lvl 4 Ranger): <span class="hidden">If an arrow or poison is used does the effect apply to both attacks or just one?** No, arrows and poisons only affect 1 attack and since Twin Shot is two separate attacks you’d have to use separate arrows/poisons for each.
 
 ### <a name="page_10.6" class="page-number">10.6</a> Zuva’Sai
 
 **What is the Opaque Shape ability?** See errata, this should be renamed as Blurred Form.
 
-**Blurred Form (Telepath skill): How many rerolls are allowed with this?** Rerolls may happen multiple times during the same reactive check, there is no limit on rerolls. You may keep rerolling all special symbols until you get a result that isn’t a special symbol (although occasionally you may want to stop rerolling to use the special symbol to get an effect from an armor item).
+**Blurred Form (Telepath skill): <span class="hidden">How many rerolls are allowed with this?** Rerolls may happen multiple times during the same reactive check, there is no limit on rerolls. You may keep rerolling all special symbols until you get a result that isn’t a special symbol (although occasionally you may want to stop rerolling to use the special symbol to get an effect from an armor item).</span>
 
-**Exploding Rune (Hydromancer skill): The skill description in the Rules Reference says this targets “an Enemy in each of 2 adjacent areas” but the symbol for ‘Adjacent Area Attacks’ is described as “Target all Enemies in 2 adjacent areas”. Which is correct?** The skill’s description is correct, it targets an Enemy in each of 2 adjacent areas.
+**Exploding Rune (Hydromancer skill): <span class="hidden">The skill description in the Rules Reference says this targets “an Enemy in each of 2 adjacent areas” but the symbol for ‘Adjacent Area Attacks’ is described as “Target all Enemies in 2 adjacent areas”. Which is correct?** The skill’s description is correct, it targets an Enemy in each of 2 adjacent areas.</span>
 
-**Item card 128 Wand of Bekora: Does the teleport ability need to be used with an attack?** No, it’s not connected to the attack. If you have the stamina, you can use the power. No limit on how many times either.
+**Item card 128 <span class="hidden">Wand of Bekora: Does the teleport ability need to be used with an attack?** No, it’s not connected to the attack. If you have the stamina, you can use the power. No limit on how many times either.</span>
 
 ### <a name="page_10.7" class="page-number">10.7</a> Lunara
 
-**Guardian of Light (lvl 3): Does this add +1 heal to the Consecrate token from the Consecrate Action (Paladin)?** Yes.
+**Guardian of Light (lvl 3): <span class="hidden">Does this add +1 heal to the Consecrate token from the Consecrate Action (Paladin)?** Yes.</span>
 
-**Guardian of Light (lvl 3): Does this add +1 heal to items, item tokens, and weapon gems that Lunara uses?** Yes, this passive ability affects any healing ability that Lunara uses, so even item cards like 032 Healing Potion and 044 Scroll of Healing get the +1 heal bonus.
+**Guardian of Light (lvl 3): <span class="hidden">Does this add +1 heal to items, item tokens, and weapon gems that Lunara uses?** Yes, this passive ability affects any healing ability that Lunara uses, so even item cards like 032 Healing Potion and 044 Scroll of Healing get the +1 heal bonus.</span>
 
-**Redemption (Paladin skill): Does this add +1 range and +1 success to Lunara’s Boon of Aiun?** Yes (added in errata).
+**Redemption (Paladin skill): <span class="hidden">Does this add +1 range and +1 success to Lunara’s Boon of Aiun?** Yes (added in errata).</span>
 
 ### <a name="page_10.8" class="page-number">10.8</a> Garuk
 
