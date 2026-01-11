@@ -1,6 +1,6 @@
 <link rel="stylesheet" href="override-markdown-styles.css"/>
 
-# **OFFICIAL FAQ FOR FROSTHAVEN**
+# **AGEMONIA FAQ - UNOFFICIAL**
 
 *Last Updated 2026-01-04*
 
