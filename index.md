@@ -243,39 +243,39 @@ You can find lots of great stuff in the [BGG Files](https://boardgamegeek.com/bo
 
 **Can Heroes put down a backpack item containing other items and use telekinesis to move the backpack and all its contents?** Yes.
 
-**Item card 058 <span class="hidden">Rune of the Moons: Can you decide not to roll before using this to maximize the revenge damage?** No, you still need to roll.</span>
+**Item card 058** <span class="hidden">**Rune of the Moons: Can you decide not to roll before using this to maximize the revenge damage?** No, you still need to roll.</span>
 
-**Item card 062 <span class="hidden">Flame Arrow + item card 068 Void Extract: Does this combo work to defeat all non-elite enemies in the same area?** Yes, you may use 1 poison and 1 arrow for an attack (if your weapon allows it).</span>
+**Item card 062** <span class="hidden">**Flame Arrow + item card 068 Void Extract: Does this combo work to defeat all non-elite enemies in the same area?** Yes, you may use 1 poison and 1 arrow for an attack (if your weapon allows it).</span>
 
-**Item card 064 <span class="hidden">Heartseeker Arrow: Can this be used to kill a non-elite monster with unlimited health?** No.</span>
+**Item card 064** <span class="hidden">**Heartseeker Arrow: Can this be used to kill a non-elite monster with unlimited health?** No.</span>
 
-**Item card 064 <span class="hidden">Heartseeker Arrow: Does the ranged attack need to do at least 1 damage in order to defeat the non-Elite Enemy?** No, simply targeting the enemy with the attack is enough to defeat it.</span>
+**Item card 064** <span class="hidden">**Heartseeker Arrow: Does the ranged attack need to do at least 1 damage in order to defeat the non-Elite Enemy?** No, simply targeting the enemy with the attack is enough to defeat it.</span>
 
-**Item card 064 <span class="hidden">Heartseeker Arrow: If a Hero uses this to defeat an Enemy with Revenge, do they take only the reflected damage from the attack roll or the full remaining health of the Enemy?** Only the damage from the attack roll.</span>
+**Item card 064** <span class="hidden">**Heartseeker Arrow: If a Hero uses this to defeat an Enemy with Revenge, do they take only the reflected damage from the attack roll or the full remaining health of the Enemy?** Only the damage from the attack roll.</span>
 
-**Item card 068 <span class="hidden">Void Extract: Can this be used to kill a non-elite monster with unlimited health?** No.</span>
+**Item card 068** <span class="hidden">**Void Extract: Can this be used to kill a non-elite monster with unlimited health?** No.</span>
 
-**Item card 068 <span class="hidden">Void Extract: Does the attack need to do at least 1 damage in order to defeat the non-Elite Enemy?** No, simply targeting the enemy with the attack is enough to defeat it.</span>
+**Item card 068** <span class="hidden">**Void Extract: Does the attack need to do at least 1 damage in order to defeat the non-Elite Enemy?** No, simply targeting the enemy with the attack is enough to defeat it.</span>
 
-**Item card 068 <span class="hidden">Void Extract: If a Hero uses this to defeat an Enemy with Revenge, do they take only the reflected damage from the attack roll or the full remaining health of the Enemy?** Only the damage from the attack roll.</span>
+**Item card 068** <span class="hidden">**Void Extract: If a Hero uses this to defeat an Enemy with Revenge, do they take only the reflected damage from the attack roll or the full remaining health of the Enemy?** Only the damage from the attack roll.</span>
 
-**Item card 080 <span class="hidden">Quothian Dirk: Is this considered a dagger for Venia’s Shadow Stalker skill?** Yes, see Shadow Stalker description in the rulebook.</span>
+**Item card 080** <span class="hidden">**Quothian Dirk: Is this considered a dagger for Venia’s Shadow Stalker skill?** Yes, see Shadow Stalker description in the rulebook.</span>
 
-**Item card 081 <span class="hidden">Tear of Eti: Can you use the first initiative ability with non-attack actions?** For example, my Venia character has Shadow Form. Could I spend 3 stamina, go first, Shadow Form, and therefore avoid being the target of enemies? Yes.</span>
+**Item card 081** <span class="hidden">**Tear of Eti: Can you use the first initiative ability with non-attack actions?** For example, my Venia character has Shadow Form. Could I spend 3 stamina, go first, Shadow Form, and therefore avoid being the target of enemies? Yes.</span>
 
-**Item card 089 <span class="hidden">Wyldkin Wand: If you’re already Cursed before attacking, do you gain Cursed again from the Wand?** Yes, the Cursed condition first gets discarded, then gets reapplied from the Wand.</span>
+**Item card 089** <span class="hidden">**Wyldkin Wand: If you’re already Cursed before attacking, do you gain Cursed again from the Wand?** Yes, the Cursed condition first gets discarded, then gets reapplied from the Wand.</span>
 
-**Item card 090 <span class="hidden">Elakira’s Sliver: The description on the item card doesn’t match the description in the rulebook. Which is correct?** The card is correct. Both level 1 and level 2 magic attacks cost 1 fewer stamina (see errata).</span>
+**Item card 090** <span class="hidden">**Elakira’s Sliver: The description on the item card doesn’t match the description in the rulebook. Which is correct?** The card is correct. Both level 1 and level 2 magic attacks cost 1 fewer stamina (see errata).</span>
 
-**Item card 100 <span class="hidden">Gunbanjar Bag: Is this item considered a backpack?** No, you may use this in addition to a backpack.</span>
+**Item card 100** <span class="hidden">**Gunbanjar Bag: Is this item considered a backpack?** No, you may use this in addition to a backpack.</span>
 
-**Item card 112 <span class="hidden">Lucky Coin: Can this be used on another player's roll?** No, the effect can only be used for the Hero who is carrying the item.</span>
+**Item card 112** <span class="hidden">**Lucky Coin: Can this be used on another player's roll?** No, the effect can only be used for the Hero who is carrying the item.</span>
 
-**Item card 143 <span class="hidden">Wyldkin Band: Does the roll bonus effect work in city/world events, where stamina is not spent for the successes? Or is this bonus only applied on rolls where you have the option to actually spend the stamina?** Only when actually spending stamina.</span>
+**Item card 143** <span class="hidden">**Wyldkin Band: Does the roll bonus effect work in city/world events, where stamina is not spent for the successes? Or is this bonus only applied on rolls where you have the option to actually spend the stamina?** Only when actually spending stamina.</span>
 
-**Item card 149 <span class="hidden">Goblet of Thaxo: The card ability does not match the description in the rulebook. Which is correct?** The card is correct. The updated description should be “Once per City step, you may discard any one Essence token to gain any one Essence token. (see errata)</span>
+**Item card 149** <span class="hidden">**Goblet of Thaxo: The card ability does not match the description in the rulebook. Which is correct?** The card is correct. The updated description should be “Once per City step, you may discard any one Essence token to gain any one Essence token. (see errata)</span>
 
-**Item card 150 <span class="hidden">Figurine of Lanimora: Can you use the first ability multiple times during the City step?** No, you can only use items during a City step if the card says so, otherwise it can only be used in a scenario. You can use this item multiple times during a scenario, with the only limit being the amount of Nature Essences in the stock (4).</span>
+**Item card 150** <span class="hidden">**Figurine of Lanimora: Can you use the first ability multiple times during the City step?** No, you can only use items during a City step if the card says so, otherwise it can only be used in a scenario. You can use this item multiple times during a scenario, with the only limit being the amount of Nature Essences in the stock (4).</span>
 
 <div class="divider"></div>
 
