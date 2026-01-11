@@ -2,11 +2,9 @@
 
 # **AGEMONIA FAQ - UNOFFICIAL**
 
-*Last Updated 2026-01-04*
+*Last Updated 2026-01-011*
 
 **For information about this FAQ, see <a href="#page_0">Section 0</a>**
-
-*[Pour un errata de la version française, cliquez sur ce lien](https://gvigne.github.io/frosthaven-french-faq/)*
 
 1. <a href="#page_01">General</a>
 1. <a href="#page_2">Conditions</a>
@@ -28,7 +26,6 @@
    1. <a href="#page_88">"Meteor"</a>
 1. <a href="#page_11">Puzzle Book</a>
 
-
 <div class="divider"></div>
 
 ## <a name="page_0" class="page-number">0.0</a> Introduction
@@ -37,12 +34,11 @@ This is the official FAQ for Frosthaven. It will be continuously updated as more
 
 <div class="divider"></div>
 
-
 ### 0.1 Spoilers
 
 I follow official spoiler rules in this FAQ. I will spoiler-tag all locked content, and refer to locked game contents by their locked class nickname, envelope/building number, scenario number, or item number. Note that starting buildings, all cards for starter classes (including higher level cards), scenarios 0-1, Personal Quests 01-10, starting items, and abilities/statistics for common monsters are not spoilers, and will not be treated as such. Please note that your in-browser Find function can also find words behind spoiler tags on this page.
 
-![divider](/assets/images/divider2.png)
+<div class="divider"></div>
 
 ### 0.2 About Me
 
