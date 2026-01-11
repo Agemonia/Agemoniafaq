@@ -4,7 +4,7 @@
 
 *Last Updated 2026-01-011*
 
-**For information about this FAQ, see <a href="#page_0">Section 0</a>**
+**For information about this FAQ, see <a href="#page_0">Section 0: Information</a>**
 
 1. <a href="#page_1">General</a>
 1. <a href="#page_2">Conditions</a>
@@ -16,19 +16,20 @@
 1. <a href="#page_8">Scenario General Questions</a>
 1. <a href="#page_9">Scenario Specific Questions</a>
 1. <a href="#page_10">Heroes</a>
-   1. <a href="#page_81">Drifter</a>
-   1. <a href="#page_82">Blinkblade</a>
-   1. <a href="#page_83">Banner Spear</a>
-   1. <a href="#page_84">Deathwalker</a>
-   1. <a href="#page_85">Boneshaper</a>
-   1. <a href="#page_86">Geminate</a>
-   1. <a href="#page_87">"Astral"</a>
-   1. <a href="#page_88">"Meteor"</a>
+   1. <a href="#page_10.1">Torrax</a>
+   1. <a href="#page_10.2">Venia</a>
+   1. <a href="#page_10.3">Jonai</a>
+   1. <a href="#page_10.4">Drenosh</a>
+   1. <a href="#page_10.5">Matajam</a>
+   1. <a href="#page_10.6">Zuva'Sai</a>
+   1. <a href="#page_10.7">"Lunar"</a>
+   1. <a href="#page_10.8">"Garuk"</a>
+   1. <a href="#page_10.9">"Xir"</a>
 1. <a href="#page_11">Puzzle Book</a>
 
 <div class="divider"></div>
 
-##  <a name="page_0" class="page-number">0</a> Introduction
+##  <a name="page_0" class="page-number">0</a> Information
 
 ### Introduction
 This is an unofficial FAQ created with a collection of questions taken from BGG and the Agemonia Discord, with the majority of the answers coming directly from the game’s designers. Please use your in-browser Find function to locate answers to specific questions.
@@ -155,7 +156,7 @@ You can find...
 
 <div class="divider"></div>
 
-## <a name="page_5" class="page-number">5.0</a> City Step:
+## <a name="page_4" class="page-number">4.0</a> City Step:
 
 **Can you please clarify the order of the City steps?**
 - Each Hero may visit as many locations as they want and use the services.
@@ -180,7 +181,7 @@ You can find...
 
 <div class="divider"></div>
 
-## <a name="page_6" class="page-number">6.0</a> Pets:
+## <a name="page_5" class="page-number">5.0</a> Pets:
 
 **Do all pets have a figure/standee?** No, some pets are simply item cards (thematically these pets are just held on your Hero’s shoulder), while others have a figure which can be placed on the map and moved around (the pets with a figure will have a corresponding standee shown on the pet card).
 
@@ -204,7 +205,7 @@ You can find...
 
 <div class="divider"></div>
 
-## <a name="page_7" class="page-number">7.0</a> Henchman & Non-Hero Allies:
+## <a name="page_6" class="page-number">6.0</a> Henchman & Non-Hero Allies:
 
 **Can Henchmen or Non-Hero Allies do Active Ability checks on Story cards?** No, Henchmen cannot do optional active ability checks on story cards.
 
@@ -218,7 +219,7 @@ You can find...
 
 <div class="divider"></div>
 
-## <a name="page_8" class="page-number">8.0</a> Item Cards:
+## <a name="page_7" class="page-number">7.0</a> Item Cards:
 
 **When can a Hero use item cards or item tokens?** At any time on their turn, except in the middle of an active/reactive check or attack unless they specify otherwise (i.e. You can’t use a Blightcap token in the middle of a test for extra stamina to spend). While it is not your Hero’s turn, the only items that can be used are items that involve a blue reactive check (ex: armor or helmets).
 
@@ -284,7 +285,7 @@ You can find...
 
 <div class="divider"></div>
 
-## <a name="page_9" class="page-number">9.0</a> Scenario General Questions:
+## <a name="page_8" class="page-number">8.0</a> Scenario General Questions:
 
 **Some scenario cards contain a symbol with the letters A/B/C/D/E in the Journey steps. What are those?** These are special locations (shown on the Campaign map as A/B/C/D/E symbols). Special locations have ongoing plots and storylines which advance each time you visit the special location.
 
@@ -312,35 +313,38 @@ You can find...
 
 <div class="divider"></div>
 
-## <a name="page_10" class="page-number">10.0</a> Scenario Specific Questions:
+## <a name="page_9" class="page-number">9.0</a> Scenario Specific Questions:
 
-## Scenario 3:
+### Scenario 3:
 **If Storycard Z is flipped to its overlay side, which removes Story Point Z from the map, can a Hero still use Storycard H to drop down to Story Point Z (which no longer exists)?** Probably? Confirm?.
 
-## Scenario 4:
+### Scenario 4:
 **When exactly should the first timer begin? Is the Fate card from the end of round 2 used as the first card for the timer?** The first Fate card to go in the timer pile is the one revealed at the end of round 3 (the first Raid card is revealed and resolved at the end of round 2 which instructs you to start a timer).
 
 **Can Heroes or Enemies make ranged or magic attacks through the crates?** Yes, ranged and magic attacks can be made through double white lines as they do not block line of sight (thematically think of the crates as being waist high).
 
 **If I gain an ally during the scenario, do I keep it for the next scenario?** No, you only keep an ally at the end of a scenario if it is mentioned in the conclusion.
 
-## Scenario 5:
+### Scenario 5:
 **Can Heroes pick up Nightfinger mushrooms during their move maneuvers?** Yes, you can pick them up in the middle of your move, and then continue that movement.
 
 **Will the Zlohian enemies focus more on the Nightfinger mushrooms than the Allies? If the enemy is in the same area as an Ally, will it still move towards the closest Nightfinger? Does it attack first then move?** Moving always happens before attacking, and its number one priority is the closest Nightfinger mushroom, therefore the enemy will move first towards the closest Nightfinger, potentially moving away from an Ally. After moving, the enemy will attack only if there’s still an Ally within attack range.
 
-## Scenario 6:
+### Scenario 6:
 **Do you keep the Orb item if you succeed in the scenario?** No, you need to discard it when you activate the device in the middle of the vault.
 
 **If a Revenant is defeated, how many turns until he gets placed back on the scenario map?** You only get 1 full round before the Revenant spawns again. One token will be placed at the end of the same turn it’s defeated, then the 2nd token will be placed at the end of the next turn, therefore spawning the Revenant again for the following round. Hint: This scenario is all about timing.
 
-**Scenario 7: Can a Hero push or pull the Arcane Golem outside of the temple walls?** Yes, that’s allowed, but as the special movement rules states, the Golem would then move back towards an Ally inside the temple walls.
+### Scenario 7: 
+**Can a Hero push or pull the Arcane Golem outside of the temple walls?** Yes, that’s allowed, but as the special movement rules states, the Golem would then move back towards an Ally inside the temple walls.
 
-**Scenario 8: How much health does the Bloodrock start with?** The Bloodrock starts with 10x the number of Heroes plus an additional 10 health. The damage symbol (red circle with white down arrow) does not mean damage in this case.
+### Scenario 8:
+**How much health does the Bloodrock start with?** The Bloodrock starts with 10x the number of Heroes plus an additional 10 health. The damage symbol (red circle with white down arrow) does not mean damage in this case.
 
 **How exactly do ranged and magic attacks work when a Hero/Enemy is standing in a Sapfir Tree area? Can they ever be targeted or attacked?** A Hero/Enemy standing in a Sapfir can not be attacked by ranged or magic attack from another area. They can still be targeted and moved towards as normal, and if the attacker were to enter the same Sapfir Tree area (if the capacity allows it), then the attacker could attack with its ranged or magic attack.
 
-**Scenario 9: Story card C 'A Marked Tree' – does this require the Hero who has 'You have discovered some markings' or is everyone in the party considered to have discovered the markings?** Everybody in the party is considered to have discovered it.
+### Scenario 9: 
+**Story card C 'A Marked Tree' – does this require the Hero who has 'You have discovered some markings' or is everyone in the party considered to have discovered the markings?** Everybody in the party is considered to have discovered it.
 
 **If two Heroes are in the same area with an intact Wisptree, and the Benaethid performs his bottom area attack, do both Heroes ignore the attack and then the tree is destroyed?** Yes, both ignore the attack.
 
@@ -453,7 +457,141 @@ You can find...
 **Scenario 36: Does the Head damage modifier apply to non-attack damage?** No, only attacks.
 
 
-## <a name="page_11" class="page-number">11.0</a> Heroes:
+## <a name="page_10" class="page-number">10.0</a> Heroes:
+
+### <a name="page_10.1" class="page-number">10.1</a> Torrax
+
+**Earth Link (Geomancer skill): Does this increase the range of Torrax’s Telekinesis (lvl 2)?** No, Telekinesis is not an attack and therefore unaffected.
+
+**Earth Link (Geomancer skill): Does this increase the range and damage of Torrax’s Earth Bolt (lvl 2) or Earthquake (lvl 4 Geomancer)?** Earth Bolt gets both +1 success and +1 range added to its straight line attack (can now target the first 4 areas in a straight line of sight from your area). Earthquake receives +1 success but no range increase as it has no range (just an area).
+
+**Telekinesis (lvl 2): Can this be used to move around tokens during a scenario?** Sometimes, as Telekinesis only works on items, therefore the scenario rules must explicitly state that a certain token is an item.
+
+**Telekinesis (lvl 2): The item moved must be within line of sight and range 3 of Torrax, but when the item is moved, is it moved within range 3 of where the item is, or within range 3 of Torrax?** The movement must end in line of sight and range 3 of Torrax (this may sometimes allow you to move an item 6 spaces, first moving it 3 to Torrax, then 3 more away).
+
+**Stone Form (lvl 4): While in Stone Form, will Torrax still be targeted by attacks? And if so does Riposte still work?** He can still be targeted, but Riposte will not happen. From the description: “You do not take a turn and may not do anything during any other Ally or Enemy’s turn.”
+
+**Stone Form (lvl 4): If Torrax has Energy Absorption (Geomancer) marked on himself, does Torrax recover 2 stamina every time he is attacked while in Stone Form?** No, while Stone Form is active, Energy Absorption would only work on another marked Ally.
+
+**Stone Form (lvl 4): Can you enter and exit Stone Form in the same round?** For example, assuming Heroes and Enemies function in the normal red-blue-green order, could Torrax enter Stone Form at red, then tank attacks from blue Enemies, and at the start of another Ally’s green turn, end the ability? Would I then be able to take an action normally next round? Would I recover the five stamina if I prematurely end the effect? Yes, you may end the effect at the start of any Ally or Enemy turn, and you will recover the five stamina immediately. The round after that, you would select and play an action as normal.
+
+**Hero Book Level 1 - Entry 03 (Stevedore): Do the special symbols on rolls count as 2 automatic successes?** No, you must spend stamina in this case. A check will always specify if the special symbol is counted as 2 successes.
+
+**Hero Book Level 2: If Torrax decides to “Have a drink at the Mossy Stone.” and other Heroes choose to join him, do they also have to spend a City Activity point?** Yes, each Hero must spend a City Activity point to take part in this.
+
+### <a name="page_10.2" class="page-number">10.2</a> Venia
+
+**Dual Wielder + Shadow Stalker (Assassin skills): If Venia makes a melee attack while dual wielding two daggers, does she get +2 successes from Shadow Stalker?** Yes, each dagger gives +1.
+
+**Backstab (lvl 1 Assassin): Can any pet card in the same area allow the attack to be used?** No, not all pets, as this has been updated to allow only pet figures to be used, therefore pet cards without a figure will have no effect.
+
+**Backstab (lvl 1 Assassin): Can Venia use this from an adjacent space if the targeted area is at max capacity?** No, Venia and the additional Ally or pet figure must be in the same area as the Enemy being attacked.
+
+**Shadow Form (lvl 3): If Venia loses Invisibility while in Shadow Form, what happens to the locked stamina?** It goes into your spent stamina pile.
+
+**Bounding Charge (lvl 2 Assassin): Can you use the jump 2 even if you don’t use the attack?** Yes.
+
+**Curse of Aox (lvl 3 Witch): Does the Curse of Aox token allow other Heroes to drain or just Venia?** Just Venia.
+
+**Curse of Aox (lvl 3 Witch): Does Venia need line of sight to activate the Drain from Curse of Aox?** No, line of sight is only required for initially applying the curse to an enemy. The drain happens regardless of line of sight or distance until the enemy is defeated or you choose to end the effect.
+
+**Curse of Aox (lvl 3 Witch): Does the drain damage break Invisibility?** No, as the drain is not an attack.
+
+**Curse of Aox (lvl 3 Witch): Is the drain damage affected by enemies’ shield values?** No, drain is not an attack, therefore the damage is unaffected by shields.
+
+**Assassinate (lvl 4 Assassin): Can any pet card in the same area allow the attack to be used?** No, not all pet cards. It must be a Pet figure.
+
+**Assassinate (lvl 4 Assassin): Can Venia use this from an adjacent space if the targeted area is at max capacity?** No, Venia and the additional Ally or pet figure must be in the same area as the Enemy being attacked.
+
+**Item card 125/126 Urskull: Can this be used with an area attack (ex: item card 062 Flame Arrow)?** Yes, and you drain/heal from all enemies that take damage.
+
+### <a name="page_11.3" class="page-number">11.3</a> Jonai
+
+**Defender of Mion (lvl 1): When does the +1 shield apply?** The +1 shield only applies once you use the action on your turn until the end of the round (it does not provide a bonus before your turn like the Focus action).
+
+**Channel Energy (lvl 1): What kind of rolls does this apply to?** It works on any roll using red or blue dice; attack rolls, action/ability rolls (such as Lunara’s Flash Heal), or any active or reactive check.
+
+**Blades of Wrath (lvl 2 Blademaster): Can each attack be made against different targets?** Yes.
+
+**Reactive Attack (lvl 2): Can Jonai select this action if all other Heroes are exhausted?** No.
+
+**Sentinel’s Mark (lvl 3 Aox Hunter): How does this work?** If it’s a single target attack against the marked Enemy, simply add an extra die to the attack. If it’s an area attack (or other multi-target attack) only add the extra die to the marked Enemy.
+
+**Split in Two (lvl 4 Blademaster): Does this double the successes only from the roll, or also includes the weapon modifiers before doubling?** It also includes the modifiers, so add the successes from the 3 dice to any other modifiers (weapon, etc.) and then double them!
+
+**Item card 157 Ethereal Crown or Item card 158 Breachwalker Crown: Do these use up the helmet slot?** Those items do not use up the helmet slot as they are just ethereal projections.
+
+**Hero Book - ‘Fight Crime’ City Activity: If another Hero spends Star do they do a separate roll or just add +1 to Jonai’s?** Entry 42 explains this. Everybody rolls a separate roll (+1 to everybody).
+
+### <a name="page_10.4" class="page-number">10.4</a> Drenosh
+
+**Fiery soul (Pyroblade skill): Will this trigger if a bleed applied by Drenosh kills an enemy (does it count as being defeated by Drenosh)?** No, as bleeding damage is not specific to the Hero who applied it.
+
+**Combustion (Pyroblade skill): Does this make Fire Blast an area 0 area in addition to range 4?** Yes, Fire Blast becomes a range 4 area 0 attack.
+
+**Charge (lvl 2 Marauder): Is Jump considered to be movement points for this attack (ex: from Luawa’s Leap Elixir)?** No, only spent movement points.
+
+**Hellfire (lvl 4 Pyroblade): Can I still add dice to this attack?** Yes, the base attack uses 0 red dice, but you may add more with items or an inspiration gem.
+
+**Chaos Strike (lvl 5 Marauder): The Rules Reference description indicates this action applies to both melee and ranged attacks, however the action token only indicates a melee attack. Which is correct?** The action token is correct, this is only a melee attack (updated in errata).
+
+**Item card 131-134 Gift of Fire: Can it be used with an item like Cube of Annihilation?** Yes, Gift of Fire works with any attack you make, even if it's with an item like the Cube.
+
+**Item card 131-134 Gift of Fire: Does it affect multiple attacks like from Flaming Fury?** No, Gift of Fire only affects one attack.
+
+### <a name="page_10.5" class="page-number">10.5</a> Matajam
+
+**Targeting (Ranger skill): Can this be used more than once if you have extra maneuvers to spend?** Yes.
+
+**Insect Swarm (lvl 3 Shaman): Is the Swarm’s damage affected by enemies’ shields?** Yes, Insect Swarm is an attack and therefore is reduced by the shield amount (Insect Swarm is great in some scenarios, but not so good in others with high shielded enemies).
+
+**Insect Swarm (lvl 3 Shaman): Does the Insect Swarm token count as an Ally?** No.
+
+**Item card 146 Rakka’s Wand: If Matajam makes a ranged attack with a bow and uses a poison arrow, would Rakka’s Wand dice effect be triggered?** No, it would not trigger, as it only applies if you are using the wand for your attack.
+
+**Barkskin (Shaman skill): Do robes negate the effects of Barkskin or does that count as wearing armor?** No, only armor items (with armor card back) and helm/helmet items negate Barkskin. Robes are loose fitting and therefore work with Barkskin.
+
+**Barkskin (Shaman skill): If I want to receive the effects of Barkskin, does removing your armor/helm item cost a maneuver?** Yes, just like it costs a maneuver to switch to a different armor/helm item.
+
+**Raging Nalam (lvl 2): Can you spend stamina for the special symbols rolled with this attack?** Yes.
+
+**Raging Nalam (lvl 2): Can you boost this attack with items, such as item card 107 Amulet of Power?** No, because it is not a melee, ranged or magic attack.
+
+**Raging Nalam (lvl 2): Does attacking an Enemy with Revenge trigger damage to Matajam?** No, Nalam does not transfer triggered effects to Matajam.
+
+**Twin Shot (lvl 4 Ranger): If an arrow or poison is used does the effect apply to both attacks or just one?** No, arrows and poisons only affect 1 attack and since Twin Shot is two separate attacks you’d have to use separate arrows/poisons for each.
+
+**Dancing Blade (lvl 1): Is the move 1 still affected by an enemy's provoke abilities?** Yes.
+
+### <a name="page_10.6" class="page-number">10.6</a> Zuva’Sai
+
+**What is the Opaque Shape ability?** See errata, this should be renamed as Blurred Form.
+
+**Blurred Form (Telepath skill): How many rerolls are allowed with this?** Rerolls may happen multiple times during the same reactive check, there is no limit on rerolls. You may keep rerolling all special symbols until you get a result that isn’t a special symbol (although occasionally you may want to stop rerolling to use the special symbol to get an effect from an armor item).
+
+**Exploding Rune (Hydromancer skill): The skill description in the Rules Reference says this targets “an Enemy in each of 2 adjacent areas” but the symbol for ‘Adjacent Area Attacks’ is described as “Target all Enemies in 2 adjacent areas”. Which is correct?** The skill’s description is correct, it targets an Enemy in each of 2 adjacent areas.
+
+**Item card 128 Wand of Bekora: Does the teleport ability need to be used with an attack?** No, it’s not connected to the attack. If you have the stamina, you can use the power. No limit on how many times either.
+
+### <a name="page_10.7" class="page-number">10.7</a> Lunara
+
+**Guardian of Light (lvl 3): Does this add +1 heal to the Consecrate token from the Consecrate Action (Paladin)?** Yes.
+
+**Guardian of Light (lvl 3): Does this add +1 heal to items, item tokens, and weapon gems that Lunara uses?** Yes, this passive ability affects any healing ability that Lunara uses, so even item cards like 032 Healing Potion and 044 Scroll of Healing get the +1 heal bonus.
+
+**Redemption (Paladin skill): Does this add +1 range and +1 success to Lunara’s Boon of Aiun?** Yes (added in errata).
+
+### <a name="page_10.8" class="page-number">10.8</a> Garuk
+
+**While in Ravager form Garuk can’t use Cryomancer actions and vice-versa. How do I know which actions are which?** All the white action tokens are for Cryomancer, while the dark brown ones are for Ravager form. It is also written on the back of each action token.
+
+**Pounce (Ravager board): Can you jump before or after the attack?** Yes, you attack and jump in any order. 
+
+### <a name="page_10.9" class="page-number">10.9</a> Xir
+
+##  <a name="page_11" class="page-number">11.0</a> Puzzle Book
+
+**Runic Language: Are the letters Q and U the same symbol?** They look very similar, but they are very slightly different.
 
 <div class="divider"></div>
 
