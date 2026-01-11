@@ -492,7 +492,7 @@ You can find...
 <p><b>Story card Diamond / Enemy Card 3: When the timer reaches its target number, does Wollyon heal to full each time he gets removed and spawned again?</b> - Yes, it’s a new illusion at full health each time.</p>
 <p><b>Can ‘Dispel Illusion’ on Story cards J and Q be used to dispel Wollyon’s illusion?</b> - Yes.</p>
 <p><b>Do Story cards J or Q need to be on the Hero who is removing/dispelling the illusion on Story cards W and S?</b> - Yes, the Hero dispelling the illusion needs to have either J or Q.</p>
-<p><b>During this scenario Heroes may receive a bleeding condition. How does this interact with Item card 105 Amulet of Shonosh?</b> - Item 105 only prevents a Hero from initially receiving the bleeding condition if they are carrying it at the time they receive the bleeding. If a Hero without item 105 receives this bleeding condition, later being given item 105 does not remove it, as the “you may only discard this…” rule now applies.</p>
+<p><b>During this scenario Heroes may receive a bleeding condition. How does this interact with Item card 105 <span class="hidden">Amulet of Shonosh which states “you are immune to the Bleeding condition”?</span></b> - Item 105 only prevents a Hero from initially receiving the bleeding condition if they are carrying it at the time they receive the bleeding. If a Hero without item 105 receives this bleeding condition, later being given item 105 does not remove it, as the “you may only discard this…” rule now applies.</p>
 </details>
 <br>
 
