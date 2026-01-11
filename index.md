@@ -406,106 +406,106 @@ You can find...
 
 <details>
 <summary><b>Scenario 16 A,B,C</b></summary>
-<p><b>Scenario 16 is considered to be 3 separate scenarios, except for the purpose of Henchmen hiring.</b> - See details below and errata.</p>
-<p><b>Do Heroes heal back to full after completing each part (A, B and C)?</b> - Yes, Heroes fully recover stamina and remove wounded and exhausted statuses.</p>
-<p><b>How do items that refer to “once each scenario” work?</b> - You would gain the benefit once for each part of scenario 16 (A, B and C).</p>
-<p><b>How does hiring Henchmen work in this scenario?</b> - A Henchman hired before 16A remains with the party through 16B and until the end of 16C, assuming survival.</p>
-<p><b>Do the A/B/C scenarios count as separate scenarios for leveling up Henchmen?</b> - Yes, Henchmen may level up at the end of each part.</p>
-<p><b>Can the key be targeted and attacked by enemies when it has 0 shields?</b> - Yes, it still has taunt 10 and can be attacked.</p>
+<p><b>Scenario 16 is considered to be 3 separate scenarios, except for the purpose of Henchmen hiring.</b> - See below and errata.</p>
+<p><b>Do Heroes heal back to full after completing each part (A, B and C)?</b> - Yes, Heroes fully recover stamina and remove wounded and exhausted statuses. See Recovering After a Scenario in the End of a Scenario section on p.25 of the rulebook.</p>
+<p><b>How do items that refer to “once each scenario” work, such as item card 100 or pet card 069 (trained)?</b> - You would gain 1 herb for each part of scenario 16 (A, B and C).</p>
+<p><b>How does hiring Henchmen work in this scenario?</b> - Typically a hired Henchman would leave the party at the end of a scenario, but this 3-part scenario is an exception. A Henchman hired in the City step before Scenario 16A will remain with the party for 16B and until the end of 16C (assuming they survive each part). The Henchman may then be paid for and hired again at the end of 16C before beginning 17 (see errata).</p>
+<p><b>Do the A/B/C scenarios count as separate scenarios for the purpose of leveling up Henchmen?</b> - Yes, your Henchman may level up at the end of each, assuming he has successfully survived two scenarios.</p>
+<p><b>Can the key be targeted and attacked by enemies when it has 0 shields?</b> - Yes, it still has taunt 10 and can be attacked even at 0 shields.</p>
 <p><b>Is the key considered an item?</b> - No.</p>
 </details>
 <br>
 
 <details>
 <summary><b>Scenario 16A</b></summary>
-<p><b>What is the spark token obtained from rewards of the face tiles?</b> - This is a Spark item token, not an Argurian spark token.</p>
+<p><b>What is the spark token obtained from rewards of the face tiles?</b> - This is a Spark item token (the one that lets you reroll all), not an Argurian spark token from the scenario rules.</p>
 <p><b>Are spark tokens considered items?</b> - No.</p>
-<p><b>If a Hero is in the same area as the Key, can another Hero move in, add a shield, then move out in one maneuver?</b> - Yes.</p>
-<p><b>If a Hero is in the same area as the Key, can another Hero move in, pick up the Key and move it?</b> - Yes, as long as the Hero moves out of the area.</p>
-<p><b>How does a Hero get the Key back from a Golem?</b> - If the Heroes deal 6 damage to the Golem, they may enter the area as if it weren’t an Enemy.</p>
+<p><b>If a Hero is in the same area as the Key, can another Hero move into the same area, spend 5 stamina to add a shield, then move out all in one maneuver?</b> - Yes.</p>
+<p><b>If a Hero is in the same area as the Key, can another Hero move into the same area, roll the strength check to pick up the Key and move it?</b> - Yes, as long as the Hero moves out of the area (two Heroes plus the Key don’t fit into the 2 capacity areas).</p>
+<p><b>How does a Hero get the Key back from a Golem that has moved into the same area as the Key?</b> - This has been addressed in the errata. If the Heroes deal 6 damage to the Golem, they may enter the area as if it weren’t an Enemy.</p>
 </details>
 <br>
 
 <details>
 <summary><b>Scenario 16C</b></summary>
-<p><b>How does the shuffling and rotating of the Moving Wall cards work?</b> - Randomly rotate some cards 180° when shuffling. Place and reveal cards as described to preserve orientation randomness.</p>
-<p><b>Story card W: How do Recover Maneuvers work?</b> - All Allies’ Recover Maneuvers gain +1 stamina until the end of Scenario 17.</p>
+<p><b>How does the shuffling and rotating of the Moving Wall cards work?</b> - Each time you shuffle the Moving Walls deck, randomly rotate some of the cards 180 degrees (turn them upside down, still face down). This is because the Moving Wall cards can be used in either orientation and you are randomizing it. Best way to approach the revealing mechanic of the Moving Walls: Place the Moving Wall deck above the scenario map, rotated 90 degrees so the long side of the cards are parallel to the scenario map’s ‘slot 1’. Then when the walls move, simply flip the top card of the deck (without rotating it) and slide it into ‘slot 1’ in that orientation.</p>
+<p><b>Story card W: How do Recover Maneuvers work?</b> - All Allies’ Recover Maneuvers will have a +1 stamina bonus until the end of Scenario 17.</p>
 </details>
 <br>
 
 <details>
 <summary><b>Scenario 17</b></summary>
-<p><b>Can enemies move between the two start areas?</b> - Yes, they are considered in both maps at the same time.</p>
-<p><b>Does the Blood Ruby damage modifier apply to all damage?</b> - No, only damage from attacks.</p>
-<p><b>How do the two start areas work with attacks and line of sight?</b> - They are considered the same area with combined capacity, but line of sight does not extend beyond them.</p>
-<p><b>Is the height difference at the top of the stairs affected by height rules?</b> - No, movement works normally there.</p>
-<p><b>Can Heroes move into a breach area without a floating rock?</b> - Not with movement points, but they can spend a maneuver.</p>
+<p><b>Can enemies move between the two start areas?</b> - Yes, when they enter a Start area, they are considered in both maps at the same time (the portal exists in both worlds at the same time).</p>
+<p><b>Does the modifier to damage linked to the number of defeated Blood Rubies apply to any damage or just attacks?</b> - Just damage from attacks.</p>
+<p><b>How do the two start areas work with attacks and line of sight?</b> - They are considered to be the same area (combined max capacity of 4). You can perform a melee attack on an Enemy in the other start area, but you cannot perform a ranged attack with a bow (minimum range 1). Any magic or ranged attack has obstructed aim if there’s an Enemy in the other start area. You do not have line of sight through the start areas to adjacent areas of the other scenario map.</p>
+<p><b>There’s a height difference shown on the top of the stairs on the scenario map. Is this affected by the height rules?</b> - No, because the top of the stairs has a single white line instead of a double white line, so Allies and Enemies can move as normal across that line.</p>
+<p><b>Can Heroes move into a breach area that doesn’t have a floating rock in it?</b> - Allies can’t use a movement point to move into a breach area without a floating rock, but they can spend a maneuver to do so.</p>
 </details>
 <br>
 
 <details>
 <summary><b>Scenario 20</b></summary>
-<p><b>Storycard J: Entry 678 – Who gets the circle token?</b> - The Hero who places the final triangle token.</p>
+<p><b>Storycard J: Entry 678 – Who gets the circle token?</b> - Whichever Hero places the final triangle token.</p>
 </details>
 <br>
 
 <details>
 <summary><b>Scenario 24/25</b></summary>
-<p><b>Can you push or pull through Intact Barricades?</b> - No. Only ranged attacks are allowed across them.</p>
-<p><b>Do Shadow Goggles or Sniper skills ignore barricade obstruction?</b> - Yes.</p>
-<p><b>Can Pet figures move through Intact Barricades?</b> - Yes.</p>
-<p><b>If an Enemy attacks an Intact Barricade, how much damage does it take?</b> - The barricade takes full damage.</p>
+<p><b>Can you push or pull through the Intact Barricades (for example use Torrax’s Grapple)?</b> - No, you may not push or pull through the barricades. Torrax’s Grapple is also a melee attack and is not allowed. Only ranged attacks can be made across the Intact Barricades (and only if in the same area as the barricade).</p>
+<p><b>Does a Hero with Item card 145 Shadow Goggles or the Sniper or Spell Sniper skill ignore the obstructed aim restrictions from the barricades?</b> - Yes.</p>
+<p><b>Can Pet figures move through Intact Barricades?</b> - Yes, pets can get through the small gaps.</p>
+<p><b>If an Enemy attacks an Intact Barricade, how much damage does it take?</b> - Treat the barricades as having 0 for each stat (strength, agility, will), so it takes the full amount of damage shown on the Enemy’s attack.</p>
 </details>
 <br>
 
 <details>
 <summary><b>Scenario 26</b></summary>
-<p><b>How do I unlock this scenario?</b> - With World Event card 023.</p>
-<p><b>Why does the app show it as unlocked?</b> - The app cannot track when the World Event is revealed.</p>
-<p><b>Does Graznak’s healing double on his third attack?</b> - Yes.</p>
+<p><b>How do I unlock this scenario?</b> - It gets unlocked with World Event card 023.</p>
+<p><b>In the Agemonia app, why does scenario 26 show up as unlocked on my map?</b> - It gets unlocked with World Event card 023, but it had to be done this way because the app can’t know when you’ve revealed that World Event.</p>
+<p><b>With the Graznak Healing rule, does Graznak's third attack effectively heal 2 per damage done?</b> - Yes.</p>
 </details>
 <br>
 
 <details>
 <summary><b>Scenario 27</b></summary>
-<p><b>Can a Hero pick up multiple runic plates?</b> - No.</p>
+<p><b>Can a Hero pick up multiple runic plates?</b> - No, there can never be 2 in the same area, so that includes a Hero carrying them.</p>
 </details>
 <br>
 
 <details>
 <summary><b>Scenario 28</b></summary>
-<p><b>Can Allies or Henchmen attempt Climbing or Leaping checks?</b> - Yes, but special symbols count as zero.</p>
-<p><b>Story card H: Does a defeated Phrenipede still count as an enemy?</b> - Yes.</p>
+<p><b>Can Allies or Henchmen attempt the Climbing or Leaping active checks on the map?</b> - Yes, they may (check their stats on the bottom of their cards). Any special symbols rolled on the dice will be equal to zero since they have no stamina.</p>
+<p><b>Story card H: In order to place a crystal in the chalices, there needs to be “no enemy within range 1”. Does a defeated Phrenipede still count towards this?</b> - Yes, it is still considered an enemy on the map, even when defeated. You’ll have to lure away the Phrenipede (hint: or there might be a way to remove it entirely…).</p>
 </details>
 <br>
 
 <details>
 <summary><b>Scenario 29</b></summary>
-<p><b>Does the Doom Knights’ snake ability pull a second target?</b> - No.</p>
+<p><b>Does the Doom Knights’ snake ability target and pull a different Ally if they are already in an area with an Ally?</b> - No, they don’t pull a secondary target. Like with normal enemy rules, they will concentrate on the closest target.</p>
 </details>
 <br>
 
 <details>
 <summary><b>Scenario 30</b></summary>
-<p><b>Do Watchmen move and open doors without line of sight?</b> - Yes.</p>
-<p><b>Story card C: What Essence tokens are required?</b> - Nature, Life, Death and Magic.</p>
-<p><b>Does Wollyon heal to full when respawned?</b> - Yes.</p>
-<p><b>Can Dispel Illusion be used on Wollyon?</b> - Yes.</p>
-<p><b>Does the Hero dispelling need Story card J or Q?</b> - Yes.</p>
-<p><b>How does Bleeding interact with Item 105 Amulet of Shonosh?</b> - The item only prevents receiving bleeding initially.</p>
+<p><b>Do the Watchmen move towards an Ally and open doors/windows, even if they don’t have line of sight to an Ally?</b> - Yes, even without line of sight, move the Watchmen as normal, and they can and will open doors/windows if it gets them closer to attacking an Ally. Take into account the extra +1 movement point it takes them to open doors/windows when determining the closest area.</p>
+<p><b>Story card C: What Essence tokens is this card referring to?</b> - There are 4 Essence tokens in the game: Nature, Life, Death and Magic. You will need to place 1 of each on this Story card to flip it.</p>
+<p><b>Story card Diamond / Enemy Card 3: When the timer reaches its target number, does Wollyon heal to full each time he gets removed and spawned again?</b> - Yes, it’s a new illusion at full health each time.</p>
+<p><b>Can ‘Dispel Illusion’ on Story cards J and Q be used to dispel Wollyon’s illusion?</b> - Yes.</p>
+<p><b>Do Story cards J or Q need to be on the Hero who is removing/dispelling the illusion on Story cards W and S?</b> - Yes, the Hero dispelling the illusion needs to have either J or Q.</p>
+<p><b>During this scenario Heroes may receive a bleeding condition. How does this interact with Item card 105 Amulet of Shonosh?</b> - Item 105 only prevents a Hero from initially receiving the bleeding condition if they are carrying it at the time they receive the bleeding. If a Hero without item 105 receives this bleeding condition, later being given item 105 does not remove it, as the “you may only discard this…” rule now applies.</p>
 </details>
 <br>
 
 <details>
 <summary><b>Scenario 34/35</b></summary>
-<p><b>Do enemies respawn if none were defeated?</b> - No.</p>
-<p><b>Story card H: What does the symbology mean?</b> - It modifies all Recover Maneuvers by +1 or -1.</p>
+<p><b>The rules state the first three times the timer reaches its number to “spawn all defeated enemies…”. Does nothing spawn if you haven’t defeated any enemies?</b> - Correct, only defeated enemies respawn when the timer hits.</p>
+<p><b>Story card H: What does the symbology on this card mean?</b> - It increases or decreases all Recover Maneuvers performed by Allies in this scenario, meaning either +1 or -1 whenever they restore spent stamina or heal damage with a Recover Maneuver.</p>
 </details>
 <br>
 
 <details>
 <summary><b>Scenario 36</b></summary>
-<p><b>Does the Head damage modifier apply to non-attack damage?</b> - No, only attacks.</p>
+<p><b>With the rule “Each time an Ally attacks a Head, modify the attack's damage according to…”, does the modifier apply only to attacks or also to other damaging effects?</b> - No, just attacks.</p>
 </details>
 <br>
 
