@@ -1,10 +1,11 @@
 <link rel="stylesheet" href="override-markdown-styles.css"/>
 
-# **AGEMONIA FAQ - UNOFFICIAL**
+# **AGEMONIA FAQ (UNOFFICIAL)**
 
-*Last Updated 2026-01-011*
+This is an unofficial FAQ created with a collection of questions taken from BGG and the Agemonia Discord, with the majority of the answers coming directly from the game’s designers. 
+*Last Updated 2026-01-11*
 
-**For information about this FAQ, see <a href="#page_0">Section 0: Information</a>**
+**For information about this FAQ, see <a href="#page_0">Section 0</a>**
 
 1. <a href="#page_1">General</a>
 1. <a href="#page_2">Conditions</a>
