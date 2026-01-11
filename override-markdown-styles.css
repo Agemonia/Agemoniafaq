@@ -151,3 +151,7 @@ blockquote {
   border-top: 3px solid rgba(0, 0, 0, 0.4);
 }
 
+a {
+    color: #9f25bd;
+    text-decoration: none
+}
