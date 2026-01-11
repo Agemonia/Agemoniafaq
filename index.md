@@ -29,18 +29,14 @@
 1. <a href="#page_11">Puzzle Book</a>
 
 
-![divider](/assets/images/divider.png)
+<div class="divider"></div>
 
 ## <a name="page_0" class="page-number">0.0</a> Introduction
 
 This is the official FAQ for Frosthaven. It will be continuously updated as more questions are added and existing answers are clarified.  Please use your in-browser Find function to locate answers to specific questions. The previous [FAQ on the BoardGameGeek Frosthaven forum](https://boardgamegeek.com/thread/3001013/official-faq-for-frosthaven-no-rules-questions-ple) will no longer be updated, but that thread can still be used to notify me of necessary FAQ entries. When possible or necessary, I will also post changelogs with explanations in that thread.
 
----
+<div class="divider"></div>
 
-***
-
-
-![divider](/assets/images/divider2.png)
 
 ### 0.1 Spoilers
 
