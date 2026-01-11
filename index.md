@@ -8,33 +8,16 @@
 
 *[Pour un errata de la version française, cliquez sur ce lien](https://gvigne.github.io/frosthaven-french-faq/)*
 
-1. <a href="#page_01">First Printing Production Errors and Typos</a>
-   1. <a href="#page_011">Second Printing Non-Errata Changes</a>
-1. <a href="#page_2">Component and Setup Questions</a>
-1. <a href="#page_3">General Gameplay Questions (Outside Scenarios)</a>
-   1. <a href="#page_31">Masteries</a>
-   1. <a href="#page_32">Personal Quests</a>
-   1. <a href="#page_33">Events and Traits</a>
-1. <a href="#page_4">Outpost General Questions</a>
-   1. <a href="#page_41">Specific Building Questions</a>
-   1. <a href="#page_42">Enhancements</a>
-   1. <a href="#page_43">Building 81 Questions</a>
-1. <a href="#page_5">General Gameplay Questions (Scenarios)</a>
-   1. <a href="#page_51">Rooms, Movement, Teleport, Forced Movement, and Overlays</a>
-   1. <a href="#page_52">Damage, Shield, Ward, and Brittle</a>
-   1. <a href="#page_53">Attack Modifier Draws, Advantage, and Disadvantage</a>
-   1. <a href="#page_54">Negative Conditions</a>
-   1. <a href="#page_55">General Player Ability Questions and Clarifications</a>
-   1. <a href="#page_56">Loot Deck Questions</a>
-   1. <a href="#page_57">Objectives</a>
-   1. <a href="#page_58">Monster Focus, Abilities, and Stats</a>
-   1. <a href="#page_59">Scenario Allies</a>
-   1. <a href="#page_510">Challenges</a>
-1. <a href="#page_6">Monster Questions</a>
-1. <a href="#page_7">General Scenario Questions</a>
-   1. <a href="#page_71">Specific Scenario Questions</a>
-   1. <a href="#page_72">Solo Scenario Questions</a>
-1. <a href="#page_8">Characters</a>
+1. <a href="#page_01">General</a>
+1. <a href="#page_2">Conditions</a>
+1. <a href="#page_3">Professions</a>
+1. <a href="#page_4">Talents & Rituals (add-on card pack)</a>
+1. <a href="#page_5">City Step</a>
+1. <a href="#page_6">Pets</a>
+1. <a href="#page_7">Item Cards</a>
+1. <a href="#page_8">Scenario General Questions</a>
+1. <a href="#page_9">Scenario Specific Questions</a>
+1. <a href="#page_10">Heroes</a>
    1. <a href="#page_81">Drifter</a>
    1. <a href="#page_82">Blinkblade</a>
    1. <a href="#page_83">Banner Spear</a>
@@ -43,18 +26,8 @@
    1. <a href="#page_86">Geminate</a>
    1. <a href="#page_87">"Astral"</a>
    1. <a href="#page_88">"Meteor"</a>
-   1. <a href="#page_89">"Shards"</a>
-   1. <a href="#page_810">"Trap"</a>
-   1. <a href="#page_811">"Shackles"</a>
-   1. <a href="#page_812">"Snowflake"</a>
-   1. <a href="#page_813">"Fist"</a>
-   1. <a href="#page_814">"Kelp"</a>
-   1. <a href="#page_815">"Coral"</a>
-   1. <a href="#page_816">"Prism"</a>
-   1. <a href="#page_817">"Drill"</a>
-1. <a href="#page_9">Items (General)</a>
-   1. <a href="#page_91">Items (Specific)</a>
-1. <a href="#page_10">Compatibility Notes for Crossover Characters</a>
+1. <a href="#page_11">Puzzle Book</a>
+
 
 ![divider](/assets/images/divider.png)
 
