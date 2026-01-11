@@ -644,11 +644,11 @@ Initiative card is revealed, you may spend 1 stamina to change your Initiative t
 
 ### <a name="page_10.7" class="page-number">10.7</a> Lunara
 
-**Guardian of Light (lvl 3): <span class="hidden">Does this add +1 heal to the Consecrate token from the Consecrate Action (Paladin)?** Yes.</span>
+**Guardian of Light (lvl 3):** <span class="hidden">**Does this add +1 heal to the Consecrate token from the Consecrate Action (Paladin)?** Yes.</span>
 
-**Guardian of Light (lvl 3): <span class="hidden">Does this add +1 heal to items, item tokens, and weapon gems that Lunara uses?** Yes, this passive ability affects any healing ability that Lunara uses, so even item cards like 032 Healing Potion and 044 Scroll of Healing get the +1 heal bonus.</span>
+**Guardian of Light (lvl 3):** <span class="hidden">**Does this add +1 heal to items, item tokens, and weapon gems that Lunara uses?** Yes, this passive ability affects any healing ability that Lunara uses, so even item cards like 032 Healing Potion and 044 Scroll of Healing get the +1 heal bonus.</span>
 
-**Redemption (Paladin skill): <span class="hidden">Does this add +1 range and +1 success to Lunara’s Boon of Aiun?** Yes (added in errata).</span>
+**Redemption (Paladin skill):** <span class="hidden">**Does this add +1 range and +1 success to Lunara’s Boon of Aiun?** Yes (added in errata).</span>
 
 ### <a name="page_10.8" class="page-number">10.8</a> Garuk
 
