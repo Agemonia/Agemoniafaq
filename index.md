@@ -205,11 +205,11 @@ You can find lots of great stuff in the [BGG Files](https://boardgamegeek.com/bo
 
 **Can pet figures move through traps?** Yes, pets can move through traps without triggering them.
 
-**Item card 071 <span class="hidden">Nazag: How does this pet work?** Nazag acts as a poison you can apply to certain weapons for an attack. Nazag needs to be your active pet (limit 1 per Hero, unless Pet Trainer profession), and your Hero needs to make an attack with a weapon with the poison symbol.</span>
+**Item card 071** <span class="hidden">**Nazag: How does this pet work?** Nazag acts as a poison you can apply to certain weapons for an attack. Nazag needs to be your active pet (limit 1 per Hero, unless Pet Trainer profession), and your Hero needs to make an attack with a weapon with the poison symbol.</span>
 
-**Item card 072 <span class="hidden">Ophira: How many rerolls are allowed?** Rerolls may happen multiple times during the same active or reactive check, there is no limit on rerolls. You may keep rerolling all special symbols until you get a result that isn’t a special symbol (although occasionally you may want to stop rerolling to use the special symbol to get 2 successes with stamina from a red die, or an armor effect from a blue die).</span>
+**Item card 072** <span class="hidden">**Ophira: How many rerolls are allowed?** Rerolls may happen multiple times during the same active or reactive check, there is no limit on rerolls. You may keep rerolling all special symbols until you get a result that isn’t a special symbol (although occasionally you may want to stop rerolling to use the special symbol to get 2 successes with stamina from a red die, or an armor effect from a blue die).</span>
 
-**Item card 072 <span class="hidden">Ophira: Can you use this pet to reroll dice in King of Thieves?** No, Ophira only works with active/reactive ability checks or attack rolls.</span>
+**Item card 072** <span class="hidden">**Ophira: Can you use this pet to reroll dice in King of Thieves?** No, Ophira only works with active/reactive ability checks or attack rolls.</span>
 
 <div class="divider"></div>
 
