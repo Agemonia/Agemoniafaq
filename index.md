@@ -364,23 +364,24 @@ You can find...
 </details>
 <br>
 
-**Scenario 10: Does a Tussock replace a water area?** No, an area with a Tussock still can be entered as a water area (that’s why there’s an active check to lift yourself up onto the Tussock from the water in the same area). Tussocks simply float on the water area and can be considered as normal ground when standing upon them.
+<details>
+<summary><b>Scenario 10</b></summary>
+<p><b>Does a Tussock replace a water area?</b> - No, an area with a Tussock still can be entered as a water area (that’s why there’s an active check to lift yourself up onto the Tussock from the water in the same area). Tussocks simply float on the water area and can be considered as normal ground when standing upon them.</p>
+<p><b>Does a Tussock capacity reduce the capacity of the water area it occupies?</b> - A tussock itself does not take up any capacity in an area, but any Heroes on it will. Example: The large tussock (2 capacity), with two Heroes on it, is in a 3 capacity water area, therefore only 1 capacity remains in the water for an Enemy or Hero to enter.</p>
+<p><b>This scenario has the ‘replayable’ symbol. Does that mean it can be replayed multiple times to gain an additional experience point?</b> - No, this scenario is meant to only be replayed if you fail the scenario. In this case, ‘replayable’ should be considered ‘re-attemptable’.</p>
+<p><b>The rules state the Asputils can’t move into water areas, but can you push or pull them into the water?</b> - Yes, you can. The Asputil would then act normally from that location and would not move anymore.
+<p><b>Are Pet figures affected by the water rules?</b> - No, pets can move freely around the water areas and do not trigger the roll from starting their turn in water.</p>
+<p><b>Sporal Podlings explode and deal 2 damage to all Allies and Enemies near it when they die. This can lead to a chain reaction where multiple enemies of this type die at the same time, causing further damage. Let’s say a Hero stands next to these enemies and gets wounded from the damage. Are these considered a single event or many sources of damage? Can the player go from healthy to wounded to exhausted at once?</b> - Yes, each damage is dealt separately.</p>
+</details>
+<br>
 
-**Does a Tussock capacity reduce the capacity of the water area it occupies?** A tussock itself does not take up any capacity in an area, but any Heroes on it will. Example: The large tussock (2 capacity), with two Heroes on it, is in a 3 capacity water area, therefore only 1 capacity remains in the water for an Enemy or Hero to enter.
-
-**This scenario has the ‘replayable’ symbol. Does that mean it can be replayed multiple times to gain an additional experience point?** No, this scenario is meant to only be replayed if you fail the scenario. In this case, ‘replayable’ should be considered ‘re-attemptable’.
-
-**The rules state the Asputils can’t move into water areas, but can you push or pull them into the water?** Yes, you can. The Asputil would then act normally from that location and would not move anymore.
-
-**Are Pet figures affected by the water rules?** No, pets can move freely around the water areas and do not trigger the roll from starting their turn in water.
-
-**Sporal Podlings explode and deal 2 damage to all Allies and Enemies near it when they die. This can lead to a chain reaction where multiple enemies of this type die at the same time, causing further damage. Let’s say a Hero stands next to these enemies and gets wounded from the damage. Are these considered a single event or many sources of damage? Can the player go from healthy to wounded to exhausted at once?** Yes, each damage is dealt separately.
-
-**Scenario 11: In the scenario outcomes, do you only get the reward for crates that are on the wagon, or also ones that you are carrying?** Only the crates on the wagon count.
-
-**Story card A: Can you place the Barrels of Tentacles on the wagon?** No, the wagon is only for crates (square tokens).
-
-**What counts as a stolen Barrel of Tentacles (circle tokens)?** A barrel counts as stolen if a Hero is carrying the barrel at the end of the scenario.
+<details>
+<summary><b>Scenario 11</b></summary>
+<p><b>In the scenario outcomes, do you only get the reward for crates that are on the wagon, or also ones that you are carrying?</b> - Only the crates on the wagon count.</p>
+<p><b>Story card A: Can you place the Barrels of Tentacles on the wagon?</b> - No, the wagon is only for crates (square tokens).</p>
+<p><b>What counts as a stolen Barrel of Tentacles (circle tokens)?</b> - A barrel counts as stolen if a Hero is carrying the barrel at the end of the scenario.</p>
+</details>
+<br>
 
 **Scenario 12: Does the Giant Slime’s melee attack (range 1) activate if no Heroes are within range?** No, the attack only happens if a Hero is within the attack range.
 
