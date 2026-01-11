@@ -56,7 +56,7 @@ Most of these questions were asked by the community. If you have a question that
 - [Gloomhaven Second Edition FAQ](https://cephalofairgames.github.io/gloomhaven2e-faq/) for that game
 - Ekasalys has made a French-language FAQ for errata specific to that localization. [Pour un errata de la version française, cliquez sur ce lien](https://gvigne.github.io/frosthaven-french-faq/)
 
-![divider](/assets/images/divider.png)
+<div class="divider"></div>
 
 ##  <a name="page_01" class="page-number">1.0</a> General
 
@@ -125,7 +125,7 @@ Most of these questions were asked by the community. If you have a question that
 **Can achievement gems be used to give +1 move to movement gained herbs and potions?** No, achievement gems can only be used to add +1 movement to maneuvers and rethink actions.
 
 
-![divider-narrow](/assets/images/divider2.png)
+<div class="divider"></div>
 
 ### <a name="page_011" class="page-number">1.1</a> Second Printing Non-Errata Changes
 
@@ -135,51 +135,43 @@ In addition to the errata fixes noted above, there are a few 2nd Printing change
 - Shackles Level 8 <span class="hidden">"Wave of Anguish" card name has been changed to "Wave of Suffering" to resolve the card name duplication with Deathwalker.</span>
 - Building 74 Conclusion <span class="hidden">The solution to the Ancient Coin puzzle changed between printings. All references to the puzzle solution section were changed as well. It is solvable in both printings.</span>
 
-![divider](/assets/images/divider.png)
+<div class="divider"></div>
 
-## <a name="page_2" class="page-number">2.0</a> Component and First Time Setup Questions
+## <a name="page_2" class="page-number">2.0</a> Conditions
 
-**General -** As a legacy game, the general rule is that if you don’t see something referenced in the rules, it probably relates to unlockable content. Check this FAQ if you are unsure.
+**I seem to be missing condition tokens for Cursed, Blessed and Invisible?** There are no tokens for those three conditions, as Enemies can not become Cursed, Blessed or Invisible. Heroes use condition cards (all ten) and Enemies use tokens (use the cards to read the effect).
 
-**What should I do with the two weird coin cards (loot cards 1418 & 1419) with numbers and checkboxes?** They are related to an unlockable campaign mechanic and should not be used right now. If you wish, you can put them in Envelope 74; just don’t examine the other envelope contents. (Note - 2nd Printing moved these cards to their proper envelope.) 
+**Can an Ally or Enemy have multiples of the same condition (for example 2x Bless)?** No, an Ally or Enemy may not have the same condition more than once at the same time, and max 2 conditions total (see rulebook p.24).
 
-**How many of each Event deck do I use?** You start each of the four Event decks with Cards 1-20 available, and shuffle those before beginning the game. See the Welcome to Frosthaven booklet for setup information like this.
+**Does an enemy with the Dominated or Confused condition still move on its turn?** Yes, a Dominated or Confused enemy will still move as normal (see errata).
 
-**What are all these stickers with rules for?** As a legacy game, you will unlock new rules when certain buildings are constructed. When instructed, these will go in your rulebook. Note the sticker number issues in the errata, above, if you have First Printing.
+**If an Enemy has the weakened condition and performs an area attack, does the damage reduction apply to only the first Ally that takes damage or all the Allies being damaged?** It affects the whole attack, so reduce the damage for all the Allies in the area.
 
-**What are challenge cards for? Should I be using them?** No. They relate to an unlockable campaign mechanic. It will be clear when you should use them.
+**If an Ally or Enemy gains a condition during their turn, does that condition affect their current turn or their next turn?** Ex: gaining Stunned from moving on to a trap. It will affect the remainder of that turn if possible. So an Enemy gaining Stunned from a trap will immediately end their turn, and an Ally gaining Stunned would lose their action or maneuver if it hasn’t been performed yet. Gaining Held or Slowed work a bit differently if gained during a move maneuver (see below).
 
-**How do I get Town Guard perks? I see them on the Campaign Sheet.** These are related to an unlockable campaign mechanic and should not be used yet.
+**If an Ally or Enemy gains the Held or Slowed condition during a move maneuver (such as from a trap), does it immediately take effect and stop or reduce the current move?** No, conditions only take effect the next time they could. Example: receiving the Held condition while moving means the Ally/Enemy can finish that move normally and it will instead affect the Ally/Enemy’s next move maneuver.
 
-**What’s a Brummix Sticker? Where are Coral Shard stickers?** (First Printing Only) - There are similarly-named stickers on the sticker sheets. 
-- Brummix = Brummix Tracks
-- Coral Shard = Coral Crown
+**Can a Stunned or Dominated Enemy still provoke?** Yes.
 
-**What's my starting Morale?** You dont use the Morale track until after Scenario 1. At this point it will be 0, plus the bonus from completing Scenario 1.
+**Can an Enemy’s Snake and Horn abilities be activated if it is Confused or Dominated?** Yes, those conditions do not affect the enemy's special abilities, only its attack.
 
-**What’s my starting Prosperity?** Your starting Prosperity is 1, with no checkmarks on the Prosperity track.
+**How do the Confused, Stunned and Dominated conditions work with the Focus Action?** **When exactly do you ‘perform’ the Focus Action?** The Focus Action is counted as ‘performed’ the first time your Hero rolls an extra die from its bonus. So if during a round your Hero were to gain the Confused, Stunned or Dominated condition but after you’ve already rolled an extra die from the Focus Action, then the condition to “miss your action” would be not end the Focus bonus for the current round, and instead affect the next time you would perform an action.
 
-**What’s Frosthaven’s starting Defense?** Your Defense is 0, modified by your Morale bonus/penalty after Scenario 1 is completed. Walls can eventually increase your Defense. (See Outpost Questions).
+<div class="divider"></div>
 
-**Do I start the game with any Soldiers?** Yes. When you begin the game, you add the Barracks to your building deck and process the Barracks’ one-time mandatory effect of +4 Soldiers.
+## <a name="page_3" class="page-number">3.0</a> Professions
 
-**I think I am missing two boss standees...** You are probably not. If those bosses are "FF" and "SD", it will become clear when you need them.
+**Do you have to learn the basic talents on your Profession card from top to bottom?** No, you can learn them in any order. You automatically learn the topmost talent when you learn the profession (already marked). The bottom master talent is unlocked for purchase from level 3 onward, once you’ve learned all 5 basic talents.
 
-**There's a blank spot on the flowchart. Is this an easter egg? Should I open it?** No. Leave it alone.
+**Can Profession talents be used during a scenario (such as crafting items)?** No, with the following exceptions: Alchemy: Herbalism » Pet Training: Beast Friendship » Runesmithing: Mining » Streetwise: Burglary and Perception
 
-![divider](/assets/images/divider.png)
+**Is there a limit to how many times a Hero can use an ability from their Profession?** No limit, as long as you can pay the cost each time.
 
-## <a name="page_3" class="page-number">3.0</a> General Gameplay Questions (Non-Scenario)
+**Pet Training: Can you use Combat Training multiple times to give +1 movement and provoke for each City Activity point spent?** Yes, see above.
 
-### <a name="page_31" class="page-number">3.1</a> Masteries
+**Can a Hero with Runesmithing craft and attach Runes to weapons and armor held by other Heroes?** Yes, as long as the Rune has a valid Rune slot to be attached to (a Rune card can not be held in your inventory by itself, it must be attached to a weapon or armor).
 
-**Can I complete my Mastery in Scenario 0?** No. Scenario 0 is intentionally easy. This was added to the scenario rules in the second printing. 
-
-**Do I need to complete a Mastery within a single scenario?** Yes, the entire mastery must be completed within one scenario, and the scenario must have been won. It’s fine if you yourself exhausted, so long as the scenario was successfully completed. (Note that Gloomhaven Second Edition has different Mastery rules here.)
-
-**If I need to do something every round, do I still get my Mastery if I exhaust before the end of the scenario?** Yes. Any mastery which requires you to do something "every round" should be read as "every round in which you perform a turn."
-
-**Am I allowed to exhaust for a mastery that requires me to keep a summon alive until the end of a scenario?** No. If you exhaust, your summons are removed from the board before the end of the scenario. 
+**During a City step, can a Hero with Toxicology take another Hero’s pet card 068 <span class="hidden">Nazag</span> to then craft item card 067 <span class="hidden">Nazag Venom</span> and also train it, then give <span class="hidden">Nazag</span> back to another player?** Yes. Items, including pets, can be traded during City steps.
 
 ![divider-narrow](/assets/images/divider2.png)
 
