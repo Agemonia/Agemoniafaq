@@ -43,7 +43,7 @@ This FAQ may contain spoilers. Spoiler tags have been added as best as possible 
 There are 3 printings of Agemonia (1st, 2nd, 3rd) and each has official errata (the later printings have less fixes).
 The official errata documents for all 3 printings can be found here: [Agemonia Resources](https://agemonia.com/resources/)
 ### Additional Resources
-You can find lots of great stuff in the [BGG Files](https://boardgamegeek.com/boardgame/270871/agemonia/files)
+To ask additional questions check out the [BGG Forums](https://boardgamegeek.com/boardgame/270871/agemonia/forums/0) and the [Agemonia Discord](https://discord.com/invite/6QwMXYq). There's also lots of great stuff in the [BGG Files](https://boardgamegeek.com/boardgame/270871/agemonia/files)
 ### Special Thanks
 - Thank you to Max Wikström, Phil Pettifer and the rest of the Agemonia team for being so active and answering questions on BGG and Discord.
 - Huge thanks to Bill (dwarf74/dwarfSA) for his amazing [Frosthaven FAQ](https://cephalofairgames.github.io/frosthaven-faq) which inspired me to create this for Agemonia.
