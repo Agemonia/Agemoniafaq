@@ -663,7 +663,7 @@ Initiative card is revealed, you may spend 1 stamina to change your Initiative t
 
 ### <a name="page_10.9" class="page-number">10.9</a> Xir
 
-**Blink Strike (lvl 2):** <span class="hidden">**Is Xir allowed to teleport first even if it puts him in a position where he can't perform the attack?** Yes.</span>
+**Blink Strike (lvl 2):** <span class="hidden">**Can you use the teleport 2 even if you don’t use the attack?** Yes.</span>
 
 ##  <a name="page_11" class="page-number">11.0</a> Puzzle Book
 
