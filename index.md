@@ -516,6 +516,7 @@ You can find lots of great stuff in the [BGG Files](https://boardgamegeek.com/bo
 <details>
 <summary><b>Scenario 36</b></summary>
 <p><b>With the rule “Each time an Ally attacks a Head, modify the attack's damage according to…”, does the modifier apply only to attacks or also to other damaging effects?</b> - No, just attacks.</p>
+<p><b></b>Five-Maw is one enemy and five enemies at the same time, so are status conditions applied to it as a whole or to its heads individually?</b> - Treat each head as a separate enemy, as they are effectively 5 separate enemies. Place the Condition token next to the appropriate head's Health dice. This does mean more than one head may have the same condition. Each head may have up to 2 conditions as per the normal rules.</p>
 </details>
 <br>
 
