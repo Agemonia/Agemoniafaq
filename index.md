@@ -464,7 +464,7 @@ To ask additional questions check out the [BGG Forums](https://boardgamegeek.com
 <details>
 <summary><b>Scenario 24/25</b></summary>
 <p><b>Can you push or pull through the Intact Barricades (for example use Torrax’s Grapple)?</b> - No, you may not push or pull through the barricades. Torrax’s Grapple is also a melee attack and is not allowed. Only ranged attacks can be made across the Intact Barricades (and only if in the same area as the barricade).</p>
-<p><b>Does a Hero with Item card 145 Shadow Goggles or the Sniper or Spell Sniper skill ignore the obstructed aim restrictions from the barricades?</b> - Yes.</p>
+<p><b>Does a Hero with Item card 145 <span class="hidden">Shadow Goggles</span> or the Sniper or Spell Sniper skill ignore the obstructed aim restrictions from the barricades?</b> - Yes.</p>
 <p><b>Can Pet figures move through Intact Barricades?</b> - Yes, pets can get through the small gaps.</p>
 <p><b>If an Enemy attacks an Intact Barricade, how much damage does it take?</b> - Treat the barricades as having 0 for each stat (strength, agility, will), so it takes the full amount of damage shown on the Enemy’s attack.</p>
 </details>
@@ -472,8 +472,8 @@ To ask additional questions check out the [BGG Forums](https://boardgamegeek.com
 
 <details>
 <summary><b>Scenario 26</b></summary>
-<p><b>How do I unlock this scenario?</b> - It gets unlocked with World Event card 023.</p>
-<p><b>In the Agemonia app, why does scenario 26 show up as unlocked on my map?</b> - It gets unlocked with World Event card 023, but it had to be done this way because the app can’t know when you’ve revealed that World Event.</p>
+<p><b>How do I unlock this scenario?</b> - It gets unlocked with <span class="hidden">World Event card 023.</span></p>
+<p><b>In the Agemonia app, why does scenario 26 show up as unlocked on my map?</b> - It gets unlocked with <span class="hidden">World Event card 023</span>, but it had to be done this way because the app can’t know when you’ve revealed that World Event.</p>
 <p><b>With the Graznak Healing rule, does Graznak's third attack effectively heal 2 per damage done?</b> - Yes.</p>
 </details>
 <br>
