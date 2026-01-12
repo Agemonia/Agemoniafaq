@@ -663,6 +663,8 @@ Initiative card is revealed, you may spend 1 stamina to change your Initiative t
 
 ### <a name="page_10.9" class="page-number">10.9</a> Xir
 
+**Blink Strike (lvl 2):** <span class="hidden">**Is Xir allowed to teleport first even if it puts him in a position where he can't perform the attack?** Yes.</span>
+
 ##  <a name="page_11" class="page-number">11.0</a> Puzzle Book
 
 **Runic Language: Are the letters Q and U the same symbol?** They look very similar, but they are very slightly different.
