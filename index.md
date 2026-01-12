@@ -181,11 +181,11 @@ You can find lots of great stuff in the [BGG Files](https://boardgamegeek.com/bo
 
 **If a Hero Book City Activity says that other heroes may join, does it require a City Activity point/token from each hero?** Yes.
 
-**Level 3/4/5 Location H: <span class="hidden">Can you disenchant illegal rare items?** Yes, they're quite happy to rid Agemonia of such things.</span>
+**Level 3/4/5 Location H:** <span class="hidden">**Can you disenchant illegal rare items?** Yes, they're quite happy to rid Agemonia of such things.</span>
 
-**Level 3/4/5 Location L: <span class="hidden">Is the ‘Service: The Archive Vault’ supposed to be a solo or group activity?** The whole group may participate.</span>
+**Level 3/4/5 Location L:** <span class="hidden">**Is the ‘Service: The Archive Vault’ supposed to be a solo or group activity?** The whole group may participate.</span>
 
-**Level 4/5 Location G/H: <span class="hidden">There is a reason there is a 1 Star price discrepancy on Agura Crystal and Cube of Teleportation between level 4 and 5?** Yes, it is a mistake but it’s so minor that it wasn’t added to the errata.</span>
+**Level 4/5 Location G/H:** <span class="hidden">**There is a reason there is a 1 Star price discrepancy on Agura Crystal and Cube of Teleportation between level 4 and 5?** Yes, it is a mistake but it’s so minor that it wasn’t added to the errata.</span>
 
 <div class="divider"></div>
 
