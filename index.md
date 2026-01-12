@@ -171,9 +171,9 @@ To ask additional questions check out the [BGG Forums](https://boardgamegeek.com
 - When the party is ready, draw a City Event card and resolve it.
 - Each Hero then collects their City Activity tokens (2 each typically) and then once again each Hero may visit as many locations as they want to use services, but may now also spend their City Activity tokens on activities at locations or in their personal Hero book.
 
-**How many City Activity points do each Hero get per City step?** Each Hero receives 2 City Activity points per City step and may be spent on City activities after resolving the City event card. However, some abilities or effects might alter the amount of City Activity points a Hero receives.
+**How many City Activity points does each Hero get per City step?** Each Hero receives 2 City Activity points per City step and may be spent on City activities after resolving the City event card. However, some abilities or effects might alter the amount of City Activity points a Hero receives.
 
-**Can generic city actions be repeated more than once by each Hero?** For example ‘Work on the Docks’ at Location B to earn 2 stars. Unless the action states that it can only be done once, it can be repeated multiple times by each Heroes.
+**Can generic city activities be repeated more than once by each Hero?** For example ‘Work on the Docks’ at Location B to earn 2 stars. Unless the activity states that it can only be done once, it can be repeated multiple times by each Heroes.
 
 **Can Heroes do City activities from previous levels in their Hero books?** No, only the current level’s activities are available for Heroes from their Hero book.
 
