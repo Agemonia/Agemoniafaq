@@ -159,6 +159,7 @@ a:visited {
   color: #6a267b;
 }
 
-h1, h2, h3, h4, h5, h6 {
-  color: #6b3fa0 !important;
+h1, h2, h3 {
+  color: #6b3fa0;
 }
+
