@@ -4,5 +4,4 @@ This is an unofficial FAQ created with a collection of questions gathered from B
 
 
 Thanks Bill (dwarf74/dwarfSA) for the amazing Frosthaven FAQ and inspiring me to create this FAQ for Agemonia. 
-
 This site is based on the open-source frosthaven-faq project by Cephalofair Games, used under the MIT License.
