@@ -26,9 +26,9 @@ This is an unofficial FAQ created with a collection of questions taken from BGG 
    1. <a href="#page_10.4">Drenosh</a>
    1. <a href="#page_10.5">Matajam</a>
    1. <a href="#page_10.6">Zuva'Sai</a>
-   1. <a href="#page_10.7">"Lunara"</a>
-   1. <a href="#page_10.8">"Garuk"</a>
-   1. <a href="#page_10.9">"Xir"</a>
+   1. <a href="#page_10.7">Lunara</a>
+   1. <a href="#page_10.8">Garuk</a>
+   1. <a href="#page_10.9">Xir</a>
 1. <a href="#page_11">Puzzle Book</a>
 
 <div class="divider"></div>
