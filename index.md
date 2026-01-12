@@ -2,7 +2,7 @@
 
 # **AGEMONIA FAQ (UNOFFICIAL)**
 
-This is an unofficial FAQ created with a collection of questions taken from BGG and the Agemonia Discord, with the majority of the answers coming directly from the game’s designers. 
+This is an unofficial FAQ created with a collection of questions gathered from BGG and the Agemonia Discord, with the majority of the answers coming directly from the game’s designers. 
 
 *Last Updated 2026-01-11*
 
