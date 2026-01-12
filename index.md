@@ -116,6 +116,8 @@ To ask additional questions check out the [BGG Forums](https://boardgamegeek.com
 
 **Can achievement gems be used to give +1 move to movement gained herbs and potions?** No, achievement gems can only be used to add +1 movement to maneuvers and rethink actions.
 
+**Can Inspiration Gems be used if they are gained before level 4?** Yes, they can be used at any level, as there are some ways to gain them before reaching level 4 (an event for example).
+
 <div class="divider"></div>
 
 ## <a name="page_2" class="page-number">2.0</a> Conditions
@@ -640,6 +642,8 @@ Initiative card is revealed, you may spend 1 stamina to change your Initiative t
 **Blurred Form (Telepath skill):** <span class="hidden">**How many rerolls are allowed with this?** Rerolls may happen multiple times during the same reactive check, there is no limit on rerolls. You may keep rerolling all special symbols until you get a result that isn’t a special symbol (although occasionally you may want to stop rerolling to use the special symbol to get an effect from an armor item).</span>
 
 **Exploding Rune (Hydromancer skill):** <span class="hidden">**The skill description in the Rules Reference says this targets “an Enemy in each of 2 adjacent areas” but the symbol for ‘Adjacent Area Attacks’ is described as “Target all Enemies in 2 adjacent areas”. Which is correct?** The skill’s description is correct, it targets an Enemy in each of 2 adjacent areas.</span>
+
+**Infusion (Hydromancer skill) and Item card 073** <span class="hidden">**Aiunin: Can Aiunin be used together with Infusion to recover 5 stamina?** Yes, Infusion is considered a Recover maneuver.</span>
 
 **Item card 128** <span class="hidden">**Wand of Bekora: Does the teleport ability need to be used with an attack?** No, it’s not connected to the attack. If you have the stamina, you can use the power. No limit on how many times either.</span>
 
