@@ -4,7 +4,7 @@
 
 This is an unofficial FAQ created with a collection of questions gathered from BGG and the Agemonia Discord, with the majority of the answers coming directly from the game’s designers. 
 
-*Last Updated 2026-01-11*
+*Last Updated 2026-01-13*
 
 **For information about this FAQ, see <a href="#page_0">Section 0</a>**
 
@@ -512,6 +512,7 @@ To ask additional questions check out the [BGG Forums](https://boardgamegeek.com
 <summary><b>Scenario 34/35</b></summary>
 <p><b>The rules state the first three times the timer reaches its number to “spawn all defeated enemies…”. Does nothing spawn if you haven’t defeated any enemies?</b> - Correct, only defeated enemies respawn when the timer hits.</p>
 <p><b>Story card H: What does the symbology on this card mean?</b> - It increases or decreases all Recover Maneuvers performed by Allies in this scenario, meaning either +1 or -1 whenever they restore spent stamina or heal damage with a Recover Maneuver.</p>
+<p><b>Once the timer reaches its target number for the fourth time, the Storybook entries (040 or 182) instruct you to "Reset the timer". Does this mean resetting the timer according to the rulebook (remove all but the most recent Fate card and start the timer again) or does it mean fully resetting and restarting the timer deck and count again?</b> Ignore the normal 'Resetting a Timer' rules. In this case you should reset/restart the entire Fate deck and timer count: reshuffle all the Fate cards and restart the timer count with a full Fate deck.</p>
 </details>
 <br>
 
@@ -660,6 +661,8 @@ Initiative card is revealed, you may spend 1 stamina to change your Initiative t
 **While in Ravager form Garuk can’t use Cryomancer actions and vice-versa. How do I know which actions are which?** All the white action tokens are for Cryomancer, while the dark brown ones are for Ravager form. It is also written on the back of each action token.
 
 **Pounce (Ravager board): Can you jump before or after the attack?** Yes, you attack and jump in any order. 
+
+**Pounce (Ravager board): Can you jump 2 even if you don’t use the attack?** Yes.
 
 ### <a name="page_10.9" class="page-number">10.9</a> Xir
 
