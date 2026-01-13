@@ -130,7 +130,7 @@ To ask additional questions check out the [BGG Forums](https://boardgamegeek.com
 
 **If an Enemy has the weakened condition and performs an area attack, does the damage reduction apply to only the first Ally that takes damage or all the Allies being damaged?** It affects the whole attack, so reduce the damage for all the Allies in the area.
 
-**If an Ally or Enemy gains a condition during their turn, does that condition affect their current turn or their next turn?** Ex: gaining Stunned from moving on to a trap. It will affect the remainder of that turn if possible. So an Enemy gaining Stunned from a trap will immediately end their turn, and an Ally gaining Stunned would lose their action or maneuver if it hasn’t been performed yet. Gaining Held or Slowed work a bit differently if gained during a move maneuver (see below).
+**If an Ally or Enemy gains a condition during their turn, does that condition affect their current turn or their next turn? Ex: gaining Stunned from moving on to a trap.** It will affect the remainder of that turn if possible. So an Enemy gaining Stunned from a trap will immediately end their turn, and an Ally gaining Stunned would lose their action or maneuver if it hasn’t been performed yet. Gaining Held or Slowed work a bit differently if gained during a move maneuver (see below).
 
 **If an Ally or Enemy gains the Held or Slowed condition during a move maneuver (such as from a trap), does it immediately take effect and stop or reduce the current move?** No, conditions only take effect the next time they could. Example: receiving the Held condition while moving means the Ally/Enemy can finish that move normally and it will instead affect the Ally/Enemy’s next move maneuver.
 
@@ -175,7 +175,7 @@ To ask additional questions check out the [BGG Forums](https://boardgamegeek.com
 
 **How many City Activity points does each Hero get per City step?** Each Hero receives 2 City Activity points per City step and may be spent on City activities after resolving the City event card. However, some abilities or effects might alter the amount of City Activity points a Hero receives.
 
-**Can generic city activities be repeated more than once by each Hero?** For example ‘Work on the Docks’ at Location B to earn 2 stars. Unless the activity states that it can only be done once, it can be repeated multiple times by each Heroes.
+**Can generic city activities be repeated more than once by each Hero? For example ‘Work on the Docks’ at Location B to earn 2 stars.** Unless the activity states that it can only be done once, it can be repeated multiple times by each Heroes.
 
 **Can Heroes do City activities from previous levels in their Hero books?** No, only the current level’s activities are available for Heroes from their Hero book.
 
@@ -219,9 +219,9 @@ To ask additional questions check out the [BGG Forums](https://boardgamegeek.com
 
 **When can a Hero use item cards or item tokens?** At any time on their turn, except in the middle of an active/reactive check or attack unless they specify otherwise (i.e. You can’t use a Blightcap token in the middle of a test for extra stamina to spend). While it is not your Hero’s turn, the only items that can be used are items that involve a blue reactive check (ex: armor or helmets).
 
-**Can you use an item card or item token during a move maneuver?** For example, doing a move maneuver of 2 to move 1, then use a potion or token, then move 1 again. Yes, as long as the item doesn’t cost a maneuver (you can’t spend a partially used move maneuver).
+**Can you use an item card or item token during a move maneuver? For example, doing a move maneuver of 2 to move 1, then use a potion or token, then move 1 again.** Yes, as long as the item doesn’t cost a maneuver (you can’t spend a partially used move maneuver).
 
-**Can you use an item card or Item token during an active or reactive ability check?** For example, to regain stamina or health after you’ve rolled the dice. No, typically you can’t use items or tokens during an active or reactive ability check, unless the item specifies otherwise. For the majority of items/tokens you'll have to decide to use them before you roll.
+**Can you use an item card or Item token during an active or reactive ability check? For example, to regain stamina or health after you’ve rolled the dice.** No, typically you can’t use items or tokens during an active or reactive ability check, unless the item specifies otherwise. For the majority of items/tokens you'll have to decide to use them before you roll.
 
 **Are Item cards and Item tokens meant to have a limited number available (ex: there are only 3 Potions of Healing)?** Yes, it is designed this way to balance the game. The amount of Item cards/tokens in the game box should be the max limit of those items in the world (of course many consumables get discarded back to the Stock, where they can be purchased or crafted again). For example, Potion of Healing, it is important that you cannot manufacture or buy them endlessly.
 
@@ -263,7 +263,7 @@ To ask additional questions check out the [BGG Forums](https://boardgamegeek.com
 
 **Item card 080** <span class="hidden">**Quothian Dirk: Is this considered a dagger for Venia’s Shadow Stalker skill?** Yes, see Shadow Stalker description in the rulebook.</span>
 
-**Item card 081** <span class="hidden">**Tear of Eti: Can you use the first initiative ability with non-attack actions?** For example, my Venia character has Shadow Form. Could I spend 3 stamina, go first, Shadow Form, and therefore avoid being the target of enemies? Yes.</span>
+**Item card 081** <span class="hidden">**Tear of Eti: Can you use the first initiative ability with non-attack actions? For example, my Venia character has Shadow Form. Could I spend 3 stamina, go first, Shadow Form, and therefore avoid being the target of enemies?** Yes.</span>
 
 **Item card 089** <span class="hidden">**Wyldkin Wand: If you’re already Cursed before attacking, do you gain Cursed again from the Wand?** Yes, the Cursed condition first gets discarded, then gets reapplied from the Wand.</span>
 
