@@ -350,7 +350,7 @@ To ask additional questions check out the [BGG Forums](https://boardgamegeek.com
 
 <details>
 <summary><b>Scenario 6</b></summary>
-<p><b>If a Revenant is defeated, how many turns until he gets placed back on the scenario map?</b> - You only get 1 full round before the Revenant spawns again. One token will be placed at the end of the same turn it’s defeated, then the 2nd token will be placed at the end of the next turn, therefore spawning the Revenant again for the following round. Hint: <span class="hidden">This scenario is all about timing.</span></p>
+<p><b>If a Revenant is defeated, how many rounds until he gets placed back on the scenario map?</b> - You only get 1 full round before the Revenant spawns again. One token will be placed at the end of the same round it’s defeated, then the 2nd token will be placed at the end of the next round, therefore spawning the Revenant again for the following round. Hint: <span class="hidden">This scenario is all about timing.</span></p>
 <p><b>Do you keep the Orb item if you succeed in the scenario?</b> - <span class="hidden">No, you need to discard it when you activate the device in the middle of the vault.</span></p>
 </details>
 <br>
@@ -451,7 +451,8 @@ To ask additional questions check out the [BGG Forums](https://boardgamegeek.com
 <p><b>Does the modifier to damage linked to the number of defeated Blood Rubies apply to any damage or just attacks?</b> - Just damage from attacks.</p>
 <p><b>How do the two start areas work with attacks and line of sight?</b> - They are considered to be the same area (combined max capacity of 4). You can perform a melee attack on an Enemy in the other start area, but you cannot perform a ranged attack with a bow (minimum range 1). Any magic or ranged attack has obstructed aim if there’s an Enemy in the other start area. You do not have line of sight through the start areas to adjacent areas of the other scenario map.</p>
 <p><b>There’s a height difference shown on the top of the stairs on the scenario map. Is this affected by the height rules?</b> - No, because the top of the stairs has a single white line instead of a double white line, so Allies and Enemies can move as normal across that line.</p>
-<p><b>Can Heroes move into a breach area that doesn’t have a floating rock in it?</b> - Allies can’t use a movement point to move into a breach area without a floating rock, but they can spend a maneuver to do so.</p>
+<p><b>Can Heroes move/jump into a breach area that doesn’t have a floating rock in it?</b> - Allies can’t use a movement point or a jump to move into a breach area without a floating rock, but they can spend a full maneuver to move into an adjacent breach area (it's slow moving without the floating rock).</p>
+<p><b>I'm instructed to put card 6 Roglu in play. Where do I find this card?</b> It is the Roglu card in the Ally card deck.</p>
 </details>
 <br>
 
