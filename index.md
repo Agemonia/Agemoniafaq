@@ -4,7 +4,7 @@
 
 This is an unofficial FAQ created with a collection of questions gathered from BGG and the Agemonia Discord, with the majority of the answers coming directly from the game’s designers. 
 
-*Last Updated 2026-01-13*
+*Last Updated 2026-01-14*
 
 **For information about this FAQ, see <a href="#page_0">Section 0</a>**
 
@@ -41,9 +41,9 @@ My name is Dom and I've created this unofficial FAQ with a collection of questio
 This FAQ may contain spoilers. Spoiler tags have been added as best as possible to avoid spoilers. Please note that your in-browser Find function can also find words behind spoiler tags on this page.
 ### Agemonia Printings & Official Errata
 There are 3 printings of Agemonia (1st, 2nd, 3rd) and each has official errata (the later printings have less fixes).
-The official errata documents for all 3 printings can be found here: [Agemonia Resources](https://agemonia.com/resources/)
+The official errata documents for all 3 printings can be found here: [Agemonia Resources](https://agemonia.com/resources/).
 ### Additional Resources
-To ask additional questions check out the [BGG Forums](https://boardgamegeek.com/boardgame/270871/agemonia/forums/0) and the [Agemonia Discord](https://discord.com/invite/6QwMXYq). There's also lots of great stuff in the [BGG Files](https://boardgamegeek.com/boardgame/270871/agemonia/files)
+To ask additional questions check out the [BGG Forums](https://boardgamegeek.com/boardgame/270871/agemonia/forums/0) and the [Agemonia Discord](https://discord.com/invite/6QwMXYq). There's also lots of great stuff in the [BGG Files](https://boardgamegeek.com/boardgame/270871/agemonia/files).
 ### Special Thanks
 - Thank you to Max Wikström, Phil Pettifer and the rest of the Agemonia team for being so active and answering questions on BGG and Discord.
 - Huge thanks to Bill (dwarf74/dwarfSA) for his amazing [Frosthaven FAQ](https://cephalofairgames.github.io/frosthaven-faq) which inspired me to create this for Agemonia.
@@ -404,9 +404,9 @@ To ask additional questions check out the [BGG Forums](https://boardgamegeek.com
 
 <details>
 <summary><b>Scenario 13</b></summary>
-<p><b>Do the Mushroom areas block line of sight?</b> No, they don't block line of sight. The dotted outlines in this scenario are purely visual to show the outlines of the Mushroom areas and are to be considered as single white lines with no height difference. These Mushroom areas just have special rules on how the Heroes may enter them.</p>
-<p><b>Can you make ranged or magic attack through the Mushroom areas?</b> Yes, since they do not block line of sight, ranged and magic attacks can be made through the Mushroom areas (thematically imagine it as attacking underneath the mushroom tops).</p> 
-<p><b>Can Enemies make melee attacks into the Mushroom areas?</b> Yes. The scenario rules state that Enemies may not enter the Mushroom areas but they can still attack Heroes in adjacent Mushroom areas with a melee attack (magic and ranged attacks too).</p> 
+<p><b>Do the mushroom areas block line of sight?</b> No, they don't block line of sight. The dotted outlines in this scenario are purely visual to show the outlines of the mushroom areas and are to be considered as single white lines with no height difference. These mushroom areas just have special rules on how the Heroes may enter them.</p>
+<p><b>Can you make ranged or magic attack through the mushroom areas?</b> Yes, since they do not block line of sight, ranged and magic attacks can be made through the mushroom areas (thematically imagine it as attacking underneath the mushroom tops).</p> 
+<p><b>Can Enemies make melee attacks into the mushroom areas?</b> Yes. The scenario rules state that Enemies may not enter the mushroom areas but they can still attack Heroes in adjacent mushroom areas with a melee attack (magic and ranged attacks too).</p> 
 <p><b>Story card H: The 2nd condition states that if there is no Teleporter token in this area, it adds an inactive Teleporter token. Does this inactive token then flip to its active side on the next turn due to the first condition on the card?</b> - No, upon flipping the card, only one of the first two conditions would trigger once (either with or without a Teleporter token). After that only the bottom range 0 ‘Use the Teleporter’ is available (hint: you’ll need to activate the Teleporter in some other way).</p>
 </details>
 <br>
