@@ -404,6 +404,9 @@ To ask additional questions check out the [BGG Forums](https://boardgamegeek.com
 
 <details>
 <summary><b>Scenario 13</b></summary>
+<p><b>Do the Mushroom areas block line of sight?</b> No, they don't block line of sight. The dotted outlines in this scenario are purely visual to show the outlines of the Mushroom areas and are to be considered as single white lines with no height difference. These Mushroom areas just have special rules on how the Heroes may enter them.</p>
+<p><b>Can you make ranged or magic attack through the Mushroom areas?</b> Yes, since they do not block line of sight, ranged and magic attacks can be made through the Mushroom areas (thematically imagine it as attacking underneath the mushroom tops).</p> 
+<p><b>Can Enemies make melee attacks into the Mushroom areas?</b> Yes. The scenario rules state that Enemies may not enter the Mushroom areas but they can still attack Heroes in adjacent Mushroom areas with a melee attack (magic and ranged attacks too).</p> 
 <p><b>Story card H: The 2nd condition states that if there is no Teleporter token in this area, it adds an inactive Teleporter token. Does this inactive token then flip to its active side on the next turn due to the first condition on the card?</b> - No, upon flipping the card, only one of the first two conditions would trigger once (either with or without a Teleporter token). After that only the bottom range 0 ‘Use the Teleporter’ is available (hint: you’ll need to activate the Teleporter in some other way).</p>
 </details>
 <br>
@@ -579,7 +582,7 @@ Initiative card is revealed, you may spend 1 stamina to change your Initiative t
 
 **Item card 125/126** <span class="hidden">**Urskull: Can this be used with an area attack (ex: item card 062 Flame Arrow)?** Yes, and you drain/heal from all enemies that take damage.</span>
 
-### <a name="page_11.3" class="page-number">11.3</a> Jonai
+### <a name="page_10.3" class="page-number">10.3</a> Jonai
 
 **Defender of Mion (lvl 1): When does the +1 shield apply?** The +1 shield only applies once you use the action on your turn until the end of the round (it does not provide a bonus before your turn like the Focus action).
 
