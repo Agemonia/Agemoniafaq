@@ -247,7 +247,7 @@ To ask additional questions check out the [BGG Forums](https://boardgamegeek.com
 
 **Item card 058** <span class="hidden">**Rune of the Moons: Can you decide not to roll before using this to maximize the revenge damage?** No, you still need to roll.</span>
 
-**Item card 062** <span class="hidden">**Flame Arrow + item card 068 Void Extract: Does this combo work to defeat all non-elite enemies in the same area?** Yes, you may use 1 poison and 1 arrow for an attack (if your weapon allows it).</span>
+**Item card 062** <span class="hidden">**Flame Arrow + item card 068 Void Extract: Does this combo work to defeat all non-elite Enemies in the same area?** Yes, you may use 1 poison and 1 arrow for an attack (if your weapon allows it).</span>
 
 **Item card 064** <span class="hidden">**Heartseeker Arrow: Can this be used to kill a non-elite Enemy with unlimited health?** No.</span>
 
@@ -261,7 +261,7 @@ To ask additional questions check out the [BGG Forums](https://boardgamegeek.com
 
 **Item card 068** <span class="hidden">**Void Extract: If a Hero uses this to defeat an Enemy with Revenge, do they take only the reflected damage from the attack roll or the full remaining health of the Enemy?** Only the damage from the attack roll.</span>
 
-**Item card 068** <span class="hidden">**Void Extract + Cleave attack: Does this defeated all non-elite Enemies targeted by the attack?** Yes.</span>
+**Item card 068** <span class="hidden">**Void Extract + Cleave attack: Does this defeated all non-elite Enemies targeted by the Cleave attack?** Yes.</span>
 
 **Item card 080** <span class="hidden">**Quothian Dirk: Is this considered a dagger for Venia’s Shadow Stalker skill?** Yes, see Shadow Stalker description in the rulebook.</span>
 
@@ -281,7 +281,7 @@ To ask additional questions check out the [BGG Forums](https://boardgamegeek.com
 
 **Item card 146** <span class="hidden">**Rakka's Wand: When do you roll the blue die to see if you keep the discarded poison?** You can roll immediately after discarding the poison during your attack (which happens as you declare you attack), or wait till until after you have rolled for damage and finished the attack. The timing doesn't matter so much as long as it's after making the decision to discard the poison for the attack.</span>
 
-**Item card 146** <span class="hidden">**Rakka's Wand**</span> **+ Item card 068** <span class="hidden">**Void Extract: If used to perform an Area Magic attack can this combo used to defeated multiple non-Elite Enemies?** Yes.</span>
+**Item card 146** <span class="hidden">**Rakka's Wand**</span> **+ Item card 068** <span class="hidden">**Void Extract: If used to perform an Area Magic attack can this combo used to defeat multiple non-Elite Enemies?** Yes.</span>
 
 **Item card 149** <span class="hidden">**Goblet of Thaxo: The card ability does not match the description in the rulebook. Which is correct?** The card is correct. The updated description should be “Once per City step, you may discard any one Essence token to gain any one Essence token. (see errata)</span>
 
