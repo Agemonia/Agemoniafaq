@@ -411,7 +411,7 @@ To ask additional questions check out the [BGG Forums](https://boardgamegeek.com
 <p><b>In the scenario outcomes, do you only get the reward for crates that are on the wagon, or also ones that you are carrying?</b> - Only the crates on the wagon count.</p>
 <p><b>Story card A: Can you place the Barrels of Tentacles on the wagon?</b> - No, the wagon is only for crates (square tokens).</p>
 <p><b>What counts as a stolen Barrel of Tentacles (circle tokens)?</b> - A barrel counts as stolen if a Hero is carrying the barrel at the end of the scenario.</p>
-<p><b>Story card X: It looks like you can use the elevator to move DOWN both items and players but only use it to move items UP (as you have to be outside to activate the lever on the ground floor). Is this intended?</b> -  Yes.</p>
+<p><b>Story card X: It looks like you can use the elevator to move both items and players DOWN but only use it to move items UP (as you have to be outside to activate the lever on the ground floor). Is this intended?</b> -  Yes.</p>
 </details>
 <br>
 
