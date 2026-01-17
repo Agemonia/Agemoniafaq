@@ -273,6 +273,8 @@ To ask additional questions check out the [BGG Forums](https://boardgamegeek.com
 
 **Item card 081** <span class="hidden">**Tear of Eti: Can you use the first initiative ability with non-attack actions? For example, my Venia character has Shadow Form. Could I spend 3 stamina, go first, Shadow Form, and therefore avoid being the target of enemies?** Yes.</span>
 
+**Item card 081** <span class="hidden">**Tear of Eti: When exactly do I make the choice to spend the 3 stamina to change my Iniative?** You may spend the 3 stamina at the start of Ally and Enemy Turns phase, which happens right after the Iniative card has been revealed, but before players or Enemies have taken turns. Reminder: If you choose to change your initiave to First, you will not benefit from any bonus maneuver symbols on this round's Initiative card. </span>
+
 **Item card 089** <span class="hidden">**Wyldkin Wand: If you’re already Cursed before attacking, do you gain Cursed again from the Wand?** Yes, the Cursed condition first gets discarded, then gets reapplied from the Wand.</span>
 
 **Item card 090** <span class="hidden">**Elakira’s Sliver: The description on the item card doesn’t match the description in the rulebook. Which is correct?** The card is correct. Both level 1 and level 2 magic attacks cost 1 fewer stamina (see errata).</span>
