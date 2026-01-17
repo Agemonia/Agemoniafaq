@@ -187,6 +187,8 @@ To ask additional questions check out the [BGG Forums](https://boardgamegeek.com
 
 **If a Hero Book City Activity says that other heroes may join, does it require a City Activity point/token from each hero?** Yes.
 
+**Night at the Guivren (Level 2+): This Service at the Ravenous Guivren appears in the app but not in the Campaign book?** Night at the Guivren is a small physical expansion add-on that adds some more options at the Ravenous Guivren. You can still use the service even if you don't have the physical components, all you need is to print this one item card for it: [The Snake Card](https://boardgamegeek.com/filepage/302499/night-at-the-guivren-the-snake-card).
+
 **Level 3/4/5 Location H:** <span class="hidden">**Can you disenchant illegal rare items?** Yes, they're quite happy to rid Agemonia of such things.</span>
 
 **Level 3/4/5 Location L:** <span class="hidden">**Is the ‘Service: The Archive Vault’ supposed to be a solo or group activity?** The whole group may participate.</span>
