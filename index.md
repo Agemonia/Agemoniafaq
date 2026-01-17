@@ -102,7 +102,9 @@ To ask additional questions check out the [BGG Forums](https://boardgamegeek.com
 - D. Moves from range 0 to range 1, takes damage
 - E. Moves from range 1 to range 2, takes damage
 
-**Will enemies avoid traps with their movement (for example to get into attack range)?** No, enemies will not try to avoid traps with their movement.
+**When an Enemy dies from provoke, does it die on the area where the provoke was cause, or does it die in the area where it was moving to? Ex: An Enemy leaves an area where a character/pet has provoke.** The Enemy will die in the area it moves into. 
+
+**Will Enemies avoid traps with their movement (for example to get into attack range)?** No, enemies will not try to avoid traps with their movement.
 
 **If a story card required a maneuver to flip, can I spend the remainder of my current move maneuver to do so?** No, you have to spend an entire maneuver.  
 
@@ -409,6 +411,7 @@ To ask additional questions check out the [BGG Forums](https://boardgamegeek.com
 <p><b>In the scenario outcomes, do you only get the reward for crates that are on the wagon, or also ones that you are carrying?</b> - Only the crates on the wagon count.</p>
 <p><b>Story card A: Can you place the Barrels of Tentacles on the wagon?</b> - No, the wagon is only for crates (square tokens).</p>
 <p><b>What counts as a stolen Barrel of Tentacles (circle tokens)?</b> - A barrel counts as stolen if a Hero is carrying the barrel at the end of the scenario.</p>
+<p><b>Story card X: It looks like you can use the elevator to move DOWN both items and players but only use it to move items UP (as you have to be outside to activate the lever on the ground floor). Is this intended?</b> -  Yes.</p>
 </details>
 <br>
 
@@ -677,6 +680,8 @@ Initiative card is revealed, you may spend 1 stamina to change your Initiative t
 **Guardian of Light (lvl 3):** <span class="hidden">**Does this add +1 heal to items, item tokens, and weapon gems that Lunara uses?** Yes, this passive ability affects any healing ability that Lunara uses, so even item cards like 032 Healing Potion and 044 Scroll of Healing get the +1 heal bonus.</span>
 
 **Redemption (Paladin skill):** <span class="hidden">**Does this add +1 range and +1 success to Lunara’s Boon of Aiun?** Yes (added in errata).</span>
+
+**Character specific item when reaching level 4:** <span class="hidden">**The other characters all receive a new character specific item upon hitting level 4, but it seems Lunara does not. Why not?** Have patience, Lunara will unlock hers during level 4.</span>
 
 ### <a name="page_10.8" class="page-number">10.8</a> Garuk
 
