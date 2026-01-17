@@ -15,6 +15,8 @@ This is an unofficial FAQ created with a collection of questions gathered from B
 1. <a href="#page_5">City Step</a>
 1. <a href="#page_6">Pets</a>
 1. <a href="#page_7">Item Cards</a>
+   1. <a href="#page_7.1">Items (General)</a>
+   1. <a href="#page_7.2">Items (Specific)</a>
 1. <a href="#page_8">Henchman & Non-Hero Allies</a>
 1. <a href="#page_9">Scenarios</a>
    1. <a href="#page_9.1">Scenarios (General)</a>
@@ -217,6 +219,8 @@ To ask additional questions check out the [BGG Forums](https://boardgamegeek.com
 
 ## <a name="page_7" class="page-number">7.0</a> Item Cards:
 
+## <a name="page_7.1" class="page-number">7.1</a> Items (General):
+
 **When can a Hero use item cards or item tokens?** At any time on their turn, except in the middle of an active/reactive check or attack unless they specify otherwise (i.e. You can’t use a Blightcap token in the middle of a test for extra stamina to spend). While it is not your Hero’s turn, the only items that can be used are items that involve a blue reactive check (ex: armor or helmets).
 
 **Can you use an item card or item token during a move maneuver? For example, doing a move maneuver of 2 to move 1, then use a potion or token, then move 1 again.** Yes, as long as the item doesn’t cost a maneuver (you can’t spend a partially used move maneuver).
@@ -244,6 +248,8 @@ To ask additional questions check out the [BGG Forums](https://boardgamegeek.com
 **What is a ‘rare’ item?** The back of a rare Item card is highlighted with glinting stars, and planets, and the illustration on the front has a violet background.
 
 **Can Heroes put down a backpack item containing other items and use telekinesis to move the backpack and all its contents?** Yes.
+
+## <a name="page_7.2" class="page-number">7.2</a> Items (Specific):
 
 **Item card 058** <span class="hidden">**Rune of the Moons: Can you decide not to roll before using this to maximize the revenge damage?** No, you still need to roll.</span>
 
@@ -278,6 +284,8 @@ To ask additional questions check out the [BGG Forums](https://boardgamegeek.com
 **Item card 112** <span class="hidden">**Lucky Coin: Can this be used on another player's roll?** No, the effect can only be used for the Hero who is carrying the item.</span>
 
 **Item card 143** <span class="hidden">**Wyldkin Band: Does the roll bonus effect work in city/world events, where stamina is not spent for the successes? Or is this bonus only applied on rolls where you have the option to actually spend the stamina?** Only when actually spending stamina.</span>
+
+**Item card 143** <span class="hidden">**Wyldkin Band: How does this work with the Enfeebled injury?** The Enfeebled injury overrules the item. You may only spend 0 or 1 stamina on each [special symbol]. </span>
 
 **Item card 146** <span class="hidden">**Rakka's Wand: When do you roll the blue die to see if you keep the discarded poison?** You can roll immediately after discarding the poison during your attack (which happens as you declare you attack), or wait till until after you have rolled for damage and finished the attack. The timing doesn't matter so much as long as it's after making the decision to discard the poison for the attack.</span>
 
