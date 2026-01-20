@@ -32,6 +32,7 @@ This is an unofficial FAQ created with a collection of questions gathered from B
    1. <a href="#page_10.8">Garuk</a>
    1. <a href="#page_10.9">Xir</a>
 1. <a href="#page_11">Puzzle Book</a>
+1. <a href="#page_12">Crowdfunding campaign: Witches of Durgane & The Breach</a>
 
 <div class="divider"></div>
 
@@ -703,8 +704,13 @@ Initiative card is revealed, you may spend 1 stamina to change your Initiative t
 
 <div class="divider"></div>
 
-<br>
+##  <a name="page_12" class="page-number">12</a> Crowdfunding campaign: Witches of Durgane & The Breach
 
+**Will the base game be available for purchase during the upcoming campaign?** There hasn't been any official information about this but earlier campaigns have included the option to purhase the base game along with the small add-ons such as the metal coins, plastic chips, extra dice, and Talents&Rituals. One might also expect to find previous mini expansion New Heroes and potentially some errata fix packs from this campign. Although not confirmed these all are quite potentially possible purchases.
+
+<div class="divider"></div>
+
+<br>
 
 <script>
 	function reveal(obj) {
