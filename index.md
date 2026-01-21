@@ -706,7 +706,7 @@ Initiative card is revealed, you may spend 1 stamina to change your Initiative t
 
 ##  <a name="page_12" class="page-number">12</a> Crowdfunding campaign: Witches of Durgane & The Breach
 
-**Will the base game be available for purchase during the upcoming campaign?** There hasn't been any official information about this but earlier campaigns have included the option to purhase the base game along with the small add-ons such as the metal coins, plastic chips, extra dice, and Talents&Rituals. One might also expect to find previous mini expansion New Heroes and potentially some errata fix packs from this campign. Although not confirmed these all are quite potentially possible purchases.
+**Will the base game be available for purchase during the upcoming campaign?** There hasn't been any official information about this yet, but earlier campaigns have included the option to purchase the base game along with small add-ons, such as metal coins, plastic chips, extra dice, and Talents & Rituals. We also expect to see the previous mini-expansion New Heroes, and potentially some errata fix packs. Although unconfirmed, these are all likely candidates.
 
 <div class="divider"></div>
 
