@@ -489,6 +489,7 @@ To ask additional questions check out the [BGG Forums](https://boardgamegeek.com
 <summary><b>Scenario 20</b></summary>
 <p><b>Storycard J: Entry 678 – Who gets the circle token?</b> - Whichever Hero places the final triangle token.</p>
 <p><b>Can pets traverse between Storypoints C?</b> No, you must carry your pets from C to C. </p>
+<p><b>Chthonian Tablets: Some storycards and storybook entries (678) have different symbols. Are the tablets supposed to be X tokens or ◉ Tokens? </b> Chthonian tablets were originally ◉ tokens in the 1st printing, but were changed to X tokens in the 2nd Printing (entry 678 has errata for 2nd Printing). For either printing, simply treat all mentions of Chtonian tablets as being the same token.</p>
 </details>
 <br>
 
