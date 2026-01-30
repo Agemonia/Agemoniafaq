@@ -14,7 +14,7 @@ This is an unofficial FAQ created with a collection of questions gathered from B
 1. <a href="#page_4">Talents & Rituals (add-on card pack)</a>
 1. <a href="#page_5">City Step</a>
 1. <a href="#page_6">Pets</a>
-1. <a href="#page_7">Item Cards</a>c
+1. <a href="#page_7">Item Cards</a>
    1. <a href="#page_7.1">Items (General)</a>
    1. <a href="#page_7.2">Items (Specific)</a>
 1. <a href="#page_8">Henchman & Non-Hero Allies</a>
