@@ -488,6 +488,7 @@ To ask additional questions check out the [BGG Forums](https://boardgamegeek.com
 <details>
 <summary><b>Scenario 20</b></summary>
 <p><b>Storycard J: Entry 678 – Who gets the circle token?</b> - Whichever Hero places the final triangle token.</p>
+<p><b>Can pets traverse between Storypoints C?</b> No, you must carry your pets from C to C. </p>
 </details>
 <br>
 
