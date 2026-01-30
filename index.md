@@ -491,7 +491,7 @@ To ask additional questions check out the [BGG Forums](https://boardgamegeek.com
 
 <details>
 <summary><b>Scenario 21</b></summary>
-<p><b>Storycard C: <span class="hidden">Do you gain the Cursed condition in addition to writing "Cursed Coin" your Hero Journal? If so, does the condition wear off after a turn or does it last for the whole scenario?</span></b> <span class="hidden">You gain the Cursed condition in addition to the journal entry, and the condition lasts the whole scenario.</span></p>
+<p><b>Storycard C: <span class="hidden">Do you gain the Cursed condition in addition to writing "Cursed Coin" your Hero Journal? If so, does the condition wear off after you perform an attack or does it last for the whole scenario?</span></b> <span class="hidden">You gain the Cursed condition in addition to the journal entry, and the condition lasts the whole scenario.</span></p>
 <p><b>Does the Lumin Demon Special Movement rules override the normal Enemy movement rules for always moving as far toward an area it can attack from? Ex: A Lumin Demon is blocked from entering an area with a Cultist due to maximum capacity and terrain. Does the Demon try to move around the long way (as per normal rules) or would the Demon always move closer to the nearest Cultist, sometime resulting in no movement?</b> Yes, the Lumin Demon Special Movement rules override the normal Enemy movement rules. The Lumin Demons will always move as far as they can towards the nearest Cultist (which may result in no movement at all in some cases).</p>
 </details>
 <br>
