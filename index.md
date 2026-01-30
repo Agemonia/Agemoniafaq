@@ -505,6 +505,7 @@ To ask additional questions check out the [BGG Forums](https://boardgamegeek.com
 <p><b>Does a Hero with Item card 145 <span class="hidden">Shadow Goggles</span> or the Sniper or Spell Sniper skill ignore the obstructed aim restrictions from the barricades?</b> - Yes.</p>
 <p><b>Can Pet figures move through Intact Barricades?</b> - Yes, pets can get through the small gaps.</p>
 <p><b>If an Enemy attacks an Intact Barricade, how much damage does it take?</b> - Treat the barricades as having 0 for each stat (strength, agility, will), so it takes the full amount of damage shown on the Enemy’s attack.</p>
+<p><b>Scenario 24 only: Storycard F reveals Storycard 'Circle' which reveals a map overlay to a secret entrance near Storypoint L. However it also implies that the door at F opens but there is no overlay card to signify this. Should the door at F be open?</b> Yes, the door at F is now open and you may treat it as a single white line between the two areas.</p>	
 </details>
 <br>
 
