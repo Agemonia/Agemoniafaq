@@ -14,7 +14,7 @@ This is an unofficial FAQ created with a collection of questions gathered from B
 1. <a href="#page_4">Talents & Rituals (add-on card pack)</a>
 1. <a href="#page_5">City Step</a>
 1. <a href="#page_6">Pets</a>
-1. <a href="#page_7">Item Cards</a>
+1. <a href="#page_7">Item Cards</a>c
    1. <a href="#page_7.1">Items (General)</a>
    1. <a href="#page_7.2">Items (Specific)</a>
 1. <a href="#page_8">Henchman & Non-Hero Allies</a>
@@ -505,7 +505,7 @@ To ask additional questions check out the [BGG Forums](https://boardgamegeek.com
 <p><b>Does a Hero with Item card 145 <span class="hidden">Shadow Goggles</span> or the Sniper or Spell Sniper skill ignore the obstructed aim restrictions from the barricades?</b> - Yes.</p>
 <p><b>Can Pet figures move through Intact Barricades?</b> - Yes, pets can get through the small gaps.</p>
 <p><b>If an Enemy attacks an Intact Barricade, how much damage does it take?</b> - Treat the barricades as having 0 for each stat (strength, agility, will), so it takes the full amount of damage shown on the Enemy’s attack.</p>
-<p><b>Scenario 24 only: Storycard F reveals Storycard 'Circle' which reveals a map overlay to a secret entrance near Storypoint L. However it also implies that the door at F opens but there is no overlay card to signify this. Should the door at F be open?</b> Yes, the door at F is now open and you may treat it as a single white line between the two areas.</p>	
+<p><b>Scenario 24 only: Storycard F <span class="hidden">reveals Storycard 'Circle' which reveals a map overlay to a secret entrance near Storypoint L. However it also implies that the door at F opens but there is no overlay card to signify this. Should the door at F be open?</span></b> <span class="hidden">Yes, the door at F is now open and you may treat it as a single white line between the two areas.</span></p>
 </details>
 <br>
 
