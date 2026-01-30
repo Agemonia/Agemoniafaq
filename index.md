@@ -354,6 +354,7 @@ To ask additional questions check out the [BGG Forums](https://boardgamegeek.com
 
 <details>
 <summary><b>Scenario 3</b></summary>
+<p><b>Storycard H lowers you into Storypoint Z. Can you climb back up from Z to H? </b> No.</p>	
 <p><b>If Storycard Z is flipped to its overlay side, which removes Story Point Z from the map, can a Hero still use Storycard H to drop down to Story Point Z (which no longer exists)?</b> - <span class="hidden"> Probably? Confirm?.</span></p>
 </details>
 <br>
