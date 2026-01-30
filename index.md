@@ -4,7 +4,7 @@
 
 This is an unofficial FAQ created with a collection of questions gathered from BGG and the Agemonia Discord, with the majority of the answers coming directly from the game’s designers. 
 
-*Last Updated 2026-01-14*
+*Last Updated 2026-01-30*
 
 **For information about this FAQ, see <a href="#page_0">Section 0</a>**
 
@@ -486,6 +486,12 @@ To ask additional questions check out the [BGG Forums](https://boardgamegeek.com
 <details>
 <summary><b>Scenario 20</b></summary>
 <p><b>Storycard J: Entry 678 – Who gets the circle token?</b> - Whichever Hero places the final triangle token.</p>
+</details>
+<br>
+
+<details>
+<summary><b>Scenario 21</b></summary>
+<p><b>Storycard C: <span class="hidden">Do you gain the Cursed condition in addition to writing "Cursed Coin" your Hero Journal? If so, does the condition wear off after a turn or does it last for the whole scenario?</b> You gain the Cursed condition in addition to the journal entry, and the condition lasts the whole scenario.</span></p>
 </details>
 <br>
 
