@@ -161,6 +161,8 @@ To ask additional questions check out the [BGG Forums](https://boardgamegeek.com
 
 **During a City step, can a Hero with Toxicology take another Hero’s pet card 068 <span class="hidden">Nazag</span> to then craft item card 067 <span class="hidden">Nazag Venom</span> and also train it, then give <span class="hidden">Nazag</span> back to another player?** Yes. Items, including pets, can be traded during City steps.
 
+**Becoming Wounded: When you become wounded, you are instructed to flip your Vitality disk to the red wounded side and return the number of Stamina chips shown (a lower amount than blue unwounded side). Where do the extra Stamina chips go? Are they removed and set aside or are they still in circulation above your Vitality board?** When becoming wounded, flip your Vitality disk and return the number of Stamina chips shown, and set aside an remaining chips (these are not longer in circulation while wounded). Ex: Your Hero has 9 Vitality (unwounded side), meaning you have 9 Stamina chips in circulation. If that Hero becomes wounded and has 5 Vitality (wounded side), then you only have 5 Stamina chips in circulation (the other 4 chips are removed and set aside).
+
 <div class="divider"></div>
 
 ## <a name="page_4" class="page-number">4.0</a> Talents & Rituals (add-on card pack):
